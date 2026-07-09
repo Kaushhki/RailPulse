@@ -1,0 +1,2881 @@
+date,route,time_slot,day_of_week,month,is_weekend,is_monsoon,delay_minutes
+2025-10-10,Churchgate-Virar,Morning Peak (7-10am),Friday,10,0,0,11
+2025-10-10,Churchgate-Virar,Afternoon (12-3pm),Friday,10,0,0,3
+2025-10-10,Churchgate-Virar,Evening Peak (5-8pm),Friday,10,0,0,19
+2025-10-10,Churchgate-Virar,Night (9pm-12am),Friday,10,0,0,7
+2025-10-10,CSMT-Kalyan,Morning Peak (7-10am),Friday,10,0,0,11
+2025-10-10,CSMT-Kalyan,Afternoon (12-3pm),Friday,10,0,0,9
+2025-10-10,CSMT-Kalyan,Evening Peak (5-8pm),Friday,10,0,0,23
+2025-10-10,CSMT-Kalyan,Night (9pm-12am),Friday,10,0,0,6
+2025-10-10,Panvel-CSMT,Morning Peak (7-10am),Friday,10,0,0,15
+2025-10-10,Panvel-CSMT,Afternoon (12-3pm),Friday,10,0,0,7
+2025-10-10,Panvel-CSMT,Evening Peak (5-8pm),Friday,10,0,0,8
+2025-10-10,Panvel-CSMT,Night (9pm-12am),Friday,10,0,0,7
+2025-10-10,Harbour Line,Morning Peak (7-10am),Friday,10,0,0,7
+2025-10-10,Harbour Line,Afternoon (12-3pm),Friday,10,0,0,5
+2025-10-10,Harbour Line,Evening Peak (5-8pm),Friday,10,0,0,6
+2025-10-10,Harbour Line,Night (9pm-12am),Friday,10,0,0,7
+2025-10-11,Churchgate-Virar,Morning Peak (7-10am),Saturday,10,1,0,11
+2025-10-11,Churchgate-Virar,Afternoon (12-3pm),Saturday,10,1,0,0
+2025-10-11,Churchgate-Virar,Evening Peak (5-8pm),Saturday,10,1,0,1
+2025-10-11,Churchgate-Virar,Night (9pm-12am),Saturday,10,1,0,0
+2025-10-11,CSMT-Kalyan,Morning Peak (7-10am),Saturday,10,1,0,0
+2025-10-11,CSMT-Kalyan,Afternoon (12-3pm),Saturday,10,1,0,4
+2025-10-11,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,10,1,0,11
+2025-10-11,CSMT-Kalyan,Night (9pm-12am),Saturday,10,1,0,3
+2025-10-11,Panvel-CSMT,Morning Peak (7-10am),Saturday,10,1,0,16
+2025-10-11,Panvel-CSMT,Afternoon (12-3pm),Saturday,10,1,0,4
+2025-10-11,Panvel-CSMT,Evening Peak (5-8pm),Saturday,10,1,0,15
+2025-10-11,Panvel-CSMT,Night (9pm-12am),Saturday,10,1,0,0
+2025-10-11,Harbour Line,Morning Peak (7-10am),Saturday,10,1,0,11
+2025-10-11,Harbour Line,Afternoon (12-3pm),Saturday,10,1,0,1
+2025-10-11,Harbour Line,Evening Peak (5-8pm),Saturday,10,1,0,19
+2025-10-11,Harbour Line,Night (9pm-12am),Saturday,10,1,0,3
+2025-10-12,Churchgate-Virar,Morning Peak (7-10am),Sunday,10,1,0,2
+2025-10-12,Churchgate-Virar,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-12,Churchgate-Virar,Evening Peak (5-8pm),Sunday,10,1,0,18
+2025-10-12,Churchgate-Virar,Night (9pm-12am),Sunday,10,1,0,1
+2025-10-12,CSMT-Kalyan,Morning Peak (7-10am),Sunday,10,1,0,8
+2025-10-12,CSMT-Kalyan,Afternoon (12-3pm),Sunday,10,1,0,1
+2025-10-12,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,10,1,0,17
+2025-10-12,CSMT-Kalyan,Night (9pm-12am),Sunday,10,1,0,0
+2025-10-12,Panvel-CSMT,Morning Peak (7-10am),Sunday,10,1,0,13
+2025-10-12,Panvel-CSMT,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-12,Panvel-CSMT,Evening Peak (5-8pm),Sunday,10,1,0,8
+2025-10-12,Panvel-CSMT,Night (9pm-12am),Sunday,10,1,0,4
+2025-10-12,Harbour Line,Morning Peak (7-10am),Sunday,10,1,0,1
+2025-10-12,Harbour Line,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-12,Harbour Line,Evening Peak (5-8pm),Sunday,10,1,0,14
+2025-10-12,Harbour Line,Night (9pm-12am),Sunday,10,1,0,1
+2025-10-13,Churchgate-Virar,Morning Peak (7-10am),Monday,10,0,0,16
+2025-10-13,Churchgate-Virar,Afternoon (12-3pm),Monday,10,0,0,7
+2025-10-13,Churchgate-Virar,Evening Peak (5-8pm),Monday,10,0,0,19
+2025-10-13,Churchgate-Virar,Night (9pm-12am),Monday,10,0,0,2
+2025-10-13,CSMT-Kalyan,Morning Peak (7-10am),Monday,10,0,0,18
+2025-10-13,CSMT-Kalyan,Afternoon (12-3pm),Monday,10,0,0,0
+2025-10-13,CSMT-Kalyan,Evening Peak (5-8pm),Monday,10,0,0,8
+2025-10-13,CSMT-Kalyan,Night (9pm-12am),Monday,10,0,0,1
+2025-10-13,Panvel-CSMT,Morning Peak (7-10am),Monday,10,0,0,12
+2025-10-13,Panvel-CSMT,Afternoon (12-3pm),Monday,10,0,0,3
+2025-10-13,Panvel-CSMT,Evening Peak (5-8pm),Monday,10,0,0,6
+2025-10-13,Panvel-CSMT,Night (9pm-12am),Monday,10,0,0,5
+2025-10-13,Harbour Line,Morning Peak (7-10am),Monday,10,0,0,14
+2025-10-13,Harbour Line,Afternoon (12-3pm),Monday,10,0,0,3
+2025-10-13,Harbour Line,Evening Peak (5-8pm),Monday,10,0,0,22
+2025-10-13,Harbour Line,Night (9pm-12am),Monday,10,0,0,9
+2025-10-14,Churchgate-Virar,Morning Peak (7-10am),Tuesday,10,0,0,16
+2025-10-14,Churchgate-Virar,Afternoon (12-3pm),Tuesday,10,0,0,1
+2025-10-14,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,10,0,0,14
+2025-10-14,Churchgate-Virar,Night (9pm-12am),Tuesday,10,0,0,3
+2025-10-14,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,10,0,0,18
+2025-10-14,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,10,0,0,7
+2025-10-14,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,10,0,0,18
+2025-10-14,CSMT-Kalyan,Night (9pm-12am),Tuesday,10,0,0,6
+2025-10-14,Panvel-CSMT,Morning Peak (7-10am),Tuesday,10,0,0,12
+2025-10-14,Panvel-CSMT,Afternoon (12-3pm),Tuesday,10,0,0,4
+2025-10-14,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,10,0,0,20
+2025-10-14,Panvel-CSMT,Night (9pm-12am),Tuesday,10,0,0,1
+2025-10-14,Harbour Line,Morning Peak (7-10am),Tuesday,10,0,0,19
+2025-10-14,Harbour Line,Afternoon (12-3pm),Tuesday,10,0,0,4
+2025-10-14,Harbour Line,Evening Peak (5-8pm),Tuesday,10,0,0,17
+2025-10-14,Harbour Line,Night (9pm-12am),Tuesday,10,0,0,8
+2025-10-15,Churchgate-Virar,Morning Peak (7-10am),Wednesday,10,0,0,19
+2025-10-15,Churchgate-Virar,Afternoon (12-3pm),Wednesday,10,0,0,0
+2025-10-15,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,10,0,0,11
+2025-10-15,Churchgate-Virar,Night (9pm-12am),Wednesday,10,0,0,8
+2025-10-15,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,10,0,0,5
+2025-10-15,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,10,0,0,7
+2025-10-15,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,10,0,0,15
+2025-10-15,CSMT-Kalyan,Night (9pm-12am),Wednesday,10,0,0,2
+2025-10-15,Panvel-CSMT,Morning Peak (7-10am),Wednesday,10,0,0,21
+2025-10-15,Panvel-CSMT,Afternoon (12-3pm),Wednesday,10,0,0,7
+2025-10-15,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,10,0,0,7
+2025-10-15,Panvel-CSMT,Night (9pm-12am),Wednesday,10,0,0,2
+2025-10-15,Harbour Line,Morning Peak (7-10am),Wednesday,10,0,0,5
+2025-10-15,Harbour Line,Afternoon (12-3pm),Wednesday,10,0,0,4
+2025-10-15,Harbour Line,Evening Peak (5-8pm),Wednesday,10,0,0,14
+2025-10-15,Harbour Line,Night (9pm-12am),Wednesday,10,0,0,6
+2025-10-16,Churchgate-Virar,Morning Peak (7-10am),Thursday,10,0,0,13
+2025-10-16,Churchgate-Virar,Afternoon (12-3pm),Thursday,10,0,0,6
+2025-10-16,Churchgate-Virar,Evening Peak (5-8pm),Thursday,10,0,0,13
+2025-10-16,Churchgate-Virar,Night (9pm-12am),Thursday,10,0,0,7
+2025-10-16,CSMT-Kalyan,Morning Peak (7-10am),Thursday,10,0,0,16
+2025-10-16,CSMT-Kalyan,Afternoon (12-3pm),Thursday,10,0,0,1
+2025-10-16,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,10,0,0,5
+2025-10-16,CSMT-Kalyan,Night (9pm-12am),Thursday,10,0,0,6
+2025-10-16,Panvel-CSMT,Morning Peak (7-10am),Thursday,10,0,0,9
+2025-10-16,Panvel-CSMT,Afternoon (12-3pm),Thursday,10,0,0,2
+2025-10-16,Panvel-CSMT,Evening Peak (5-8pm),Thursday,10,0,0,16
+2025-10-16,Panvel-CSMT,Night (9pm-12am),Thursday,10,0,0,7
+2025-10-16,Harbour Line,Morning Peak (7-10am),Thursday,10,0,0,7
+2025-10-16,Harbour Line,Afternoon (12-3pm),Thursday,10,0,0,0
+2025-10-16,Harbour Line,Evening Peak (5-8pm),Thursday,10,0,0,7
+2025-10-16,Harbour Line,Night (9pm-12am),Thursday,10,0,0,4
+2025-10-17,Churchgate-Virar,Morning Peak (7-10am),Friday,10,0,0,19
+2025-10-17,Churchgate-Virar,Afternoon (12-3pm),Friday,10,0,0,2
+2025-10-17,Churchgate-Virar,Evening Peak (5-8pm),Friday,10,0,0,5
+2025-10-17,Churchgate-Virar,Night (9pm-12am),Friday,10,0,0,4
+2025-10-17,CSMT-Kalyan,Morning Peak (7-10am),Friday,10,0,0,18
+2025-10-17,CSMT-Kalyan,Afternoon (12-3pm),Friday,10,0,0,6
+2025-10-17,CSMT-Kalyan,Evening Peak (5-8pm),Friday,10,0,0,13
+2025-10-17,CSMT-Kalyan,Night (9pm-12am),Friday,10,0,0,9
+2025-10-17,Panvel-CSMT,Morning Peak (7-10am),Friday,10,0,0,14
+2025-10-17,Panvel-CSMT,Afternoon (12-3pm),Friday,10,0,0,2
+2025-10-17,Panvel-CSMT,Evening Peak (5-8pm),Friday,10,0,0,11
+2025-10-17,Panvel-CSMT,Night (9pm-12am),Friday,10,0,0,0
+2025-10-17,Harbour Line,Morning Peak (7-10am),Friday,10,0,0,24
+2025-10-17,Harbour Line,Afternoon (12-3pm),Friday,10,0,0,3
+2025-10-17,Harbour Line,Evening Peak (5-8pm),Friday,10,0,0,9
+2025-10-17,Harbour Line,Night (9pm-12am),Friday,10,0,0,6
+2025-10-18,Churchgate-Virar,Morning Peak (7-10am),Saturday,10,1,0,6
+2025-10-18,Churchgate-Virar,Afternoon (12-3pm),Saturday,10,1,0,0
+2025-10-18,Churchgate-Virar,Evening Peak (5-8pm),Saturday,10,1,0,12
+2025-10-18,Churchgate-Virar,Night (9pm-12am),Saturday,10,1,0,1
+2025-10-18,CSMT-Kalyan,Morning Peak (7-10am),Saturday,10,1,0,18
+2025-10-18,CSMT-Kalyan,Afternoon (12-3pm),Saturday,10,1,0,0
+2025-10-18,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,10,1,0,1
+2025-10-18,CSMT-Kalyan,Night (9pm-12am),Saturday,10,1,0,4
+2025-10-18,Panvel-CSMT,Morning Peak (7-10am),Saturday,10,1,0,12
+2025-10-18,Panvel-CSMT,Afternoon (12-3pm),Saturday,10,1,0,3
+2025-10-18,Panvel-CSMT,Evening Peak (5-8pm),Saturday,10,1,0,5
+2025-10-18,Panvel-CSMT,Night (9pm-12am),Saturday,10,1,0,0
+2025-10-18,Harbour Line,Morning Peak (7-10am),Saturday,10,1,0,10
+2025-10-18,Harbour Line,Afternoon (12-3pm),Saturday,10,1,0,4
+2025-10-18,Harbour Line,Evening Peak (5-8pm),Saturday,10,1,0,6
+2025-10-18,Harbour Line,Night (9pm-12am),Saturday,10,1,0,0
+2025-10-19,Churchgate-Virar,Morning Peak (7-10am),Sunday,10,1,0,0
+2025-10-19,Churchgate-Virar,Afternoon (12-3pm),Sunday,10,1,0,3
+2025-10-19,Churchgate-Virar,Evening Peak (5-8pm),Sunday,10,1,0,19
+2025-10-19,Churchgate-Virar,Night (9pm-12am),Sunday,10,1,0,3
+2025-10-19,CSMT-Kalyan,Morning Peak (7-10am),Sunday,10,1,0,2
+2025-10-19,CSMT-Kalyan,Afternoon (12-3pm),Sunday,10,1,0,1
+2025-10-19,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,10,1,0,5
+2025-10-19,CSMT-Kalyan,Night (9pm-12am),Sunday,10,1,0,2
+2025-10-19,Panvel-CSMT,Morning Peak (7-10am),Sunday,10,1,0,8
+2025-10-19,Panvel-CSMT,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-19,Panvel-CSMT,Evening Peak (5-8pm),Sunday,10,1,0,0
+2025-10-19,Panvel-CSMT,Night (9pm-12am),Sunday,10,1,0,0
+2025-10-19,Harbour Line,Morning Peak (7-10am),Sunday,10,1,0,9
+2025-10-19,Harbour Line,Afternoon (12-3pm),Sunday,10,1,0,2
+2025-10-19,Harbour Line,Evening Peak (5-8pm),Sunday,10,1,0,14
+2025-10-19,Harbour Line,Night (9pm-12am),Sunday,10,1,0,0
+2025-10-20,Churchgate-Virar,Morning Peak (7-10am),Monday,10,0,0,13
+2025-10-20,Churchgate-Virar,Afternoon (12-3pm),Monday,10,0,0,3
+2025-10-20,Churchgate-Virar,Evening Peak (5-8pm),Monday,10,0,0,21
+2025-10-20,Churchgate-Virar,Night (9pm-12am),Monday,10,0,0,0
+2025-10-20,CSMT-Kalyan,Morning Peak (7-10am),Monday,10,0,0,24
+2025-10-20,CSMT-Kalyan,Afternoon (12-3pm),Monday,10,0,0,6
+2025-10-20,CSMT-Kalyan,Evening Peak (5-8pm),Monday,10,0,0,6
+2025-10-20,CSMT-Kalyan,Night (9pm-12am),Monday,10,0,0,2
+2025-10-20,Panvel-CSMT,Morning Peak (7-10am),Monday,10,0,0,21
+2025-10-20,Panvel-CSMT,Afternoon (12-3pm),Monday,10,0,0,4
+2025-10-20,Panvel-CSMT,Evening Peak (5-8pm),Monday,10,0,0,21
+2025-10-20,Panvel-CSMT,Night (9pm-12am),Monday,10,0,0,7
+2025-10-20,Harbour Line,Morning Peak (7-10am),Monday,10,0,0,21
+2025-10-20,Harbour Line,Afternoon (12-3pm),Monday,10,0,0,0
+2025-10-20,Harbour Line,Evening Peak (5-8pm),Monday,10,0,0,6
+2025-10-20,Harbour Line,Night (9pm-12am),Monday,10,0,0,1
+2025-10-21,Churchgate-Virar,Morning Peak (7-10am),Tuesday,10,0,0,9
+2025-10-21,Churchgate-Virar,Afternoon (12-3pm),Tuesday,10,0,0,0
+2025-10-21,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,10,0,0,5
+2025-10-21,Churchgate-Virar,Night (9pm-12am),Tuesday,10,0,0,2
+2025-10-21,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,10,0,0,6
+2025-10-21,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,10,0,0,4
+2025-10-21,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,10,0,0,16
+2025-10-21,CSMT-Kalyan,Night (9pm-12am),Tuesday,10,0,0,9
+2025-10-21,Panvel-CSMT,Morning Peak (7-10am),Tuesday,10,0,0,10
+2025-10-21,Panvel-CSMT,Afternoon (12-3pm),Tuesday,10,0,0,6
+2025-10-21,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,10,0,0,8
+2025-10-21,Panvel-CSMT,Night (9pm-12am),Tuesday,10,0,0,6
+2025-10-21,Harbour Line,Morning Peak (7-10am),Tuesday,10,0,0,15
+2025-10-21,Harbour Line,Afternoon (12-3pm),Tuesday,10,0,0,7
+2025-10-21,Harbour Line,Evening Peak (5-8pm),Tuesday,10,0,0,21
+2025-10-21,Harbour Line,Night (9pm-12am),Tuesday,10,0,0,5
+2025-10-22,Churchgate-Virar,Morning Peak (7-10am),Wednesday,10,0,0,9
+2025-10-22,Churchgate-Virar,Afternoon (12-3pm),Wednesday,10,0,0,3
+2025-10-22,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,10,0,0,6
+2025-10-22,Churchgate-Virar,Night (9pm-12am),Wednesday,10,0,0,5
+2025-10-22,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,10,0,0,15
+2025-10-22,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,10,0,0,0
+2025-10-22,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,10,0,0,13
+2025-10-22,CSMT-Kalyan,Night (9pm-12am),Wednesday,10,0,0,5
+2025-10-22,Panvel-CSMT,Morning Peak (7-10am),Wednesday,10,0,0,20
+2025-10-22,Panvel-CSMT,Afternoon (12-3pm),Wednesday,10,0,0,2
+2025-10-22,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,10,0,0,24
+2025-10-22,Panvel-CSMT,Night (9pm-12am),Wednesday,10,0,0,3
+2025-10-22,Harbour Line,Morning Peak (7-10am),Wednesday,10,0,0,23
+2025-10-22,Harbour Line,Afternoon (12-3pm),Wednesday,10,0,0,9
+2025-10-22,Harbour Line,Evening Peak (5-8pm),Wednesday,10,0,0,7
+2025-10-22,Harbour Line,Night (9pm-12am),Wednesday,10,0,0,2
+2025-10-23,Churchgate-Virar,Morning Peak (7-10am),Thursday,10,0,0,24
+2025-10-23,Churchgate-Virar,Afternoon (12-3pm),Thursday,10,0,0,6
+2025-10-23,Churchgate-Virar,Evening Peak (5-8pm),Thursday,10,0,0,24
+2025-10-23,Churchgate-Virar,Night (9pm-12am),Thursday,10,0,0,8
+2025-10-23,CSMT-Kalyan,Morning Peak (7-10am),Thursday,10,0,0,5
+2025-10-23,CSMT-Kalyan,Afternoon (12-3pm),Thursday,10,0,0,7
+2025-10-23,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,10,0,0,11
+2025-10-23,CSMT-Kalyan,Night (9pm-12am),Thursday,10,0,0,1
+2025-10-23,Panvel-CSMT,Morning Peak (7-10am),Thursday,10,0,0,12
+2025-10-23,Panvel-CSMT,Afternoon (12-3pm),Thursday,10,0,0,0
+2025-10-23,Panvel-CSMT,Evening Peak (5-8pm),Thursday,10,0,0,15
+2025-10-23,Panvel-CSMT,Night (9pm-12am),Thursday,10,0,0,8
+2025-10-23,Harbour Line,Morning Peak (7-10am),Thursday,10,0,0,22
+2025-10-23,Harbour Line,Afternoon (12-3pm),Thursday,10,0,0,6
+2025-10-23,Harbour Line,Evening Peak (5-8pm),Thursday,10,0,0,14
+2025-10-23,Harbour Line,Night (9pm-12am),Thursday,10,0,0,2
+2025-10-24,Churchgate-Virar,Morning Peak (7-10am),Friday,10,0,0,11
+2025-10-24,Churchgate-Virar,Afternoon (12-3pm),Friday,10,0,0,9
+2025-10-24,Churchgate-Virar,Evening Peak (5-8pm),Friday,10,0,0,20
+2025-10-24,Churchgate-Virar,Night (9pm-12am),Friday,10,0,0,8
+2025-10-24,CSMT-Kalyan,Morning Peak (7-10am),Friday,10,0,0,24
+2025-10-24,CSMT-Kalyan,Afternoon (12-3pm),Friday,10,0,0,0
+2025-10-24,CSMT-Kalyan,Evening Peak (5-8pm),Friday,10,0,0,6
+2025-10-24,CSMT-Kalyan,Night (9pm-12am),Friday,10,0,0,0
+2025-10-24,Panvel-CSMT,Morning Peak (7-10am),Friday,10,0,0,20
+2025-10-24,Panvel-CSMT,Afternoon (12-3pm),Friday,10,0,0,4
+2025-10-24,Panvel-CSMT,Evening Peak (5-8pm),Friday,10,0,0,9
+2025-10-24,Panvel-CSMT,Night (9pm-12am),Friday,10,0,0,6
+2025-10-24,Harbour Line,Morning Peak (7-10am),Friday,10,0,0,13
+2025-10-24,Harbour Line,Afternoon (12-3pm),Friday,10,0,0,8
+2025-10-24,Harbour Line,Evening Peak (5-8pm),Friday,10,0,0,7
+2025-10-24,Harbour Line,Night (9pm-12am),Friday,10,0,0,2
+2025-10-25,Churchgate-Virar,Morning Peak (7-10am),Saturday,10,1,0,15
+2025-10-25,Churchgate-Virar,Afternoon (12-3pm),Saturday,10,1,0,0
+2025-10-25,Churchgate-Virar,Evening Peak (5-8pm),Saturday,10,1,0,19
+2025-10-25,Churchgate-Virar,Night (9pm-12am),Saturday,10,1,0,2
+2025-10-25,CSMT-Kalyan,Morning Peak (7-10am),Saturday,10,1,0,0
+2025-10-25,CSMT-Kalyan,Afternoon (12-3pm),Saturday,10,1,0,2
+2025-10-25,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,10,1,0,19
+2025-10-25,CSMT-Kalyan,Night (9pm-12am),Saturday,10,1,0,0
+2025-10-25,Panvel-CSMT,Morning Peak (7-10am),Saturday,10,1,0,7
+2025-10-25,Panvel-CSMT,Afternoon (12-3pm),Saturday,10,1,0,0
+2025-10-25,Panvel-CSMT,Evening Peak (5-8pm),Saturday,10,1,0,5
+2025-10-25,Panvel-CSMT,Night (9pm-12am),Saturday,10,1,0,2
+2025-10-25,Harbour Line,Morning Peak (7-10am),Saturday,10,1,0,19
+2025-10-25,Harbour Line,Afternoon (12-3pm),Saturday,10,1,0,0
+2025-10-25,Harbour Line,Evening Peak (5-8pm),Saturday,10,1,0,15
+2025-10-25,Harbour Line,Night (9pm-12am),Saturday,10,1,0,3
+2025-10-26,Churchgate-Virar,Morning Peak (7-10am),Sunday,10,1,0,2
+2025-10-26,Churchgate-Virar,Afternoon (12-3pm),Sunday,10,1,0,3
+2025-10-26,Churchgate-Virar,Evening Peak (5-8pm),Sunday,10,1,0,17
+2025-10-26,Churchgate-Virar,Night (9pm-12am),Sunday,10,1,0,0
+2025-10-26,CSMT-Kalyan,Morning Peak (7-10am),Sunday,10,1,0,1
+2025-10-26,CSMT-Kalyan,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-26,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,10,1,0,2
+2025-10-26,CSMT-Kalyan,Night (9pm-12am),Sunday,10,1,0,3
+2025-10-26,Panvel-CSMT,Morning Peak (7-10am),Sunday,10,1,0,3
+2025-10-26,Panvel-CSMT,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-26,Panvel-CSMT,Evening Peak (5-8pm),Sunday,10,1,0,3
+2025-10-26,Panvel-CSMT,Night (9pm-12am),Sunday,10,1,0,0
+2025-10-26,Harbour Line,Morning Peak (7-10am),Sunday,10,1,0,13
+2025-10-26,Harbour Line,Afternoon (12-3pm),Sunday,10,1,0,0
+2025-10-26,Harbour Line,Evening Peak (5-8pm),Sunday,10,1,0,15
+2025-10-26,Harbour Line,Night (9pm-12am),Sunday,10,1,0,0
+2025-10-27,Churchgate-Virar,Morning Peak (7-10am),Monday,10,0,0,12
+2025-10-27,Churchgate-Virar,Afternoon (12-3pm),Monday,10,0,0,6
+2025-10-27,Churchgate-Virar,Evening Peak (5-8pm),Monday,10,0,0,7
+2025-10-27,Churchgate-Virar,Night (9pm-12am),Monday,10,0,0,0
+2025-10-27,CSMT-Kalyan,Morning Peak (7-10am),Monday,10,0,0,5
+2025-10-27,CSMT-Kalyan,Afternoon (12-3pm),Monday,10,0,0,2
+2025-10-27,CSMT-Kalyan,Evening Peak (5-8pm),Monday,10,0,0,18
+2025-10-27,CSMT-Kalyan,Night (9pm-12am),Monday,10,0,0,5
+2025-10-27,Panvel-CSMT,Morning Peak (7-10am),Monday,10,0,0,10
+2025-10-27,Panvel-CSMT,Afternoon (12-3pm),Monday,10,0,0,2
+2025-10-27,Panvel-CSMT,Evening Peak (5-8pm),Monday,10,0,0,12
+2025-10-27,Panvel-CSMT,Night (9pm-12am),Monday,10,0,0,1
+2025-10-27,Harbour Line,Morning Peak (7-10am),Monday,10,0,0,5
+2025-10-27,Harbour Line,Afternoon (12-3pm),Monday,10,0,0,0
+2025-10-27,Harbour Line,Evening Peak (5-8pm),Monday,10,0,0,9
+2025-10-27,Harbour Line,Night (9pm-12am),Monday,10,0,0,2
+2025-10-28,Churchgate-Virar,Morning Peak (7-10am),Tuesday,10,0,0,8
+2025-10-28,Churchgate-Virar,Afternoon (12-3pm),Tuesday,10,0,0,2
+2025-10-28,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,10,0,0,21
+2025-10-28,Churchgate-Virar,Night (9pm-12am),Tuesday,10,0,0,0
+2025-10-28,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,10,0,0,16
+2025-10-28,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,10,0,0,4
+2025-10-28,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,10,0,0,10
+2025-10-28,CSMT-Kalyan,Night (9pm-12am),Tuesday,10,0,0,2
+2025-10-28,Panvel-CSMT,Morning Peak (7-10am),Tuesday,10,0,0,13
+2025-10-28,Panvel-CSMT,Afternoon (12-3pm),Tuesday,10,0,0,4
+2025-10-28,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,10,0,0,21
+2025-10-28,Panvel-CSMT,Night (9pm-12am),Tuesday,10,0,0,4
+2025-10-28,Harbour Line,Morning Peak (7-10am),Tuesday,10,0,0,7
+2025-10-28,Harbour Line,Afternoon (12-3pm),Tuesday,10,0,0,0
+2025-10-28,Harbour Line,Evening Peak (5-8pm),Tuesday,10,0,0,24
+2025-10-28,Harbour Line,Night (9pm-12am),Tuesday,10,0,0,4
+2025-10-29,Churchgate-Virar,Morning Peak (7-10am),Wednesday,10,0,0,5
+2025-10-29,Churchgate-Virar,Afternoon (12-3pm),Wednesday,10,0,0,2
+2025-10-29,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,10,0,0,22
+2025-10-29,Churchgate-Virar,Night (9pm-12am),Wednesday,10,0,0,8
+2025-10-29,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,10,0,0,14
+2025-10-29,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,10,0,0,5
+2025-10-29,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,10,0,0,7
+2025-10-29,CSMT-Kalyan,Night (9pm-12am),Wednesday,10,0,0,7
+2025-10-29,Panvel-CSMT,Morning Peak (7-10am),Wednesday,10,0,0,18
+2025-10-29,Panvel-CSMT,Afternoon (12-3pm),Wednesday,10,0,0,7
+2025-10-29,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,10,0,0,22
+2025-10-29,Panvel-CSMT,Night (9pm-12am),Wednesday,10,0,0,5
+2025-10-29,Harbour Line,Morning Peak (7-10am),Wednesday,10,0,0,6
+2025-10-29,Harbour Line,Afternoon (12-3pm),Wednesday,10,0,0,9
+2025-10-29,Harbour Line,Evening Peak (5-8pm),Wednesday,10,0,0,6
+2025-10-29,Harbour Line,Night (9pm-12am),Wednesday,10,0,0,9
+2025-10-30,Churchgate-Virar,Morning Peak (7-10am),Thursday,10,0,0,21
+2025-10-30,Churchgate-Virar,Afternoon (12-3pm),Thursday,10,0,0,7
+2025-10-30,Churchgate-Virar,Evening Peak (5-8pm),Thursday,10,0,0,5
+2025-10-30,Churchgate-Virar,Night (9pm-12am),Thursday,10,0,0,8
+2025-10-30,CSMT-Kalyan,Morning Peak (7-10am),Thursday,10,0,0,15
+2025-10-30,CSMT-Kalyan,Afternoon (12-3pm),Thursday,10,0,0,5
+2025-10-30,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,10,0,0,20
+2025-10-30,CSMT-Kalyan,Night (9pm-12am),Thursday,10,0,0,6
+2025-10-30,Panvel-CSMT,Morning Peak (7-10am),Thursday,10,0,0,14
+2025-10-30,Panvel-CSMT,Afternoon (12-3pm),Thursday,10,0,0,6
+2025-10-30,Panvel-CSMT,Evening Peak (5-8pm),Thursday,10,0,0,7
+2025-10-30,Panvel-CSMT,Night (9pm-12am),Thursday,10,0,0,1
+2025-10-30,Harbour Line,Morning Peak (7-10am),Thursday,10,0,0,17
+2025-10-30,Harbour Line,Afternoon (12-3pm),Thursday,10,0,0,9
+2025-10-30,Harbour Line,Evening Peak (5-8pm),Thursday,10,0,0,11
+2025-10-30,Harbour Line,Night (9pm-12am),Thursday,10,0,0,8
+2025-10-31,Churchgate-Virar,Morning Peak (7-10am),Friday,10,0,0,8
+2025-10-31,Churchgate-Virar,Afternoon (12-3pm),Friday,10,0,0,3
+2025-10-31,Churchgate-Virar,Evening Peak (5-8pm),Friday,10,0,0,5
+2025-10-31,Churchgate-Virar,Night (9pm-12am),Friday,10,0,0,7
+2025-10-31,CSMT-Kalyan,Morning Peak (7-10am),Friday,10,0,0,18
+2025-10-31,CSMT-Kalyan,Afternoon (12-3pm),Friday,10,0,0,2
+2025-10-31,CSMT-Kalyan,Evening Peak (5-8pm),Friday,10,0,0,19
+2025-10-31,CSMT-Kalyan,Night (9pm-12am),Friday,10,0,0,1
+2025-10-31,Panvel-CSMT,Morning Peak (7-10am),Friday,10,0,0,6
+2025-10-31,Panvel-CSMT,Afternoon (12-3pm),Friday,10,0,0,6
+2025-10-31,Panvel-CSMT,Evening Peak (5-8pm),Friday,10,0,0,23
+2025-10-31,Panvel-CSMT,Night (9pm-12am),Friday,10,0,0,8
+2025-10-31,Harbour Line,Morning Peak (7-10am),Friday,10,0,0,21
+2025-10-31,Harbour Line,Afternoon (12-3pm),Friday,10,0,0,3
+2025-10-31,Harbour Line,Evening Peak (5-8pm),Friday,10,0,0,14
+2025-10-31,Harbour Line,Night (9pm-12am),Friday,10,0,0,5
+2025-11-01,Churchgate-Virar,Morning Peak (7-10am),Saturday,11,1,0,14
+2025-11-01,Churchgate-Virar,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-01,Churchgate-Virar,Evening Peak (5-8pm),Saturday,11,1,0,10
+2025-11-01,Churchgate-Virar,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-01,CSMT-Kalyan,Morning Peak (7-10am),Saturday,11,1,0,0
+2025-11-01,CSMT-Kalyan,Afternoon (12-3pm),Saturday,11,1,0,2
+2025-11-01,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,11,1,0,11
+2025-11-01,CSMT-Kalyan,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-01,Panvel-CSMT,Morning Peak (7-10am),Saturday,11,1,0,6
+2025-11-01,Panvel-CSMT,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-01,Panvel-CSMT,Evening Peak (5-8pm),Saturday,11,1,0,5
+2025-11-01,Panvel-CSMT,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-01,Harbour Line,Morning Peak (7-10am),Saturday,11,1,0,14
+2025-11-01,Harbour Line,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-01,Harbour Line,Evening Peak (5-8pm),Saturday,11,1,0,7
+2025-11-01,Harbour Line,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-02,Churchgate-Virar,Morning Peak (7-10am),Sunday,11,1,0,15
+2025-11-02,Churchgate-Virar,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-02,Churchgate-Virar,Evening Peak (5-8pm),Sunday,11,1,0,9
+2025-11-02,Churchgate-Virar,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-02,CSMT-Kalyan,Morning Peak (7-10am),Sunday,11,1,0,16
+2025-11-02,CSMT-Kalyan,Afternoon (12-3pm),Sunday,11,1,0,2
+2025-11-02,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,11,1,0,18
+2025-11-02,CSMT-Kalyan,Night (9pm-12am),Sunday,11,1,0,4
+2025-11-02,Panvel-CSMT,Morning Peak (7-10am),Sunday,11,1,0,4
+2025-11-02,Panvel-CSMT,Afternoon (12-3pm),Sunday,11,1,0,4
+2025-11-02,Panvel-CSMT,Evening Peak (5-8pm),Sunday,11,1,0,8
+2025-11-02,Panvel-CSMT,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-02,Harbour Line,Morning Peak (7-10am),Sunday,11,1,0,0
+2025-11-02,Harbour Line,Afternoon (12-3pm),Sunday,11,1,0,4
+2025-11-02,Harbour Line,Evening Peak (5-8pm),Sunday,11,1,0,0
+2025-11-02,Harbour Line,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-03,Churchgate-Virar,Morning Peak (7-10am),Monday,11,0,0,20
+2025-11-03,Churchgate-Virar,Afternoon (12-3pm),Monday,11,0,0,8
+2025-11-03,Churchgate-Virar,Evening Peak (5-8pm),Monday,11,0,0,12
+2025-11-03,Churchgate-Virar,Night (9pm-12am),Monday,11,0,0,4
+2025-11-03,CSMT-Kalyan,Morning Peak (7-10am),Monday,11,0,0,5
+2025-11-03,CSMT-Kalyan,Afternoon (12-3pm),Monday,11,0,0,6
+2025-11-03,CSMT-Kalyan,Evening Peak (5-8pm),Monday,11,0,0,9
+2025-11-03,CSMT-Kalyan,Night (9pm-12am),Monday,11,0,0,5
+2025-11-03,Panvel-CSMT,Morning Peak (7-10am),Monday,11,0,0,7
+2025-11-03,Panvel-CSMT,Afternoon (12-3pm),Monday,11,0,0,9
+2025-11-03,Panvel-CSMT,Evening Peak (5-8pm),Monday,11,0,0,20
+2025-11-03,Panvel-CSMT,Night (9pm-12am),Monday,11,0,0,2
+2025-11-03,Harbour Line,Morning Peak (7-10am),Monday,11,0,0,9
+2025-11-03,Harbour Line,Afternoon (12-3pm),Monday,11,0,0,5
+2025-11-03,Harbour Line,Evening Peak (5-8pm),Monday,11,0,0,18
+2025-11-03,Harbour Line,Night (9pm-12am),Monday,11,0,0,4
+2025-11-04,Churchgate-Virar,Morning Peak (7-10am),Tuesday,11,0,0,19
+2025-11-04,Churchgate-Virar,Afternoon (12-3pm),Tuesday,11,0,0,0
+2025-11-04,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,11,0,0,18
+2025-11-04,Churchgate-Virar,Night (9pm-12am),Tuesday,11,0,0,3
+2025-11-04,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,11,0,0,9
+2025-11-04,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,11,0,0,9
+2025-11-04,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,11,0,0,20
+2025-11-04,CSMT-Kalyan,Night (9pm-12am),Tuesday,11,0,0,4
+2025-11-04,Panvel-CSMT,Morning Peak (7-10am),Tuesday,11,0,0,11
+2025-11-04,Panvel-CSMT,Afternoon (12-3pm),Tuesday,11,0,0,3
+2025-11-04,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,11,0,0,5
+2025-11-04,Panvel-CSMT,Night (9pm-12am),Tuesday,11,0,0,4
+2025-11-04,Harbour Line,Morning Peak (7-10am),Tuesday,11,0,0,14
+2025-11-04,Harbour Line,Afternoon (12-3pm),Tuesday,11,0,0,5
+2025-11-04,Harbour Line,Evening Peak (5-8pm),Tuesday,11,0,0,9
+2025-11-04,Harbour Line,Night (9pm-12am),Tuesday,11,0,0,3
+2025-11-05,Churchgate-Virar,Morning Peak (7-10am),Wednesday,11,0,0,6
+2025-11-05,Churchgate-Virar,Afternoon (12-3pm),Wednesday,11,0,0,3
+2025-11-05,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,11,0,0,14
+2025-11-05,Churchgate-Virar,Night (9pm-12am),Wednesday,11,0,0,9
+2025-11-05,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,11,0,0,23
+2025-11-05,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,11,0,0,9
+2025-11-05,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,11,0,0,5
+2025-11-05,CSMT-Kalyan,Night (9pm-12am),Wednesday,11,0,0,7
+2025-11-05,Panvel-CSMT,Morning Peak (7-10am),Wednesday,11,0,0,9
+2025-11-05,Panvel-CSMT,Afternoon (12-3pm),Wednesday,11,0,0,3
+2025-11-05,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,11,0,0,20
+2025-11-05,Panvel-CSMT,Night (9pm-12am),Wednesday,11,0,0,7
+2025-11-05,Harbour Line,Morning Peak (7-10am),Wednesday,11,0,0,20
+2025-11-05,Harbour Line,Afternoon (12-3pm),Wednesday,11,0,0,6
+2025-11-05,Harbour Line,Evening Peak (5-8pm),Wednesday,11,0,0,6
+2025-11-05,Harbour Line,Night (9pm-12am),Wednesday,11,0,0,0
+2025-11-06,Churchgate-Virar,Morning Peak (7-10am),Thursday,11,0,0,24
+2025-11-06,Churchgate-Virar,Afternoon (12-3pm),Thursday,11,0,0,7
+2025-11-06,Churchgate-Virar,Evening Peak (5-8pm),Thursday,11,0,0,16
+2025-11-06,Churchgate-Virar,Night (9pm-12am),Thursday,11,0,0,1
+2025-11-06,CSMT-Kalyan,Morning Peak (7-10am),Thursday,11,0,0,7
+2025-11-06,CSMT-Kalyan,Afternoon (12-3pm),Thursday,11,0,0,0
+2025-11-06,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,11,0,0,5
+2025-11-06,CSMT-Kalyan,Night (9pm-12am),Thursday,11,0,0,2
+2025-11-06,Panvel-CSMT,Morning Peak (7-10am),Thursday,11,0,0,15
+2025-11-06,Panvel-CSMT,Afternoon (12-3pm),Thursday,11,0,0,4
+2025-11-06,Panvel-CSMT,Evening Peak (5-8pm),Thursday,11,0,0,16
+2025-11-06,Panvel-CSMT,Night (9pm-12am),Thursday,11,0,0,2
+2025-11-06,Harbour Line,Morning Peak (7-10am),Thursday,11,0,0,5
+2025-11-06,Harbour Line,Afternoon (12-3pm),Thursday,11,0,0,0
+2025-11-06,Harbour Line,Evening Peak (5-8pm),Thursday,11,0,0,12
+2025-11-06,Harbour Line,Night (9pm-12am),Thursday,11,0,0,9
+2025-11-07,Churchgate-Virar,Morning Peak (7-10am),Friday,11,0,0,15
+2025-11-07,Churchgate-Virar,Afternoon (12-3pm),Friday,11,0,0,1
+2025-11-07,Churchgate-Virar,Evening Peak (5-8pm),Friday,11,0,0,23
+2025-11-07,Churchgate-Virar,Night (9pm-12am),Friday,11,0,0,1
+2025-11-07,CSMT-Kalyan,Morning Peak (7-10am),Friday,11,0,0,7
+2025-11-07,CSMT-Kalyan,Afternoon (12-3pm),Friday,11,0,0,6
+2025-11-07,CSMT-Kalyan,Evening Peak (5-8pm),Friday,11,0,0,21
+2025-11-07,CSMT-Kalyan,Night (9pm-12am),Friday,11,0,0,9
+2025-11-07,Panvel-CSMT,Morning Peak (7-10am),Friday,11,0,0,12
+2025-11-07,Panvel-CSMT,Afternoon (12-3pm),Friday,11,0,0,9
+2025-11-07,Panvel-CSMT,Evening Peak (5-8pm),Friday,11,0,0,14
+2025-11-07,Panvel-CSMT,Night (9pm-12am),Friday,11,0,0,9
+2025-11-07,Harbour Line,Morning Peak (7-10am),Friday,11,0,0,6
+2025-11-07,Harbour Line,Afternoon (12-3pm),Friday,11,0,0,2
+2025-11-07,Harbour Line,Evening Peak (5-8pm),Friday,11,0,0,13
+2025-11-07,Harbour Line,Night (9pm-12am),Friday,11,0,0,6
+2025-11-08,Churchgate-Virar,Morning Peak (7-10am),Saturday,11,1,0,3
+2025-11-08,Churchgate-Virar,Afternoon (12-3pm),Saturday,11,1,0,4
+2025-11-08,Churchgate-Virar,Evening Peak (5-8pm),Saturday,11,1,0,17
+2025-11-08,Churchgate-Virar,Night (9pm-12am),Saturday,11,1,0,2
+2025-11-08,CSMT-Kalyan,Morning Peak (7-10am),Saturday,11,1,0,3
+2025-11-08,CSMT-Kalyan,Afternoon (12-3pm),Saturday,11,1,0,3
+2025-11-08,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,11,1,0,3
+2025-11-08,CSMT-Kalyan,Night (9pm-12am),Saturday,11,1,0,4
+2025-11-08,Panvel-CSMT,Morning Peak (7-10am),Saturday,11,1,0,4
+2025-11-08,Panvel-CSMT,Afternoon (12-3pm),Saturday,11,1,0,3
+2025-11-08,Panvel-CSMT,Evening Peak (5-8pm),Saturday,11,1,0,2
+2025-11-08,Panvel-CSMT,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-08,Harbour Line,Morning Peak (7-10am),Saturday,11,1,0,2
+2025-11-08,Harbour Line,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-08,Harbour Line,Evening Peak (5-8pm),Saturday,11,1,0,17
+2025-11-08,Harbour Line,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-09,Churchgate-Virar,Morning Peak (7-10am),Sunday,11,1,0,6
+2025-11-09,Churchgate-Virar,Afternoon (12-3pm),Sunday,11,1,0,2
+2025-11-09,Churchgate-Virar,Evening Peak (5-8pm),Sunday,11,1,0,4
+2025-11-09,Churchgate-Virar,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-09,CSMT-Kalyan,Morning Peak (7-10am),Sunday,11,1,0,12
+2025-11-09,CSMT-Kalyan,Afternoon (12-3pm),Sunday,11,1,0,1
+2025-11-09,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,11,1,0,2
+2025-11-09,CSMT-Kalyan,Night (9pm-12am),Sunday,11,1,0,3
+2025-11-09,Panvel-CSMT,Morning Peak (7-10am),Sunday,11,1,0,16
+2025-11-09,Panvel-CSMT,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-09,Panvel-CSMT,Evening Peak (5-8pm),Sunday,11,1,0,19
+2025-11-09,Panvel-CSMT,Night (9pm-12am),Sunday,11,1,0,3
+2025-11-09,Harbour Line,Morning Peak (7-10am),Sunday,11,1,0,12
+2025-11-09,Harbour Line,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-09,Harbour Line,Evening Peak (5-8pm),Sunday,11,1,0,16
+2025-11-09,Harbour Line,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-10,Churchgate-Virar,Morning Peak (7-10am),Monday,11,0,0,16
+2025-11-10,Churchgate-Virar,Afternoon (12-3pm),Monday,11,0,0,8
+2025-11-10,Churchgate-Virar,Evening Peak (5-8pm),Monday,11,0,0,23
+2025-11-10,Churchgate-Virar,Night (9pm-12am),Monday,11,0,0,8
+2025-11-10,CSMT-Kalyan,Morning Peak (7-10am),Monday,11,0,0,11
+2025-11-10,CSMT-Kalyan,Afternoon (12-3pm),Monday,11,0,0,3
+2025-11-10,CSMT-Kalyan,Evening Peak (5-8pm),Monday,11,0,0,23
+2025-11-10,CSMT-Kalyan,Night (9pm-12am),Monday,11,0,0,9
+2025-11-10,Panvel-CSMT,Morning Peak (7-10am),Monday,11,0,0,19
+2025-11-10,Panvel-CSMT,Afternoon (12-3pm),Monday,11,0,0,4
+2025-11-10,Panvel-CSMT,Evening Peak (5-8pm),Monday,11,0,0,9
+2025-11-10,Panvel-CSMT,Night (9pm-12am),Monday,11,0,0,2
+2025-11-10,Harbour Line,Morning Peak (7-10am),Monday,11,0,0,16
+2025-11-10,Harbour Line,Afternoon (12-3pm),Monday,11,0,0,8
+2025-11-10,Harbour Line,Evening Peak (5-8pm),Monday,11,0,0,24
+2025-11-10,Harbour Line,Night (9pm-12am),Monday,11,0,0,4
+2025-11-11,Churchgate-Virar,Morning Peak (7-10am),Tuesday,11,0,0,8
+2025-11-11,Churchgate-Virar,Afternoon (12-3pm),Tuesday,11,0,0,4
+2025-11-11,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,11,0,0,20
+2025-11-11,Churchgate-Virar,Night (9pm-12am),Tuesday,11,0,0,8
+2025-11-11,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,11,0,0,11
+2025-11-11,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,11,0,0,4
+2025-11-11,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,11,0,0,14
+2025-11-11,CSMT-Kalyan,Night (9pm-12am),Tuesday,11,0,0,9
+2025-11-11,Panvel-CSMT,Morning Peak (7-10am),Tuesday,11,0,0,11
+2025-11-11,Panvel-CSMT,Afternoon (12-3pm),Tuesday,11,0,0,9
+2025-11-11,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,11,0,0,9
+2025-11-11,Panvel-CSMT,Night (9pm-12am),Tuesday,11,0,0,2
+2025-11-11,Harbour Line,Morning Peak (7-10am),Tuesday,11,0,0,15
+2025-11-11,Harbour Line,Afternoon (12-3pm),Tuesday,11,0,0,1
+2025-11-11,Harbour Line,Evening Peak (5-8pm),Tuesday,11,0,0,19
+2025-11-11,Harbour Line,Night (9pm-12am),Tuesday,11,0,0,8
+2025-11-12,Churchgate-Virar,Morning Peak (7-10am),Wednesday,11,0,0,14
+2025-11-12,Churchgate-Virar,Afternoon (12-3pm),Wednesday,11,0,0,9
+2025-11-12,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,11,0,0,16
+2025-11-12,Churchgate-Virar,Night (9pm-12am),Wednesday,11,0,0,0
+2025-11-12,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,11,0,0,10
+2025-11-12,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,11,0,0,6
+2025-11-12,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,11,0,0,18
+2025-11-12,CSMT-Kalyan,Night (9pm-12am),Wednesday,11,0,0,7
+2025-11-12,Panvel-CSMT,Morning Peak (7-10am),Wednesday,11,0,0,14
+2025-11-12,Panvel-CSMT,Afternoon (12-3pm),Wednesday,11,0,0,8
+2025-11-12,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,11,0,0,22
+2025-11-12,Panvel-CSMT,Night (9pm-12am),Wednesday,11,0,0,9
+2025-11-12,Harbour Line,Morning Peak (7-10am),Wednesday,11,0,0,6
+2025-11-12,Harbour Line,Afternoon (12-3pm),Wednesday,11,0,0,4
+2025-11-12,Harbour Line,Evening Peak (5-8pm),Wednesday,11,0,0,9
+2025-11-12,Harbour Line,Night (9pm-12am),Wednesday,11,0,0,5
+2025-11-13,Churchgate-Virar,Morning Peak (7-10am),Thursday,11,0,0,23
+2025-11-13,Churchgate-Virar,Afternoon (12-3pm),Thursday,11,0,0,7
+2025-11-13,Churchgate-Virar,Evening Peak (5-8pm),Thursday,11,0,0,20
+2025-11-13,Churchgate-Virar,Night (9pm-12am),Thursday,11,0,0,0
+2025-11-13,CSMT-Kalyan,Morning Peak (7-10am),Thursday,11,0,0,24
+2025-11-13,CSMT-Kalyan,Afternoon (12-3pm),Thursday,11,0,0,0
+2025-11-13,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,11,0,0,11
+2025-11-13,CSMT-Kalyan,Night (9pm-12am),Thursday,11,0,0,8
+2025-11-13,Panvel-CSMT,Morning Peak (7-10am),Thursday,11,0,0,17
+2025-11-13,Panvel-CSMT,Afternoon (12-3pm),Thursday,11,0,0,3
+2025-11-13,Panvel-CSMT,Evening Peak (5-8pm),Thursday,11,0,0,8
+2025-11-13,Panvel-CSMT,Night (9pm-12am),Thursday,11,0,0,5
+2025-11-13,Harbour Line,Morning Peak (7-10am),Thursday,11,0,0,23
+2025-11-13,Harbour Line,Afternoon (12-3pm),Thursday,11,0,0,5
+2025-11-13,Harbour Line,Evening Peak (5-8pm),Thursday,11,0,0,11
+2025-11-13,Harbour Line,Night (9pm-12am),Thursday,11,0,0,9
+2025-11-14,Churchgate-Virar,Morning Peak (7-10am),Friday,11,0,0,23
+2025-11-14,Churchgate-Virar,Afternoon (12-3pm),Friday,11,0,0,6
+2025-11-14,Churchgate-Virar,Evening Peak (5-8pm),Friday,11,0,0,7
+2025-11-14,Churchgate-Virar,Night (9pm-12am),Friday,11,0,0,1
+2025-11-14,CSMT-Kalyan,Morning Peak (7-10am),Friday,11,0,0,24
+2025-11-14,CSMT-Kalyan,Afternoon (12-3pm),Friday,11,0,0,7
+2025-11-14,CSMT-Kalyan,Evening Peak (5-8pm),Friday,11,0,0,13
+2025-11-14,CSMT-Kalyan,Night (9pm-12am),Friday,11,0,0,6
+2025-11-14,Panvel-CSMT,Morning Peak (7-10am),Friday,11,0,0,5
+2025-11-14,Panvel-CSMT,Afternoon (12-3pm),Friday,11,0,0,2
+2025-11-14,Panvel-CSMT,Evening Peak (5-8pm),Friday,11,0,0,17
+2025-11-14,Panvel-CSMT,Night (9pm-12am),Friday,11,0,0,8
+2025-11-14,Harbour Line,Morning Peak (7-10am),Friday,11,0,0,21
+2025-11-14,Harbour Line,Afternoon (12-3pm),Friday,11,0,0,8
+2025-11-14,Harbour Line,Evening Peak (5-8pm),Friday,11,0,0,5
+2025-11-14,Harbour Line,Night (9pm-12am),Friday,11,0,0,5
+2025-11-15,Churchgate-Virar,Morning Peak (7-10am),Saturday,11,1,0,5
+2025-11-15,Churchgate-Virar,Afternoon (12-3pm),Saturday,11,1,0,4
+2025-11-15,Churchgate-Virar,Evening Peak (5-8pm),Saturday,11,1,0,11
+2025-11-15,Churchgate-Virar,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-15,CSMT-Kalyan,Morning Peak (7-10am),Saturday,11,1,0,15
+2025-11-15,CSMT-Kalyan,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-15,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,11,1,0,10
+2025-11-15,CSMT-Kalyan,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-15,Panvel-CSMT,Morning Peak (7-10am),Saturday,11,1,0,3
+2025-11-15,Panvel-CSMT,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-15,Panvel-CSMT,Evening Peak (5-8pm),Saturday,11,1,0,18
+2025-11-15,Panvel-CSMT,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-15,Harbour Line,Morning Peak (7-10am),Saturday,11,1,0,17
+2025-11-15,Harbour Line,Afternoon (12-3pm),Saturday,11,1,0,3
+2025-11-15,Harbour Line,Evening Peak (5-8pm),Saturday,11,1,0,16
+2025-11-15,Harbour Line,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-16,Churchgate-Virar,Morning Peak (7-10am),Sunday,11,1,0,2
+2025-11-16,Churchgate-Virar,Afternoon (12-3pm),Sunday,11,1,0,1
+2025-11-16,Churchgate-Virar,Evening Peak (5-8pm),Sunday,11,1,0,10
+2025-11-16,Churchgate-Virar,Night (9pm-12am),Sunday,11,1,0,4
+2025-11-16,CSMT-Kalyan,Morning Peak (7-10am),Sunday,11,1,0,15
+2025-11-16,CSMT-Kalyan,Afternoon (12-3pm),Sunday,11,1,0,2
+2025-11-16,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,11,1,0,5
+2025-11-16,CSMT-Kalyan,Night (9pm-12am),Sunday,11,1,0,2
+2025-11-16,Panvel-CSMT,Morning Peak (7-10am),Sunday,11,1,0,7
+2025-11-16,Panvel-CSMT,Afternoon (12-3pm),Sunday,11,1,0,4
+2025-11-16,Panvel-CSMT,Evening Peak (5-8pm),Sunday,11,1,0,3
+2025-11-16,Panvel-CSMT,Night (9pm-12am),Sunday,11,1,0,4
+2025-11-16,Harbour Line,Morning Peak (7-10am),Sunday,11,1,0,7
+2025-11-16,Harbour Line,Afternoon (12-3pm),Sunday,11,1,0,4
+2025-11-16,Harbour Line,Evening Peak (5-8pm),Sunday,11,1,0,17
+2025-11-16,Harbour Line,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-17,Churchgate-Virar,Morning Peak (7-10am),Monday,11,0,0,13
+2025-11-17,Churchgate-Virar,Afternoon (12-3pm),Monday,11,0,0,3
+2025-11-17,Churchgate-Virar,Evening Peak (5-8pm),Monday,11,0,0,21
+2025-11-17,Churchgate-Virar,Night (9pm-12am),Monday,11,0,0,8
+2025-11-17,CSMT-Kalyan,Morning Peak (7-10am),Monday,11,0,0,5
+2025-11-17,CSMT-Kalyan,Afternoon (12-3pm),Monday,11,0,0,4
+2025-11-17,CSMT-Kalyan,Evening Peak (5-8pm),Monday,11,0,0,24
+2025-11-17,CSMT-Kalyan,Night (9pm-12am),Monday,11,0,0,2
+2025-11-17,Panvel-CSMT,Morning Peak (7-10am),Monday,11,0,0,10
+2025-11-17,Panvel-CSMT,Afternoon (12-3pm),Monday,11,0,0,1
+2025-11-17,Panvel-CSMT,Evening Peak (5-8pm),Monday,11,0,0,23
+2025-11-17,Panvel-CSMT,Night (9pm-12am),Monday,11,0,0,4
+2025-11-17,Harbour Line,Morning Peak (7-10am),Monday,11,0,0,19
+2025-11-17,Harbour Line,Afternoon (12-3pm),Monday,11,0,0,8
+2025-11-17,Harbour Line,Evening Peak (5-8pm),Monday,11,0,0,6
+2025-11-17,Harbour Line,Night (9pm-12am),Monday,11,0,0,9
+2025-11-18,Churchgate-Virar,Morning Peak (7-10am),Tuesday,11,0,0,22
+2025-11-18,Churchgate-Virar,Afternoon (12-3pm),Tuesday,11,0,0,4
+2025-11-18,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,11,0,0,5
+2025-11-18,Churchgate-Virar,Night (9pm-12am),Tuesday,11,0,0,5
+2025-11-18,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,11,0,0,5
+2025-11-18,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,11,0,0,1
+2025-11-18,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,11,0,0,19
+2025-11-18,CSMT-Kalyan,Night (9pm-12am),Tuesday,11,0,0,0
+2025-11-18,Panvel-CSMT,Morning Peak (7-10am),Tuesday,11,0,0,15
+2025-11-18,Panvel-CSMT,Afternoon (12-3pm),Tuesday,11,0,0,4
+2025-11-18,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,11,0,0,21
+2025-11-18,Panvel-CSMT,Night (9pm-12am),Tuesday,11,0,0,0
+2025-11-18,Harbour Line,Morning Peak (7-10am),Tuesday,11,0,0,6
+2025-11-18,Harbour Line,Afternoon (12-3pm),Tuesday,11,0,0,8
+2025-11-18,Harbour Line,Evening Peak (5-8pm),Tuesday,11,0,0,7
+2025-11-18,Harbour Line,Night (9pm-12am),Tuesday,11,0,0,0
+2025-11-19,Churchgate-Virar,Morning Peak (7-10am),Wednesday,11,0,0,20
+2025-11-19,Churchgate-Virar,Afternoon (12-3pm),Wednesday,11,0,0,6
+2025-11-19,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,11,0,0,10
+2025-11-19,Churchgate-Virar,Night (9pm-12am),Wednesday,11,0,0,0
+2025-11-19,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,11,0,0,9
+2025-11-19,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,11,0,0,4
+2025-11-19,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,11,0,0,10
+2025-11-19,CSMT-Kalyan,Night (9pm-12am),Wednesday,11,0,0,2
+2025-11-19,Panvel-CSMT,Morning Peak (7-10am),Wednesday,11,0,0,9
+2025-11-19,Panvel-CSMT,Afternoon (12-3pm),Wednesday,11,0,0,4
+2025-11-19,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,11,0,0,9
+2025-11-19,Panvel-CSMT,Night (9pm-12am),Wednesday,11,0,0,9
+2025-11-19,Harbour Line,Morning Peak (7-10am),Wednesday,11,0,0,14
+2025-11-19,Harbour Line,Afternoon (12-3pm),Wednesday,11,0,0,2
+2025-11-19,Harbour Line,Evening Peak (5-8pm),Wednesday,11,0,0,21
+2025-11-19,Harbour Line,Night (9pm-12am),Wednesday,11,0,0,4
+2025-11-20,Churchgate-Virar,Morning Peak (7-10am),Thursday,11,0,0,18
+2025-11-20,Churchgate-Virar,Afternoon (12-3pm),Thursday,11,0,0,8
+2025-11-20,Churchgate-Virar,Evening Peak (5-8pm),Thursday,11,0,0,18
+2025-11-20,Churchgate-Virar,Night (9pm-12am),Thursday,11,0,0,0
+2025-11-20,CSMT-Kalyan,Morning Peak (7-10am),Thursday,11,0,0,23
+2025-11-20,CSMT-Kalyan,Afternoon (12-3pm),Thursday,11,0,0,3
+2025-11-20,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,11,0,0,5
+2025-11-20,CSMT-Kalyan,Night (9pm-12am),Thursday,11,0,0,0
+2025-11-20,Panvel-CSMT,Morning Peak (7-10am),Thursday,11,0,0,12
+2025-11-20,Panvel-CSMT,Afternoon (12-3pm),Thursday,11,0,0,1
+2025-11-20,Panvel-CSMT,Evening Peak (5-8pm),Thursday,11,0,0,12
+2025-11-20,Panvel-CSMT,Night (9pm-12am),Thursday,11,0,0,6
+2025-11-20,Harbour Line,Morning Peak (7-10am),Thursday,11,0,0,6
+2025-11-20,Harbour Line,Afternoon (12-3pm),Thursday,11,0,0,5
+2025-11-20,Harbour Line,Evening Peak (5-8pm),Thursday,11,0,0,7
+2025-11-20,Harbour Line,Night (9pm-12am),Thursday,11,0,0,1
+2025-11-21,Churchgate-Virar,Morning Peak (7-10am),Friday,11,0,0,16
+2025-11-21,Churchgate-Virar,Afternoon (12-3pm),Friday,11,0,0,0
+2025-11-21,Churchgate-Virar,Evening Peak (5-8pm),Friday,11,0,0,16
+2025-11-21,Churchgate-Virar,Night (9pm-12am),Friday,11,0,0,4
+2025-11-21,CSMT-Kalyan,Morning Peak (7-10am),Friday,11,0,0,21
+2025-11-21,CSMT-Kalyan,Afternoon (12-3pm),Friday,11,0,0,6
+2025-11-21,CSMT-Kalyan,Evening Peak (5-8pm),Friday,11,0,0,19
+2025-11-21,CSMT-Kalyan,Night (9pm-12am),Friday,11,0,0,4
+2025-11-21,Panvel-CSMT,Morning Peak (7-10am),Friday,11,0,0,18
+2025-11-21,Panvel-CSMT,Afternoon (12-3pm),Friday,11,0,0,1
+2025-11-21,Panvel-CSMT,Evening Peak (5-8pm),Friday,11,0,0,15
+2025-11-21,Panvel-CSMT,Night (9pm-12am),Friday,11,0,0,2
+2025-11-21,Harbour Line,Morning Peak (7-10am),Friday,11,0,0,11
+2025-11-21,Harbour Line,Afternoon (12-3pm),Friday,11,0,0,5
+2025-11-21,Harbour Line,Evening Peak (5-8pm),Friday,11,0,0,6
+2025-11-21,Harbour Line,Night (9pm-12am),Friday,11,0,0,5
+2025-11-22,Churchgate-Virar,Morning Peak (7-10am),Saturday,11,1,0,17
+2025-11-22,Churchgate-Virar,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-22,Churchgate-Virar,Evening Peak (5-8pm),Saturday,11,1,0,17
+2025-11-22,Churchgate-Virar,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-22,CSMT-Kalyan,Morning Peak (7-10am),Saturday,11,1,0,1
+2025-11-22,CSMT-Kalyan,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-22,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,11,1,0,5
+2025-11-22,CSMT-Kalyan,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-22,Panvel-CSMT,Morning Peak (7-10am),Saturday,11,1,0,14
+2025-11-22,Panvel-CSMT,Afternoon (12-3pm),Saturday,11,1,0,1
+2025-11-22,Panvel-CSMT,Evening Peak (5-8pm),Saturday,11,1,0,9
+2025-11-22,Panvel-CSMT,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-22,Harbour Line,Morning Peak (7-10am),Saturday,11,1,0,16
+2025-11-22,Harbour Line,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-22,Harbour Line,Evening Peak (5-8pm),Saturday,11,1,0,3
+2025-11-22,Harbour Line,Night (9pm-12am),Saturday,11,1,0,4
+2025-11-23,Churchgate-Virar,Morning Peak (7-10am),Sunday,11,1,0,16
+2025-11-23,Churchgate-Virar,Afternoon (12-3pm),Sunday,11,1,0,4
+2025-11-23,Churchgate-Virar,Evening Peak (5-8pm),Sunday,11,1,0,16
+2025-11-23,Churchgate-Virar,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-23,CSMT-Kalyan,Morning Peak (7-10am),Sunday,11,1,0,4
+2025-11-23,CSMT-Kalyan,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-23,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,11,1,0,5
+2025-11-23,CSMT-Kalyan,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-23,Panvel-CSMT,Morning Peak (7-10am),Sunday,11,1,0,1
+2025-11-23,Panvel-CSMT,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-23,Panvel-CSMT,Evening Peak (5-8pm),Sunday,11,1,0,14
+2025-11-23,Panvel-CSMT,Night (9pm-12am),Sunday,11,1,0,3
+2025-11-23,Harbour Line,Morning Peak (7-10am),Sunday,11,1,0,15
+2025-11-23,Harbour Line,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-23,Harbour Line,Evening Peak (5-8pm),Sunday,11,1,0,15
+2025-11-23,Harbour Line,Night (9pm-12am),Sunday,11,1,0,2
+2025-11-24,Churchgate-Virar,Morning Peak (7-10am),Monday,11,0,0,8
+2025-11-24,Churchgate-Virar,Afternoon (12-3pm),Monday,11,0,0,7
+2025-11-24,Churchgate-Virar,Evening Peak (5-8pm),Monday,11,0,0,8
+2025-11-24,Churchgate-Virar,Night (9pm-12am),Monday,11,0,0,7
+2025-11-24,CSMT-Kalyan,Morning Peak (7-10am),Monday,11,0,0,7
+2025-11-24,CSMT-Kalyan,Afternoon (12-3pm),Monday,11,0,0,2
+2025-11-24,CSMT-Kalyan,Evening Peak (5-8pm),Monday,11,0,0,22
+2025-11-24,CSMT-Kalyan,Night (9pm-12am),Monday,11,0,0,9
+2025-11-24,Panvel-CSMT,Morning Peak (7-10am),Monday,11,0,0,23
+2025-11-24,Panvel-CSMT,Afternoon (12-3pm),Monday,11,0,0,2
+2025-11-24,Panvel-CSMT,Evening Peak (5-8pm),Monday,11,0,0,9
+2025-11-24,Panvel-CSMT,Night (9pm-12am),Monday,11,0,0,1
+2025-11-24,Harbour Line,Morning Peak (7-10am),Monday,11,0,0,14
+2025-11-24,Harbour Line,Afternoon (12-3pm),Monday,11,0,0,5
+2025-11-24,Harbour Line,Evening Peak (5-8pm),Monday,11,0,0,10
+2025-11-24,Harbour Line,Night (9pm-12am),Monday,11,0,0,0
+2025-11-25,Churchgate-Virar,Morning Peak (7-10am),Tuesday,11,0,0,9
+2025-11-25,Churchgate-Virar,Afternoon (12-3pm),Tuesday,11,0,0,8
+2025-11-25,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,11,0,0,16
+2025-11-25,Churchgate-Virar,Night (9pm-12am),Tuesday,11,0,0,9
+2025-11-25,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,11,0,0,18
+2025-11-25,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,11,0,0,1
+2025-11-25,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,11,0,0,21
+2025-11-25,CSMT-Kalyan,Night (9pm-12am),Tuesday,11,0,0,9
+2025-11-25,Panvel-CSMT,Morning Peak (7-10am),Tuesday,11,0,0,17
+2025-11-25,Panvel-CSMT,Afternoon (12-3pm),Tuesday,11,0,0,8
+2025-11-25,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,11,0,0,19
+2025-11-25,Panvel-CSMT,Night (9pm-12am),Tuesday,11,0,0,8
+2025-11-25,Harbour Line,Morning Peak (7-10am),Tuesday,11,0,0,19
+2025-11-25,Harbour Line,Afternoon (12-3pm),Tuesday,11,0,0,7
+2025-11-25,Harbour Line,Evening Peak (5-8pm),Tuesday,11,0,0,15
+2025-11-25,Harbour Line,Night (9pm-12am),Tuesday,11,0,0,0
+2025-11-26,Churchgate-Virar,Morning Peak (7-10am),Wednesday,11,0,0,8
+2025-11-26,Churchgate-Virar,Afternoon (12-3pm),Wednesday,11,0,0,0
+2025-11-26,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,11,0,0,12
+2025-11-26,Churchgate-Virar,Night (9pm-12am),Wednesday,11,0,0,0
+2025-11-26,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,11,0,0,7
+2025-11-26,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,11,0,0,3
+2025-11-26,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,11,0,0,19
+2025-11-26,CSMT-Kalyan,Night (9pm-12am),Wednesday,11,0,0,7
+2025-11-26,Panvel-CSMT,Morning Peak (7-10am),Wednesday,11,0,0,18
+2025-11-26,Panvel-CSMT,Afternoon (12-3pm),Wednesday,11,0,0,9
+2025-11-26,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,11,0,0,18
+2025-11-26,Panvel-CSMT,Night (9pm-12am),Wednesday,11,0,0,7
+2025-11-26,Harbour Line,Morning Peak (7-10am),Wednesday,11,0,0,6
+2025-11-26,Harbour Line,Afternoon (12-3pm),Wednesday,11,0,0,9
+2025-11-26,Harbour Line,Evening Peak (5-8pm),Wednesday,11,0,0,18
+2025-11-26,Harbour Line,Night (9pm-12am),Wednesday,11,0,0,7
+2025-11-27,Churchgate-Virar,Morning Peak (7-10am),Thursday,11,0,0,23
+2025-11-27,Churchgate-Virar,Afternoon (12-3pm),Thursday,11,0,0,6
+2025-11-27,Churchgate-Virar,Evening Peak (5-8pm),Thursday,11,0,0,7
+2025-11-27,Churchgate-Virar,Night (9pm-12am),Thursday,11,0,0,6
+2025-11-27,CSMT-Kalyan,Morning Peak (7-10am),Thursday,11,0,0,18
+2025-11-27,CSMT-Kalyan,Afternoon (12-3pm),Thursday,11,0,0,1
+2025-11-27,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,11,0,0,10
+2025-11-27,CSMT-Kalyan,Night (9pm-12am),Thursday,11,0,0,2
+2025-11-27,Panvel-CSMT,Morning Peak (7-10am),Thursday,11,0,0,23
+2025-11-27,Panvel-CSMT,Afternoon (12-3pm),Thursday,11,0,0,8
+2025-11-27,Panvel-CSMT,Evening Peak (5-8pm),Thursday,11,0,0,9
+2025-11-27,Panvel-CSMT,Night (9pm-12am),Thursday,11,0,0,9
+2025-11-27,Harbour Line,Morning Peak (7-10am),Thursday,11,0,0,11
+2025-11-27,Harbour Line,Afternoon (12-3pm),Thursday,11,0,0,8
+2025-11-27,Harbour Line,Evening Peak (5-8pm),Thursday,11,0,0,21
+2025-11-27,Harbour Line,Night (9pm-12am),Thursday,11,0,0,6
+2025-11-28,Churchgate-Virar,Morning Peak (7-10am),Friday,11,0,0,16
+2025-11-28,Churchgate-Virar,Afternoon (12-3pm),Friday,11,0,0,8
+2025-11-28,Churchgate-Virar,Evening Peak (5-8pm),Friday,11,0,0,21
+2025-11-28,Churchgate-Virar,Night (9pm-12am),Friday,11,0,0,3
+2025-11-28,CSMT-Kalyan,Morning Peak (7-10am),Friday,11,0,0,8
+2025-11-28,CSMT-Kalyan,Afternoon (12-3pm),Friday,11,0,0,9
+2025-11-28,CSMT-Kalyan,Evening Peak (5-8pm),Friday,11,0,0,7
+2025-11-28,CSMT-Kalyan,Night (9pm-12am),Friday,11,0,0,8
+2025-11-28,Panvel-CSMT,Morning Peak (7-10am),Friday,11,0,0,17
+2025-11-28,Panvel-CSMT,Afternoon (12-3pm),Friday,11,0,0,1
+2025-11-28,Panvel-CSMT,Evening Peak (5-8pm),Friday,11,0,0,19
+2025-11-28,Panvel-CSMT,Night (9pm-12am),Friday,11,0,0,3
+2025-11-28,Harbour Line,Morning Peak (7-10am),Friday,11,0,0,19
+2025-11-28,Harbour Line,Afternoon (12-3pm),Friday,11,0,0,5
+2025-11-28,Harbour Line,Evening Peak (5-8pm),Friday,11,0,0,6
+2025-11-28,Harbour Line,Night (9pm-12am),Friday,11,0,0,7
+2025-11-29,Churchgate-Virar,Morning Peak (7-10am),Saturday,11,1,0,7
+2025-11-29,Churchgate-Virar,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-29,Churchgate-Virar,Evening Peak (5-8pm),Saturday,11,1,0,11
+2025-11-29,Churchgate-Virar,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-29,CSMT-Kalyan,Morning Peak (7-10am),Saturday,11,1,0,9
+2025-11-29,CSMT-Kalyan,Afternoon (12-3pm),Saturday,11,1,0,3
+2025-11-29,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,11,1,0,4
+2025-11-29,CSMT-Kalyan,Night (9pm-12am),Saturday,11,1,0,0
+2025-11-29,Panvel-CSMT,Morning Peak (7-10am),Saturday,11,1,0,19
+2025-11-29,Panvel-CSMT,Afternoon (12-3pm),Saturday,11,1,0,4
+2025-11-29,Panvel-CSMT,Evening Peak (5-8pm),Saturday,11,1,0,1
+2025-11-29,Panvel-CSMT,Night (9pm-12am),Saturday,11,1,0,2
+2025-11-29,Harbour Line,Morning Peak (7-10am),Saturday,11,1,0,12
+2025-11-29,Harbour Line,Afternoon (12-3pm),Saturday,11,1,0,0
+2025-11-29,Harbour Line,Evening Peak (5-8pm),Saturday,11,1,0,4
+2025-11-29,Harbour Line,Night (9pm-12am),Saturday,11,1,0,3
+2025-11-30,Churchgate-Virar,Morning Peak (7-10am),Sunday,11,1,0,0
+2025-11-30,Churchgate-Virar,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-30,Churchgate-Virar,Evening Peak (5-8pm),Sunday,11,1,0,5
+2025-11-30,Churchgate-Virar,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-30,CSMT-Kalyan,Morning Peak (7-10am),Sunday,11,1,0,15
+2025-11-30,CSMT-Kalyan,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-30,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,11,1,0,10
+2025-11-30,CSMT-Kalyan,Night (9pm-12am),Sunday,11,1,0,2
+2025-11-30,Panvel-CSMT,Morning Peak (7-10am),Sunday,11,1,0,8
+2025-11-30,Panvel-CSMT,Afternoon (12-3pm),Sunday,11,1,0,1
+2025-11-30,Panvel-CSMT,Evening Peak (5-8pm),Sunday,11,1,0,2
+2025-11-30,Panvel-CSMT,Night (9pm-12am),Sunday,11,1,0,0
+2025-11-30,Harbour Line,Morning Peak (7-10am),Sunday,11,1,0,7
+2025-11-30,Harbour Line,Afternoon (12-3pm),Sunday,11,1,0,0
+2025-11-30,Harbour Line,Evening Peak (5-8pm),Sunday,11,1,0,3
+2025-11-30,Harbour Line,Night (9pm-12am),Sunday,11,1,0,2
+2025-12-01,Churchgate-Virar,Morning Peak (7-10am),Monday,12,0,0,10
+2025-12-01,Churchgate-Virar,Afternoon (12-3pm),Monday,12,0,0,1
+2025-12-01,Churchgate-Virar,Evening Peak (5-8pm),Monday,12,0,0,24
+2025-12-01,Churchgate-Virar,Night (9pm-12am),Monday,12,0,0,3
+2025-12-01,CSMT-Kalyan,Morning Peak (7-10am),Monday,12,0,0,19
+2025-12-01,CSMT-Kalyan,Afternoon (12-3pm),Monday,12,0,0,5
+2025-12-01,CSMT-Kalyan,Evening Peak (5-8pm),Monday,12,0,0,21
+2025-12-01,CSMT-Kalyan,Night (9pm-12am),Monday,12,0,0,7
+2025-12-01,Panvel-CSMT,Morning Peak (7-10am),Monday,12,0,0,10
+2025-12-01,Panvel-CSMT,Afternoon (12-3pm),Monday,12,0,0,2
+2025-12-01,Panvel-CSMT,Evening Peak (5-8pm),Monday,12,0,0,6
+2025-12-01,Panvel-CSMT,Night (9pm-12am),Monday,12,0,0,7
+2025-12-01,Harbour Line,Morning Peak (7-10am),Monday,12,0,0,23
+2025-12-01,Harbour Line,Afternoon (12-3pm),Monday,12,0,0,4
+2025-12-01,Harbour Line,Evening Peak (5-8pm),Monday,12,0,0,10
+2025-12-01,Harbour Line,Night (9pm-12am),Monday,12,0,0,9
+2025-12-02,Churchgate-Virar,Morning Peak (7-10am),Tuesday,12,0,0,8
+2025-12-02,Churchgate-Virar,Afternoon (12-3pm),Tuesday,12,0,0,2
+2025-12-02,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,12,0,0,24
+2025-12-02,Churchgate-Virar,Night (9pm-12am),Tuesday,12,0,0,0
+2025-12-02,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,12,0,0,24
+2025-12-02,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,12,0,0,0
+2025-12-02,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,12,0,0,16
+2025-12-02,CSMT-Kalyan,Night (9pm-12am),Tuesday,12,0,0,0
+2025-12-02,Panvel-CSMT,Morning Peak (7-10am),Tuesday,12,0,0,18
+2025-12-02,Panvel-CSMT,Afternoon (12-3pm),Tuesday,12,0,0,5
+2025-12-02,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,12,0,0,9
+2025-12-02,Panvel-CSMT,Night (9pm-12am),Tuesday,12,0,0,3
+2025-12-02,Harbour Line,Morning Peak (7-10am),Tuesday,12,0,0,17
+2025-12-02,Harbour Line,Afternoon (12-3pm),Tuesday,12,0,0,2
+2025-12-02,Harbour Line,Evening Peak (5-8pm),Tuesday,12,0,0,5
+2025-12-02,Harbour Line,Night (9pm-12am),Tuesday,12,0,0,5
+2025-12-03,Churchgate-Virar,Morning Peak (7-10am),Wednesday,12,0,0,22
+2025-12-03,Churchgate-Virar,Afternoon (12-3pm),Wednesday,12,0,0,7
+2025-12-03,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,12,0,0,14
+2025-12-03,Churchgate-Virar,Night (9pm-12am),Wednesday,12,0,0,4
+2025-12-03,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,12,0,0,14
+2025-12-03,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,12,0,0,1
+2025-12-03,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,12,0,0,17
+2025-12-03,CSMT-Kalyan,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-03,Panvel-CSMT,Morning Peak (7-10am),Wednesday,12,0,0,6
+2025-12-03,Panvel-CSMT,Afternoon (12-3pm),Wednesday,12,0,0,3
+2025-12-03,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,12,0,0,5
+2025-12-03,Panvel-CSMT,Night (9pm-12am),Wednesday,12,0,0,4
+2025-12-03,Harbour Line,Morning Peak (7-10am),Wednesday,12,0,0,13
+2025-12-03,Harbour Line,Afternoon (12-3pm),Wednesday,12,0,0,0
+2025-12-03,Harbour Line,Evening Peak (5-8pm),Wednesday,12,0,0,13
+2025-12-03,Harbour Line,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-04,Churchgate-Virar,Morning Peak (7-10am),Thursday,12,0,0,10
+2025-12-04,Churchgate-Virar,Afternoon (12-3pm),Thursday,12,0,0,6
+2025-12-04,Churchgate-Virar,Evening Peak (5-8pm),Thursday,12,0,0,7
+2025-12-04,Churchgate-Virar,Night (9pm-12am),Thursday,12,0,0,0
+2025-12-04,CSMT-Kalyan,Morning Peak (7-10am),Thursday,12,0,0,9
+2025-12-04,CSMT-Kalyan,Afternoon (12-3pm),Thursday,12,0,0,1
+2025-12-04,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,12,0,0,18
+2025-12-04,CSMT-Kalyan,Night (9pm-12am),Thursday,12,0,0,4
+2025-12-04,Panvel-CSMT,Morning Peak (7-10am),Thursday,12,0,0,15
+2025-12-04,Panvel-CSMT,Afternoon (12-3pm),Thursday,12,0,0,8
+2025-12-04,Panvel-CSMT,Evening Peak (5-8pm),Thursday,12,0,0,6
+2025-12-04,Panvel-CSMT,Night (9pm-12am),Thursday,12,0,0,2
+2025-12-04,Harbour Line,Morning Peak (7-10am),Thursday,12,0,0,7
+2025-12-04,Harbour Line,Afternoon (12-3pm),Thursday,12,0,0,0
+2025-12-04,Harbour Line,Evening Peak (5-8pm),Thursday,12,0,0,12
+2025-12-04,Harbour Line,Night (9pm-12am),Thursday,12,0,0,5
+2025-12-05,Churchgate-Virar,Morning Peak (7-10am),Friday,12,0,0,12
+2025-12-05,Churchgate-Virar,Afternoon (12-3pm),Friday,12,0,0,8
+2025-12-05,Churchgate-Virar,Evening Peak (5-8pm),Friday,12,0,0,9
+2025-12-05,Churchgate-Virar,Night (9pm-12am),Friday,12,0,0,2
+2025-12-05,CSMT-Kalyan,Morning Peak (7-10am),Friday,12,0,0,9
+2025-12-05,CSMT-Kalyan,Afternoon (12-3pm),Friday,12,0,0,4
+2025-12-05,CSMT-Kalyan,Evening Peak (5-8pm),Friday,12,0,0,23
+2025-12-05,CSMT-Kalyan,Night (9pm-12am),Friday,12,0,0,9
+2025-12-05,Panvel-CSMT,Morning Peak (7-10am),Friday,12,0,0,8
+2025-12-05,Panvel-CSMT,Afternoon (12-3pm),Friday,12,0,0,8
+2025-12-05,Panvel-CSMT,Evening Peak (5-8pm),Friday,12,0,0,17
+2025-12-05,Panvel-CSMT,Night (9pm-12am),Friday,12,0,0,9
+2025-12-05,Harbour Line,Morning Peak (7-10am),Friday,12,0,0,22
+2025-12-05,Harbour Line,Afternoon (12-3pm),Friday,12,0,0,7
+2025-12-05,Harbour Line,Evening Peak (5-8pm),Friday,12,0,0,12
+2025-12-05,Harbour Line,Night (9pm-12am),Friday,12,0,0,6
+2025-12-06,Churchgate-Virar,Morning Peak (7-10am),Saturday,12,1,0,7
+2025-12-06,Churchgate-Virar,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-06,Churchgate-Virar,Evening Peak (5-8pm),Saturday,12,1,0,5
+2025-12-06,Churchgate-Virar,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-06,CSMT-Kalyan,Morning Peak (7-10am),Saturday,12,1,0,14
+2025-12-06,CSMT-Kalyan,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-06,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,12,1,0,16
+2025-12-06,CSMT-Kalyan,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-06,Panvel-CSMT,Morning Peak (7-10am),Saturday,12,1,0,14
+2025-12-06,Panvel-CSMT,Afternoon (12-3pm),Saturday,12,1,0,1
+2025-12-06,Panvel-CSMT,Evening Peak (5-8pm),Saturday,12,1,0,1
+2025-12-06,Panvel-CSMT,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-06,Harbour Line,Morning Peak (7-10am),Saturday,12,1,0,7
+2025-12-06,Harbour Line,Afternoon (12-3pm),Saturday,12,1,0,2
+2025-12-06,Harbour Line,Evening Peak (5-8pm),Saturday,12,1,0,18
+2025-12-06,Harbour Line,Night (9pm-12am),Saturday,12,1,0,1
+2025-12-07,Churchgate-Virar,Morning Peak (7-10am),Sunday,12,1,0,18
+2025-12-07,Churchgate-Virar,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-07,Churchgate-Virar,Evening Peak (5-8pm),Sunday,12,1,0,5
+2025-12-07,Churchgate-Virar,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-07,CSMT-Kalyan,Morning Peak (7-10am),Sunday,12,1,0,6
+2025-12-07,CSMT-Kalyan,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-07,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,12,1,0,7
+2025-12-07,CSMT-Kalyan,Night (9pm-12am),Sunday,12,1,0,4
+2025-12-07,Panvel-CSMT,Morning Peak (7-10am),Sunday,12,1,0,19
+2025-12-07,Panvel-CSMT,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-07,Panvel-CSMT,Evening Peak (5-8pm),Sunday,12,1,0,19
+2025-12-07,Panvel-CSMT,Night (9pm-12am),Sunday,12,1,0,1
+2025-12-07,Harbour Line,Morning Peak (7-10am),Sunday,12,1,0,3
+2025-12-07,Harbour Line,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-07,Harbour Line,Evening Peak (5-8pm),Sunday,12,1,0,0
+2025-12-07,Harbour Line,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-08,Churchgate-Virar,Morning Peak (7-10am),Monday,12,0,0,5
+2025-12-08,Churchgate-Virar,Afternoon (12-3pm),Monday,12,0,0,3
+2025-12-08,Churchgate-Virar,Evening Peak (5-8pm),Monday,12,0,0,6
+2025-12-08,Churchgate-Virar,Night (9pm-12am),Monday,12,0,0,9
+2025-12-08,CSMT-Kalyan,Morning Peak (7-10am),Monday,12,0,0,9
+2025-12-08,CSMT-Kalyan,Afternoon (12-3pm),Monday,12,0,0,9
+2025-12-08,CSMT-Kalyan,Evening Peak (5-8pm),Monday,12,0,0,5
+2025-12-08,CSMT-Kalyan,Night (9pm-12am),Monday,12,0,0,5
+2025-12-08,Panvel-CSMT,Morning Peak (7-10am),Monday,12,0,0,10
+2025-12-08,Panvel-CSMT,Afternoon (12-3pm),Monday,12,0,0,3
+2025-12-08,Panvel-CSMT,Evening Peak (5-8pm),Monday,12,0,0,17
+2025-12-08,Panvel-CSMT,Night (9pm-12am),Monday,12,0,0,7
+2025-12-08,Harbour Line,Morning Peak (7-10am),Monday,12,0,0,24
+2025-12-08,Harbour Line,Afternoon (12-3pm),Monday,12,0,0,7
+2025-12-08,Harbour Line,Evening Peak (5-8pm),Monday,12,0,0,19
+2025-12-08,Harbour Line,Night (9pm-12am),Monday,12,0,0,7
+2025-12-09,Churchgate-Virar,Morning Peak (7-10am),Tuesday,12,0,0,9
+2025-12-09,Churchgate-Virar,Afternoon (12-3pm),Tuesday,12,0,0,3
+2025-12-09,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,12,0,0,16
+2025-12-09,Churchgate-Virar,Night (9pm-12am),Tuesday,12,0,0,1
+2025-12-09,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,12,0,0,23
+2025-12-09,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,12,0,0,2
+2025-12-09,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,12,0,0,8
+2025-12-09,CSMT-Kalyan,Night (9pm-12am),Tuesday,12,0,0,3
+2025-12-09,Panvel-CSMT,Morning Peak (7-10am),Tuesday,12,0,0,15
+2025-12-09,Panvel-CSMT,Afternoon (12-3pm),Tuesday,12,0,0,4
+2025-12-09,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,12,0,0,24
+2025-12-09,Panvel-CSMT,Night (9pm-12am),Tuesday,12,0,0,9
+2025-12-09,Harbour Line,Morning Peak (7-10am),Tuesday,12,0,0,12
+2025-12-09,Harbour Line,Afternoon (12-3pm),Tuesday,12,0,0,5
+2025-12-09,Harbour Line,Evening Peak (5-8pm),Tuesday,12,0,0,10
+2025-12-09,Harbour Line,Night (9pm-12am),Tuesday,12,0,0,7
+2025-12-10,Churchgate-Virar,Morning Peak (7-10am),Wednesday,12,0,0,19
+2025-12-10,Churchgate-Virar,Afternoon (12-3pm),Wednesday,12,0,0,9
+2025-12-10,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,12,0,0,18
+2025-12-10,Churchgate-Virar,Night (9pm-12am),Wednesday,12,0,0,9
+2025-12-10,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,12,0,0,17
+2025-12-10,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,12,0,0,7
+2025-12-10,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,12,0,0,22
+2025-12-10,CSMT-Kalyan,Night (9pm-12am),Wednesday,12,0,0,8
+2025-12-10,Panvel-CSMT,Morning Peak (7-10am),Wednesday,12,0,0,5
+2025-12-10,Panvel-CSMT,Afternoon (12-3pm),Wednesday,12,0,0,7
+2025-12-10,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,12,0,0,15
+2025-12-10,Panvel-CSMT,Night (9pm-12am),Wednesday,12,0,0,3
+2025-12-10,Harbour Line,Morning Peak (7-10am),Wednesday,12,0,0,20
+2025-12-10,Harbour Line,Afternoon (12-3pm),Wednesday,12,0,0,3
+2025-12-10,Harbour Line,Evening Peak (5-8pm),Wednesday,12,0,0,9
+2025-12-10,Harbour Line,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-11,Churchgate-Virar,Morning Peak (7-10am),Thursday,12,0,0,9
+2025-12-11,Churchgate-Virar,Afternoon (12-3pm),Thursday,12,0,0,7
+2025-12-11,Churchgate-Virar,Evening Peak (5-8pm),Thursday,12,0,0,14
+2025-12-11,Churchgate-Virar,Night (9pm-12am),Thursday,12,0,0,0
+2025-12-11,CSMT-Kalyan,Morning Peak (7-10am),Thursday,12,0,0,13
+2025-12-11,CSMT-Kalyan,Afternoon (12-3pm),Thursday,12,0,0,5
+2025-12-11,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,12,0,0,23
+2025-12-11,CSMT-Kalyan,Night (9pm-12am),Thursday,12,0,0,7
+2025-12-11,Panvel-CSMT,Morning Peak (7-10am),Thursday,12,0,0,13
+2025-12-11,Panvel-CSMT,Afternoon (12-3pm),Thursday,12,0,0,5
+2025-12-11,Panvel-CSMT,Evening Peak (5-8pm),Thursday,12,0,0,15
+2025-12-11,Panvel-CSMT,Night (9pm-12am),Thursday,12,0,0,6
+2025-12-11,Harbour Line,Morning Peak (7-10am),Thursday,12,0,0,5
+2025-12-11,Harbour Line,Afternoon (12-3pm),Thursday,12,0,0,4
+2025-12-11,Harbour Line,Evening Peak (5-8pm),Thursday,12,0,0,18
+2025-12-11,Harbour Line,Night (9pm-12am),Thursday,12,0,0,3
+2025-12-12,Churchgate-Virar,Morning Peak (7-10am),Friday,12,0,0,5
+2025-12-12,Churchgate-Virar,Afternoon (12-3pm),Friday,12,0,0,5
+2025-12-12,Churchgate-Virar,Evening Peak (5-8pm),Friday,12,0,0,23
+2025-12-12,Churchgate-Virar,Night (9pm-12am),Friday,12,0,0,7
+2025-12-12,CSMT-Kalyan,Morning Peak (7-10am),Friday,12,0,0,19
+2025-12-12,CSMT-Kalyan,Afternoon (12-3pm),Friday,12,0,0,4
+2025-12-12,CSMT-Kalyan,Evening Peak (5-8pm),Friday,12,0,0,19
+2025-12-12,CSMT-Kalyan,Night (9pm-12am),Friday,12,0,0,8
+2025-12-12,Panvel-CSMT,Morning Peak (7-10am),Friday,12,0,0,13
+2025-12-12,Panvel-CSMT,Afternoon (12-3pm),Friday,12,0,0,9
+2025-12-12,Panvel-CSMT,Evening Peak (5-8pm),Friday,12,0,0,24
+2025-12-12,Panvel-CSMT,Night (9pm-12am),Friday,12,0,0,8
+2025-12-12,Harbour Line,Morning Peak (7-10am),Friday,12,0,0,13
+2025-12-12,Harbour Line,Afternoon (12-3pm),Friday,12,0,0,2
+2025-12-12,Harbour Line,Evening Peak (5-8pm),Friday,12,0,0,24
+2025-12-12,Harbour Line,Night (9pm-12am),Friday,12,0,0,8
+2025-12-13,Churchgate-Virar,Morning Peak (7-10am),Saturday,12,1,0,10
+2025-12-13,Churchgate-Virar,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-13,Churchgate-Virar,Evening Peak (5-8pm),Saturday,12,1,0,1
+2025-12-13,Churchgate-Virar,Night (9pm-12am),Saturday,12,1,0,1
+2025-12-13,CSMT-Kalyan,Morning Peak (7-10am),Saturday,12,1,0,17
+2025-12-13,CSMT-Kalyan,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-13,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,12,1,0,16
+2025-12-13,CSMT-Kalyan,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-13,Panvel-CSMT,Morning Peak (7-10am),Saturday,12,1,0,6
+2025-12-13,Panvel-CSMT,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-13,Panvel-CSMT,Evening Peak (5-8pm),Saturday,12,1,0,5
+2025-12-13,Panvel-CSMT,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-13,Harbour Line,Morning Peak (7-10am),Saturday,12,1,0,0
+2025-12-13,Harbour Line,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-13,Harbour Line,Evening Peak (5-8pm),Saturday,12,1,0,10
+2025-12-13,Harbour Line,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-14,Churchgate-Virar,Morning Peak (7-10am),Sunday,12,1,0,17
+2025-12-14,Churchgate-Virar,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-14,Churchgate-Virar,Evening Peak (5-8pm),Sunday,12,1,0,16
+2025-12-14,Churchgate-Virar,Night (9pm-12am),Sunday,12,1,0,1
+2025-12-14,CSMT-Kalyan,Morning Peak (7-10am),Sunday,12,1,0,16
+2025-12-14,CSMT-Kalyan,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-14,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,12,1,0,8
+2025-12-14,CSMT-Kalyan,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-14,Panvel-CSMT,Morning Peak (7-10am),Sunday,12,1,0,19
+2025-12-14,Panvel-CSMT,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-14,Panvel-CSMT,Evening Peak (5-8pm),Sunday,12,1,0,7
+2025-12-14,Panvel-CSMT,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-14,Harbour Line,Morning Peak (7-10am),Sunday,12,1,0,6
+2025-12-14,Harbour Line,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-14,Harbour Line,Evening Peak (5-8pm),Sunday,12,1,0,12
+2025-12-14,Harbour Line,Night (9pm-12am),Sunday,12,1,0,1
+2025-12-15,Churchgate-Virar,Morning Peak (7-10am),Monday,12,0,0,23
+2025-12-15,Churchgate-Virar,Afternoon (12-3pm),Monday,12,0,0,7
+2025-12-15,Churchgate-Virar,Evening Peak (5-8pm),Monday,12,0,0,23
+2025-12-15,Churchgate-Virar,Night (9pm-12am),Monday,12,0,0,0
+2025-12-15,CSMT-Kalyan,Morning Peak (7-10am),Monday,12,0,0,17
+2025-12-15,CSMT-Kalyan,Afternoon (12-3pm),Monday,12,0,0,7
+2025-12-15,CSMT-Kalyan,Evening Peak (5-8pm),Monday,12,0,0,23
+2025-12-15,CSMT-Kalyan,Night (9pm-12am),Monday,12,0,0,1
+2025-12-15,Panvel-CSMT,Morning Peak (7-10am),Monday,12,0,0,5
+2025-12-15,Panvel-CSMT,Afternoon (12-3pm),Monday,12,0,0,2
+2025-12-15,Panvel-CSMT,Evening Peak (5-8pm),Monday,12,0,0,19
+2025-12-15,Panvel-CSMT,Night (9pm-12am),Monday,12,0,0,1
+2025-12-15,Harbour Line,Morning Peak (7-10am),Monday,12,0,0,6
+2025-12-15,Harbour Line,Afternoon (12-3pm),Monday,12,0,0,5
+2025-12-15,Harbour Line,Evening Peak (5-8pm),Monday,12,0,0,21
+2025-12-15,Harbour Line,Night (9pm-12am),Monday,12,0,0,1
+2025-12-16,Churchgate-Virar,Morning Peak (7-10am),Tuesday,12,0,0,10
+2025-12-16,Churchgate-Virar,Afternoon (12-3pm),Tuesday,12,0,0,2
+2025-12-16,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,12,0,0,8
+2025-12-16,Churchgate-Virar,Night (9pm-12am),Tuesday,12,0,0,0
+2025-12-16,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,12,0,0,12
+2025-12-16,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,12,0,0,6
+2025-12-16,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,12,0,0,11
+2025-12-16,CSMT-Kalyan,Night (9pm-12am),Tuesday,12,0,0,2
+2025-12-16,Panvel-CSMT,Morning Peak (7-10am),Tuesday,12,0,0,14
+2025-12-16,Panvel-CSMT,Afternoon (12-3pm),Tuesday,12,0,0,9
+2025-12-16,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,12,0,0,23
+2025-12-16,Panvel-CSMT,Night (9pm-12am),Tuesday,12,0,0,1
+2025-12-16,Harbour Line,Morning Peak (7-10am),Tuesday,12,0,0,5
+2025-12-16,Harbour Line,Afternoon (12-3pm),Tuesday,12,0,0,6
+2025-12-16,Harbour Line,Evening Peak (5-8pm),Tuesday,12,0,0,22
+2025-12-16,Harbour Line,Night (9pm-12am),Tuesday,12,0,0,6
+2025-12-17,Churchgate-Virar,Morning Peak (7-10am),Wednesday,12,0,0,12
+2025-12-17,Churchgate-Virar,Afternoon (12-3pm),Wednesday,12,0,0,0
+2025-12-17,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,12,0,0,7
+2025-12-17,Churchgate-Virar,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-17,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,12,0,0,12
+2025-12-17,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,12,0,0,5
+2025-12-17,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,12,0,0,19
+2025-12-17,CSMT-Kalyan,Night (9pm-12am),Wednesday,12,0,0,4
+2025-12-17,Panvel-CSMT,Morning Peak (7-10am),Wednesday,12,0,0,7
+2025-12-17,Panvel-CSMT,Afternoon (12-3pm),Wednesday,12,0,0,2
+2025-12-17,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,12,0,0,5
+2025-12-17,Panvel-CSMT,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-17,Harbour Line,Morning Peak (7-10am),Wednesday,12,0,0,6
+2025-12-17,Harbour Line,Afternoon (12-3pm),Wednesday,12,0,0,2
+2025-12-17,Harbour Line,Evening Peak (5-8pm),Wednesday,12,0,0,18
+2025-12-17,Harbour Line,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-18,Churchgate-Virar,Morning Peak (7-10am),Thursday,12,0,0,18
+2025-12-18,Churchgate-Virar,Afternoon (12-3pm),Thursday,12,0,0,3
+2025-12-18,Churchgate-Virar,Evening Peak (5-8pm),Thursday,12,0,0,24
+2025-12-18,Churchgate-Virar,Night (9pm-12am),Thursday,12,0,0,4
+2025-12-18,CSMT-Kalyan,Morning Peak (7-10am),Thursday,12,0,0,18
+2025-12-18,CSMT-Kalyan,Afternoon (12-3pm),Thursday,12,0,0,6
+2025-12-18,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,12,0,0,20
+2025-12-18,CSMT-Kalyan,Night (9pm-12am),Thursday,12,0,0,1
+2025-12-18,Panvel-CSMT,Morning Peak (7-10am),Thursday,12,0,0,11
+2025-12-18,Panvel-CSMT,Afternoon (12-3pm),Thursday,12,0,0,9
+2025-12-18,Panvel-CSMT,Evening Peak (5-8pm),Thursday,12,0,0,11
+2025-12-18,Panvel-CSMT,Night (9pm-12am),Thursday,12,0,0,0
+2025-12-18,Harbour Line,Morning Peak (7-10am),Thursday,12,0,0,23
+2025-12-18,Harbour Line,Afternoon (12-3pm),Thursday,12,0,0,2
+2025-12-18,Harbour Line,Evening Peak (5-8pm),Thursday,12,0,0,8
+2025-12-18,Harbour Line,Night (9pm-12am),Thursday,12,0,0,1
+2025-12-19,Churchgate-Virar,Morning Peak (7-10am),Friday,12,0,0,6
+2025-12-19,Churchgate-Virar,Afternoon (12-3pm),Friday,12,0,0,0
+2025-12-19,Churchgate-Virar,Evening Peak (5-8pm),Friday,12,0,0,19
+2025-12-19,Churchgate-Virar,Night (9pm-12am),Friday,12,0,0,4
+2025-12-19,CSMT-Kalyan,Morning Peak (7-10am),Friday,12,0,0,24
+2025-12-19,CSMT-Kalyan,Afternoon (12-3pm),Friday,12,0,0,9
+2025-12-19,CSMT-Kalyan,Evening Peak (5-8pm),Friday,12,0,0,6
+2025-12-19,CSMT-Kalyan,Night (9pm-12am),Friday,12,0,0,2
+2025-12-19,Panvel-CSMT,Morning Peak (7-10am),Friday,12,0,0,16
+2025-12-19,Panvel-CSMT,Afternoon (12-3pm),Friday,12,0,0,3
+2025-12-19,Panvel-CSMT,Evening Peak (5-8pm),Friday,12,0,0,9
+2025-12-19,Panvel-CSMT,Night (9pm-12am),Friday,12,0,0,4
+2025-12-19,Harbour Line,Morning Peak (7-10am),Friday,12,0,0,10
+2025-12-19,Harbour Line,Afternoon (12-3pm),Friday,12,0,0,8
+2025-12-19,Harbour Line,Evening Peak (5-8pm),Friday,12,0,0,6
+2025-12-19,Harbour Line,Night (9pm-12am),Friday,12,0,0,4
+2025-12-20,Churchgate-Virar,Morning Peak (7-10am),Saturday,12,1,0,11
+2025-12-20,Churchgate-Virar,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-20,Churchgate-Virar,Evening Peak (5-8pm),Saturday,12,1,0,19
+2025-12-20,Churchgate-Virar,Night (9pm-12am),Saturday,12,1,0,4
+2025-12-20,CSMT-Kalyan,Morning Peak (7-10am),Saturday,12,1,0,11
+2025-12-20,CSMT-Kalyan,Afternoon (12-3pm),Saturday,12,1,0,2
+2025-12-20,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,12,1,0,16
+2025-12-20,CSMT-Kalyan,Night (9pm-12am),Saturday,12,1,0,4
+2025-12-20,Panvel-CSMT,Morning Peak (7-10am),Saturday,12,1,0,13
+2025-12-20,Panvel-CSMT,Afternoon (12-3pm),Saturday,12,1,0,1
+2025-12-20,Panvel-CSMT,Evening Peak (5-8pm),Saturday,12,1,0,16
+2025-12-20,Panvel-CSMT,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-20,Harbour Line,Morning Peak (7-10am),Saturday,12,1,0,18
+2025-12-20,Harbour Line,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-20,Harbour Line,Evening Peak (5-8pm),Saturday,12,1,0,13
+2025-12-20,Harbour Line,Night (9pm-12am),Saturday,12,1,0,3
+2025-12-21,Churchgate-Virar,Morning Peak (7-10am),Sunday,12,1,0,7
+2025-12-21,Churchgate-Virar,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-21,Churchgate-Virar,Evening Peak (5-8pm),Sunday,12,1,0,12
+2025-12-21,Churchgate-Virar,Night (9pm-12am),Sunday,12,1,0,3
+2025-12-21,CSMT-Kalyan,Morning Peak (7-10am),Sunday,12,1,0,6
+2025-12-21,CSMT-Kalyan,Afternoon (12-3pm),Sunday,12,1,0,3
+2025-12-21,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,12,1,0,10
+2025-12-21,CSMT-Kalyan,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-21,Panvel-CSMT,Morning Peak (7-10am),Sunday,12,1,0,12
+2025-12-21,Panvel-CSMT,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-21,Panvel-CSMT,Evening Peak (5-8pm),Sunday,12,1,0,4
+2025-12-21,Panvel-CSMT,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-21,Harbour Line,Morning Peak (7-10am),Sunday,12,1,0,17
+2025-12-21,Harbour Line,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-21,Harbour Line,Evening Peak (5-8pm),Sunday,12,1,0,9
+2025-12-21,Harbour Line,Night (9pm-12am),Sunday,12,1,0,0
+2025-12-22,Churchgate-Virar,Morning Peak (7-10am),Monday,12,0,0,13
+2025-12-22,Churchgate-Virar,Afternoon (12-3pm),Monday,12,0,0,5
+2025-12-22,Churchgate-Virar,Evening Peak (5-8pm),Monday,12,0,0,6
+2025-12-22,Churchgate-Virar,Night (9pm-12am),Monday,12,0,0,0
+2025-12-22,CSMT-Kalyan,Morning Peak (7-10am),Monday,12,0,0,9
+2025-12-22,CSMT-Kalyan,Afternoon (12-3pm),Monday,12,0,0,8
+2025-12-22,CSMT-Kalyan,Evening Peak (5-8pm),Monday,12,0,0,10
+2025-12-22,CSMT-Kalyan,Night (9pm-12am),Monday,12,0,0,9
+2025-12-22,Panvel-CSMT,Morning Peak (7-10am),Monday,12,0,0,16
+2025-12-22,Panvel-CSMT,Afternoon (12-3pm),Monday,12,0,0,6
+2025-12-22,Panvel-CSMT,Evening Peak (5-8pm),Monday,12,0,0,14
+2025-12-22,Panvel-CSMT,Night (9pm-12am),Monday,12,0,0,5
+2025-12-22,Harbour Line,Morning Peak (7-10am),Monday,12,0,0,10
+2025-12-22,Harbour Line,Afternoon (12-3pm),Monday,12,0,0,7
+2025-12-22,Harbour Line,Evening Peak (5-8pm),Monday,12,0,0,6
+2025-12-22,Harbour Line,Night (9pm-12am),Monday,12,0,0,8
+2025-12-23,Churchgate-Virar,Morning Peak (7-10am),Tuesday,12,0,0,11
+2025-12-23,Churchgate-Virar,Afternoon (12-3pm),Tuesday,12,0,0,9
+2025-12-23,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,12,0,0,17
+2025-12-23,Churchgate-Virar,Night (9pm-12am),Tuesday,12,0,0,0
+2025-12-23,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,12,0,0,18
+2025-12-23,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,12,0,0,1
+2025-12-23,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,12,0,0,15
+2025-12-23,CSMT-Kalyan,Night (9pm-12am),Tuesday,12,0,0,0
+2025-12-23,Panvel-CSMT,Morning Peak (7-10am),Tuesday,12,0,0,23
+2025-12-23,Panvel-CSMT,Afternoon (12-3pm),Tuesday,12,0,0,4
+2025-12-23,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,12,0,0,8
+2025-12-23,Panvel-CSMT,Night (9pm-12am),Tuesday,12,0,0,2
+2025-12-23,Harbour Line,Morning Peak (7-10am),Tuesday,12,0,0,15
+2025-12-23,Harbour Line,Afternoon (12-3pm),Tuesday,12,0,0,7
+2025-12-23,Harbour Line,Evening Peak (5-8pm),Tuesday,12,0,0,15
+2025-12-23,Harbour Line,Night (9pm-12am),Tuesday,12,0,0,3
+2025-12-24,Churchgate-Virar,Morning Peak (7-10am),Wednesday,12,0,0,21
+2025-12-24,Churchgate-Virar,Afternoon (12-3pm),Wednesday,12,0,0,6
+2025-12-24,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,12,0,0,12
+2025-12-24,Churchgate-Virar,Night (9pm-12am),Wednesday,12,0,0,2
+2025-12-24,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,12,0,0,6
+2025-12-24,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,12,0,0,6
+2025-12-24,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,12,0,0,19
+2025-12-24,CSMT-Kalyan,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-24,Panvel-CSMT,Morning Peak (7-10am),Wednesday,12,0,0,9
+2025-12-24,Panvel-CSMT,Afternoon (12-3pm),Wednesday,12,0,0,7
+2025-12-24,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,12,0,0,5
+2025-12-24,Panvel-CSMT,Night (9pm-12am),Wednesday,12,0,0,9
+2025-12-24,Harbour Line,Morning Peak (7-10am),Wednesday,12,0,0,8
+2025-12-24,Harbour Line,Afternoon (12-3pm),Wednesday,12,0,0,3
+2025-12-24,Harbour Line,Evening Peak (5-8pm),Wednesday,12,0,0,23
+2025-12-24,Harbour Line,Night (9pm-12am),Wednesday,12,0,0,2
+2025-12-25,Churchgate-Virar,Morning Peak (7-10am),Thursday,12,0,0,24
+2025-12-25,Churchgate-Virar,Afternoon (12-3pm),Thursday,12,0,0,0
+2025-12-25,Churchgate-Virar,Evening Peak (5-8pm),Thursday,12,0,0,17
+2025-12-25,Churchgate-Virar,Night (9pm-12am),Thursday,12,0,0,1
+2025-12-25,CSMT-Kalyan,Morning Peak (7-10am),Thursday,12,0,0,13
+2025-12-25,CSMT-Kalyan,Afternoon (12-3pm),Thursday,12,0,0,9
+2025-12-25,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,12,0,0,6
+2025-12-25,CSMT-Kalyan,Night (9pm-12am),Thursday,12,0,0,4
+2025-12-25,Panvel-CSMT,Morning Peak (7-10am),Thursday,12,0,0,13
+2025-12-25,Panvel-CSMT,Afternoon (12-3pm),Thursday,12,0,0,8
+2025-12-25,Panvel-CSMT,Evening Peak (5-8pm),Thursday,12,0,0,12
+2025-12-25,Panvel-CSMT,Night (9pm-12am),Thursday,12,0,0,0
+2025-12-25,Harbour Line,Morning Peak (7-10am),Thursday,12,0,0,5
+2025-12-25,Harbour Line,Afternoon (12-3pm),Thursday,12,0,0,8
+2025-12-25,Harbour Line,Evening Peak (5-8pm),Thursday,12,0,0,15
+2025-12-25,Harbour Line,Night (9pm-12am),Thursday,12,0,0,7
+2025-12-26,Churchgate-Virar,Morning Peak (7-10am),Friday,12,0,0,14
+2025-12-26,Churchgate-Virar,Afternoon (12-3pm),Friday,12,0,0,8
+2025-12-26,Churchgate-Virar,Evening Peak (5-8pm),Friday,12,0,0,11
+2025-12-26,Churchgate-Virar,Night (9pm-12am),Friday,12,0,0,2
+2025-12-26,CSMT-Kalyan,Morning Peak (7-10am),Friday,12,0,0,7
+2025-12-26,CSMT-Kalyan,Afternoon (12-3pm),Friday,12,0,0,1
+2025-12-26,CSMT-Kalyan,Evening Peak (5-8pm),Friday,12,0,0,9
+2025-12-26,CSMT-Kalyan,Night (9pm-12am),Friday,12,0,0,2
+2025-12-26,Panvel-CSMT,Morning Peak (7-10am),Friday,12,0,0,10
+2025-12-26,Panvel-CSMT,Afternoon (12-3pm),Friday,12,0,0,1
+2025-12-26,Panvel-CSMT,Evening Peak (5-8pm),Friday,12,0,0,16
+2025-12-26,Panvel-CSMT,Night (9pm-12am),Friday,12,0,0,2
+2025-12-26,Harbour Line,Morning Peak (7-10am),Friday,12,0,0,9
+2025-12-26,Harbour Line,Afternoon (12-3pm),Friday,12,0,0,0
+2025-12-26,Harbour Line,Evening Peak (5-8pm),Friday,12,0,0,21
+2025-12-26,Harbour Line,Night (9pm-12am),Friday,12,0,0,9
+2025-12-27,Churchgate-Virar,Morning Peak (7-10am),Saturday,12,1,0,16
+2025-12-27,Churchgate-Virar,Afternoon (12-3pm),Saturday,12,1,0,2
+2025-12-27,Churchgate-Virar,Evening Peak (5-8pm),Saturday,12,1,0,18
+2025-12-27,Churchgate-Virar,Night (9pm-12am),Saturday,12,1,0,2
+2025-12-27,CSMT-Kalyan,Morning Peak (7-10am),Saturday,12,1,0,16
+2025-12-27,CSMT-Kalyan,Afternoon (12-3pm),Saturday,12,1,0,1
+2025-12-27,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,12,1,0,4
+2025-12-27,CSMT-Kalyan,Night (9pm-12am),Saturday,12,1,0,0
+2025-12-27,Panvel-CSMT,Morning Peak (7-10am),Saturday,12,1,0,15
+2025-12-27,Panvel-CSMT,Afternoon (12-3pm),Saturday,12,1,0,0
+2025-12-27,Panvel-CSMT,Evening Peak (5-8pm),Saturday,12,1,0,7
+2025-12-27,Panvel-CSMT,Night (9pm-12am),Saturday,12,1,0,3
+2025-12-27,Harbour Line,Morning Peak (7-10am),Saturday,12,1,0,17
+2025-12-27,Harbour Line,Afternoon (12-3pm),Saturday,12,1,0,3
+2025-12-27,Harbour Line,Evening Peak (5-8pm),Saturday,12,1,0,11
+2025-12-27,Harbour Line,Night (9pm-12am),Saturday,12,1,0,4
+2025-12-28,Churchgate-Virar,Morning Peak (7-10am),Sunday,12,1,0,8
+2025-12-28,Churchgate-Virar,Afternoon (12-3pm),Sunday,12,1,0,4
+2025-12-28,Churchgate-Virar,Evening Peak (5-8pm),Sunday,12,1,0,14
+2025-12-28,Churchgate-Virar,Night (9pm-12am),Sunday,12,1,0,4
+2025-12-28,CSMT-Kalyan,Morning Peak (7-10am),Sunday,12,1,0,15
+2025-12-28,CSMT-Kalyan,Afternoon (12-3pm),Sunday,12,1,0,1
+2025-12-28,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,12,1,0,16
+2025-12-28,CSMT-Kalyan,Night (9pm-12am),Sunday,12,1,0,1
+2025-12-28,Panvel-CSMT,Morning Peak (7-10am),Sunday,12,1,0,6
+2025-12-28,Panvel-CSMT,Afternoon (12-3pm),Sunday,12,1,0,0
+2025-12-28,Panvel-CSMT,Evening Peak (5-8pm),Sunday,12,1,0,6
+2025-12-28,Panvel-CSMT,Night (9pm-12am),Sunday,12,1,0,3
+2025-12-28,Harbour Line,Morning Peak (7-10am),Sunday,12,1,0,18
+2025-12-28,Harbour Line,Afternoon (12-3pm),Sunday,12,1,0,2
+2025-12-28,Harbour Line,Evening Peak (5-8pm),Sunday,12,1,0,17
+2025-12-28,Harbour Line,Night (9pm-12am),Sunday,12,1,0,1
+2025-12-29,Churchgate-Virar,Morning Peak (7-10am),Monday,12,0,0,22
+2025-12-29,Churchgate-Virar,Afternoon (12-3pm),Monday,12,0,0,3
+2025-12-29,Churchgate-Virar,Evening Peak (5-8pm),Monday,12,0,0,11
+2025-12-29,Churchgate-Virar,Night (9pm-12am),Monday,12,0,0,2
+2025-12-29,CSMT-Kalyan,Morning Peak (7-10am),Monday,12,0,0,22
+2025-12-29,CSMT-Kalyan,Afternoon (12-3pm),Monday,12,0,0,9
+2025-12-29,CSMT-Kalyan,Evening Peak (5-8pm),Monday,12,0,0,11
+2025-12-29,CSMT-Kalyan,Night (9pm-12am),Monday,12,0,0,0
+2025-12-29,Panvel-CSMT,Morning Peak (7-10am),Monday,12,0,0,18
+2025-12-29,Panvel-CSMT,Afternoon (12-3pm),Monday,12,0,0,7
+2025-12-29,Panvel-CSMT,Evening Peak (5-8pm),Monday,12,0,0,7
+2025-12-29,Panvel-CSMT,Night (9pm-12am),Monday,12,0,0,1
+2025-12-29,Harbour Line,Morning Peak (7-10am),Monday,12,0,0,7
+2025-12-29,Harbour Line,Afternoon (12-3pm),Monday,12,0,0,4
+2025-12-29,Harbour Line,Evening Peak (5-8pm),Monday,12,0,0,15
+2025-12-29,Harbour Line,Night (9pm-12am),Monday,12,0,0,7
+2025-12-30,Churchgate-Virar,Morning Peak (7-10am),Tuesday,12,0,0,16
+2025-12-30,Churchgate-Virar,Afternoon (12-3pm),Tuesday,12,0,0,6
+2025-12-30,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,12,0,0,19
+2025-12-30,Churchgate-Virar,Night (9pm-12am),Tuesday,12,0,0,7
+2025-12-30,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,12,0,0,21
+2025-12-30,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,12,0,0,3
+2025-12-30,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,12,0,0,17
+2025-12-30,CSMT-Kalyan,Night (9pm-12am),Tuesday,12,0,0,1
+2025-12-30,Panvel-CSMT,Morning Peak (7-10am),Tuesday,12,0,0,5
+2025-12-30,Panvel-CSMT,Afternoon (12-3pm),Tuesday,12,0,0,9
+2025-12-30,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,12,0,0,16
+2025-12-30,Panvel-CSMT,Night (9pm-12am),Tuesday,12,0,0,1
+2025-12-30,Harbour Line,Morning Peak (7-10am),Tuesday,12,0,0,7
+2025-12-30,Harbour Line,Afternoon (12-3pm),Tuesday,12,0,0,9
+2025-12-30,Harbour Line,Evening Peak (5-8pm),Tuesday,12,0,0,6
+2025-12-30,Harbour Line,Night (9pm-12am),Tuesday,12,0,0,6
+2025-12-31,Churchgate-Virar,Morning Peak (7-10am),Wednesday,12,0,0,17
+2025-12-31,Churchgate-Virar,Afternoon (12-3pm),Wednesday,12,0,0,1
+2025-12-31,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,12,0,0,7
+2025-12-31,Churchgate-Virar,Night (9pm-12am),Wednesday,12,0,0,6
+2025-12-31,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,12,0,0,18
+2025-12-31,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,12,0,0,3
+2025-12-31,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,12,0,0,21
+2025-12-31,CSMT-Kalyan,Night (9pm-12am),Wednesday,12,0,0,4
+2025-12-31,Panvel-CSMT,Morning Peak (7-10am),Wednesday,12,0,0,16
+2025-12-31,Panvel-CSMT,Afternoon (12-3pm),Wednesday,12,0,0,8
+2025-12-31,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,12,0,0,20
+2025-12-31,Panvel-CSMT,Night (9pm-12am),Wednesday,12,0,0,7
+2025-12-31,Harbour Line,Morning Peak (7-10am),Wednesday,12,0,0,16
+2025-12-31,Harbour Line,Afternoon (12-3pm),Wednesday,12,0,0,8
+2025-12-31,Harbour Line,Evening Peak (5-8pm),Wednesday,12,0,0,14
+2025-12-31,Harbour Line,Night (9pm-12am),Wednesday,12,0,0,8
+2026-01-01,Churchgate-Virar,Morning Peak (7-10am),Thursday,1,0,0,11
+2026-01-01,Churchgate-Virar,Afternoon (12-3pm),Thursday,1,0,0,3
+2026-01-01,Churchgate-Virar,Evening Peak (5-8pm),Thursday,1,0,0,9
+2026-01-01,Churchgate-Virar,Night (9pm-12am),Thursday,1,0,0,0
+2026-01-01,CSMT-Kalyan,Morning Peak (7-10am),Thursday,1,0,0,21
+2026-01-01,CSMT-Kalyan,Afternoon (12-3pm),Thursday,1,0,0,2
+2026-01-01,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,1,0,0,17
+2026-01-01,CSMT-Kalyan,Night (9pm-12am),Thursday,1,0,0,7
+2026-01-01,Panvel-CSMT,Morning Peak (7-10am),Thursday,1,0,0,22
+2026-01-01,Panvel-CSMT,Afternoon (12-3pm),Thursday,1,0,0,3
+2026-01-01,Panvel-CSMT,Evening Peak (5-8pm),Thursday,1,0,0,22
+2026-01-01,Panvel-CSMT,Night (9pm-12am),Thursday,1,0,0,4
+2026-01-01,Harbour Line,Morning Peak (7-10am),Thursday,1,0,0,20
+2026-01-01,Harbour Line,Afternoon (12-3pm),Thursday,1,0,0,0
+2026-01-01,Harbour Line,Evening Peak (5-8pm),Thursday,1,0,0,18
+2026-01-01,Harbour Line,Night (9pm-12am),Thursday,1,0,0,8
+2026-01-02,Churchgate-Virar,Morning Peak (7-10am),Friday,1,0,0,19
+2026-01-02,Churchgate-Virar,Afternoon (12-3pm),Friday,1,0,0,0
+2026-01-02,Churchgate-Virar,Evening Peak (5-8pm),Friday,1,0,0,8
+2026-01-02,Churchgate-Virar,Night (9pm-12am),Friday,1,0,0,9
+2026-01-02,CSMT-Kalyan,Morning Peak (7-10am),Friday,1,0,0,9
+2026-01-02,CSMT-Kalyan,Afternoon (12-3pm),Friday,1,0,0,4
+2026-01-02,CSMT-Kalyan,Evening Peak (5-8pm),Friday,1,0,0,15
+2026-01-02,CSMT-Kalyan,Night (9pm-12am),Friday,1,0,0,5
+2026-01-02,Panvel-CSMT,Morning Peak (7-10am),Friday,1,0,0,11
+2026-01-02,Panvel-CSMT,Afternoon (12-3pm),Friday,1,0,0,7
+2026-01-02,Panvel-CSMT,Evening Peak (5-8pm),Friday,1,0,0,18
+2026-01-02,Panvel-CSMT,Night (9pm-12am),Friday,1,0,0,7
+2026-01-02,Harbour Line,Morning Peak (7-10am),Friday,1,0,0,15
+2026-01-02,Harbour Line,Afternoon (12-3pm),Friday,1,0,0,1
+2026-01-02,Harbour Line,Evening Peak (5-8pm),Friday,1,0,0,11
+2026-01-02,Harbour Line,Night (9pm-12am),Friday,1,0,0,3
+2026-01-03,Churchgate-Virar,Morning Peak (7-10am),Saturday,1,1,0,3
+2026-01-03,Churchgate-Virar,Afternoon (12-3pm),Saturday,1,1,0,2
+2026-01-03,Churchgate-Virar,Evening Peak (5-8pm),Saturday,1,1,0,19
+2026-01-03,Churchgate-Virar,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-03,CSMT-Kalyan,Morning Peak (7-10am),Saturday,1,1,0,18
+2026-01-03,CSMT-Kalyan,Afternoon (12-3pm),Saturday,1,1,0,4
+2026-01-03,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,1,1,0,10
+2026-01-03,CSMT-Kalyan,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-03,Panvel-CSMT,Morning Peak (7-10am),Saturday,1,1,0,8
+2026-01-03,Panvel-CSMT,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-03,Panvel-CSMT,Evening Peak (5-8pm),Saturday,1,1,0,2
+2026-01-03,Panvel-CSMT,Night (9pm-12am),Saturday,1,1,0,2
+2026-01-03,Harbour Line,Morning Peak (7-10am),Saturday,1,1,0,5
+2026-01-03,Harbour Line,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-03,Harbour Line,Evening Peak (5-8pm),Saturday,1,1,0,4
+2026-01-03,Harbour Line,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-04,Churchgate-Virar,Morning Peak (7-10am),Sunday,1,1,0,14
+2026-01-04,Churchgate-Virar,Afternoon (12-3pm),Sunday,1,1,0,1
+2026-01-04,Churchgate-Virar,Evening Peak (5-8pm),Sunday,1,1,0,16
+2026-01-04,Churchgate-Virar,Night (9pm-12am),Sunday,1,1,0,3
+2026-01-04,CSMT-Kalyan,Morning Peak (7-10am),Sunday,1,1,0,2
+2026-01-04,CSMT-Kalyan,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-04,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,1,1,0,16
+2026-01-04,CSMT-Kalyan,Night (9pm-12am),Sunday,1,1,0,4
+2026-01-04,Panvel-CSMT,Morning Peak (7-10am),Sunday,1,1,0,2
+2026-01-04,Panvel-CSMT,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-04,Panvel-CSMT,Evening Peak (5-8pm),Sunday,1,1,0,17
+2026-01-04,Panvel-CSMT,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-04,Harbour Line,Morning Peak (7-10am),Sunday,1,1,0,2
+2026-01-04,Harbour Line,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-04,Harbour Line,Evening Peak (5-8pm),Sunday,1,1,0,5
+2026-01-04,Harbour Line,Night (9pm-12am),Sunday,1,1,0,2
+2026-01-05,Churchgate-Virar,Morning Peak (7-10am),Monday,1,0,0,19
+2026-01-05,Churchgate-Virar,Afternoon (12-3pm),Monday,1,0,0,8
+2026-01-05,Churchgate-Virar,Evening Peak (5-8pm),Monday,1,0,0,13
+2026-01-05,Churchgate-Virar,Night (9pm-12am),Monday,1,0,0,3
+2026-01-05,CSMT-Kalyan,Morning Peak (7-10am),Monday,1,0,0,18
+2026-01-05,CSMT-Kalyan,Afternoon (12-3pm),Monday,1,0,0,4
+2026-01-05,CSMT-Kalyan,Evening Peak (5-8pm),Monday,1,0,0,6
+2026-01-05,CSMT-Kalyan,Night (9pm-12am),Monday,1,0,0,8
+2026-01-05,Panvel-CSMT,Morning Peak (7-10am),Monday,1,0,0,7
+2026-01-05,Panvel-CSMT,Afternoon (12-3pm),Monday,1,0,0,8
+2026-01-05,Panvel-CSMT,Evening Peak (5-8pm),Monday,1,0,0,7
+2026-01-05,Panvel-CSMT,Night (9pm-12am),Monday,1,0,0,8
+2026-01-05,Harbour Line,Morning Peak (7-10am),Monday,1,0,0,6
+2026-01-05,Harbour Line,Afternoon (12-3pm),Monday,1,0,0,9
+2026-01-05,Harbour Line,Evening Peak (5-8pm),Monday,1,0,0,13
+2026-01-05,Harbour Line,Night (9pm-12am),Monday,1,0,0,7
+2026-01-06,Churchgate-Virar,Morning Peak (7-10am),Tuesday,1,0,0,9
+2026-01-06,Churchgate-Virar,Afternoon (12-3pm),Tuesday,1,0,0,1
+2026-01-06,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,1,0,0,19
+2026-01-06,Churchgate-Virar,Night (9pm-12am),Tuesday,1,0,0,5
+2026-01-06,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,1,0,0,12
+2026-01-06,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,1,0,0,4
+2026-01-06,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,1,0,0,20
+2026-01-06,CSMT-Kalyan,Night (9pm-12am),Tuesday,1,0,0,9
+2026-01-06,Panvel-CSMT,Morning Peak (7-10am),Tuesday,1,0,0,22
+2026-01-06,Panvel-CSMT,Afternoon (12-3pm),Tuesday,1,0,0,5
+2026-01-06,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,1,0,0,9
+2026-01-06,Panvel-CSMT,Night (9pm-12am),Tuesday,1,0,0,4
+2026-01-06,Harbour Line,Morning Peak (7-10am),Tuesday,1,0,0,17
+2026-01-06,Harbour Line,Afternoon (12-3pm),Tuesday,1,0,0,0
+2026-01-06,Harbour Line,Evening Peak (5-8pm),Tuesday,1,0,0,22
+2026-01-06,Harbour Line,Night (9pm-12am),Tuesday,1,0,0,7
+2026-01-07,Churchgate-Virar,Morning Peak (7-10am),Wednesday,1,0,0,17
+2026-01-07,Churchgate-Virar,Afternoon (12-3pm),Wednesday,1,0,0,2
+2026-01-07,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,1,0,0,7
+2026-01-07,Churchgate-Virar,Night (9pm-12am),Wednesday,1,0,0,7
+2026-01-07,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,1,0,0,12
+2026-01-07,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,1,0,0,1
+2026-01-07,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,1,0,0,12
+2026-01-07,CSMT-Kalyan,Night (9pm-12am),Wednesday,1,0,0,0
+2026-01-07,Panvel-CSMT,Morning Peak (7-10am),Wednesday,1,0,0,10
+2026-01-07,Panvel-CSMT,Afternoon (12-3pm),Wednesday,1,0,0,7
+2026-01-07,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,1,0,0,23
+2026-01-07,Panvel-CSMT,Night (9pm-12am),Wednesday,1,0,0,7
+2026-01-07,Harbour Line,Morning Peak (7-10am),Wednesday,1,0,0,5
+2026-01-07,Harbour Line,Afternoon (12-3pm),Wednesday,1,0,0,8
+2026-01-07,Harbour Line,Evening Peak (5-8pm),Wednesday,1,0,0,17
+2026-01-07,Harbour Line,Night (9pm-12am),Wednesday,1,0,0,8
+2026-01-08,Churchgate-Virar,Morning Peak (7-10am),Thursday,1,0,0,14
+2026-01-08,Churchgate-Virar,Afternoon (12-3pm),Thursday,1,0,0,3
+2026-01-08,Churchgate-Virar,Evening Peak (5-8pm),Thursday,1,0,0,10
+2026-01-08,Churchgate-Virar,Night (9pm-12am),Thursday,1,0,0,6
+2026-01-08,CSMT-Kalyan,Morning Peak (7-10am),Thursday,1,0,0,9
+2026-01-08,CSMT-Kalyan,Afternoon (12-3pm),Thursday,1,0,0,9
+2026-01-08,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,1,0,0,23
+2026-01-08,CSMT-Kalyan,Night (9pm-12am),Thursday,1,0,0,6
+2026-01-08,Panvel-CSMT,Morning Peak (7-10am),Thursday,1,0,0,14
+2026-01-08,Panvel-CSMT,Afternoon (12-3pm),Thursday,1,0,0,9
+2026-01-08,Panvel-CSMT,Evening Peak (5-8pm),Thursday,1,0,0,15
+2026-01-08,Panvel-CSMT,Night (9pm-12am),Thursday,1,0,0,4
+2026-01-08,Harbour Line,Morning Peak (7-10am),Thursday,1,0,0,11
+2026-01-08,Harbour Line,Afternoon (12-3pm),Thursday,1,0,0,1
+2026-01-08,Harbour Line,Evening Peak (5-8pm),Thursday,1,0,0,8
+2026-01-08,Harbour Line,Night (9pm-12am),Thursday,1,0,0,1
+2026-01-09,Churchgate-Virar,Morning Peak (7-10am),Friday,1,0,0,18
+2026-01-09,Churchgate-Virar,Afternoon (12-3pm),Friday,1,0,0,6
+2026-01-09,Churchgate-Virar,Evening Peak (5-8pm),Friday,1,0,0,6
+2026-01-09,Churchgate-Virar,Night (9pm-12am),Friday,1,0,0,0
+2026-01-09,CSMT-Kalyan,Morning Peak (7-10am),Friday,1,0,0,13
+2026-01-09,CSMT-Kalyan,Afternoon (12-3pm),Friday,1,0,0,0
+2026-01-09,CSMT-Kalyan,Evening Peak (5-8pm),Friday,1,0,0,12
+2026-01-09,CSMT-Kalyan,Night (9pm-12am),Friday,1,0,0,1
+2026-01-09,Panvel-CSMT,Morning Peak (7-10am),Friday,1,0,0,17
+2026-01-09,Panvel-CSMT,Afternoon (12-3pm),Friday,1,0,0,2
+2026-01-09,Panvel-CSMT,Evening Peak (5-8pm),Friday,1,0,0,20
+2026-01-09,Panvel-CSMT,Night (9pm-12am),Friday,1,0,0,5
+2026-01-09,Harbour Line,Morning Peak (7-10am),Friday,1,0,0,23
+2026-01-09,Harbour Line,Afternoon (12-3pm),Friday,1,0,0,6
+2026-01-09,Harbour Line,Evening Peak (5-8pm),Friday,1,0,0,14
+2026-01-09,Harbour Line,Night (9pm-12am),Friday,1,0,0,8
+2026-01-10,Churchgate-Virar,Morning Peak (7-10am),Saturday,1,1,0,1
+2026-01-10,Churchgate-Virar,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-10,Churchgate-Virar,Evening Peak (5-8pm),Saturday,1,1,0,3
+2026-01-10,Churchgate-Virar,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-10,CSMT-Kalyan,Morning Peak (7-10am),Saturday,1,1,0,3
+2026-01-10,CSMT-Kalyan,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-10,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,1,1,0,3
+2026-01-10,CSMT-Kalyan,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-10,Panvel-CSMT,Morning Peak (7-10am),Saturday,1,1,0,11
+2026-01-10,Panvel-CSMT,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-10,Panvel-CSMT,Evening Peak (5-8pm),Saturday,1,1,0,16
+2026-01-10,Panvel-CSMT,Night (9pm-12am),Saturday,1,1,0,4
+2026-01-10,Harbour Line,Morning Peak (7-10am),Saturday,1,1,0,0
+2026-01-10,Harbour Line,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-10,Harbour Line,Evening Peak (5-8pm),Saturday,1,1,0,17
+2026-01-10,Harbour Line,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-11,Churchgate-Virar,Morning Peak (7-10am),Sunday,1,1,0,13
+2026-01-11,Churchgate-Virar,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-11,Churchgate-Virar,Evening Peak (5-8pm),Sunday,1,1,0,2
+2026-01-11,Churchgate-Virar,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-11,CSMT-Kalyan,Morning Peak (7-10am),Sunday,1,1,0,11
+2026-01-11,CSMT-Kalyan,Afternoon (12-3pm),Sunday,1,1,0,1
+2026-01-11,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,1,1,0,10
+2026-01-11,CSMT-Kalyan,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-11,Panvel-CSMT,Morning Peak (7-10am),Sunday,1,1,0,5
+2026-01-11,Panvel-CSMT,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-11,Panvel-CSMT,Evening Peak (5-8pm),Sunday,1,1,0,10
+2026-01-11,Panvel-CSMT,Night (9pm-12am),Sunday,1,1,0,4
+2026-01-11,Harbour Line,Morning Peak (7-10am),Sunday,1,1,0,1
+2026-01-11,Harbour Line,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-11,Harbour Line,Evening Peak (5-8pm),Sunday,1,1,0,3
+2026-01-11,Harbour Line,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-12,Churchgate-Virar,Morning Peak (7-10am),Monday,1,0,0,7
+2026-01-12,Churchgate-Virar,Afternoon (12-3pm),Monday,1,0,0,8
+2026-01-12,Churchgate-Virar,Evening Peak (5-8pm),Monday,1,0,0,11
+2026-01-12,Churchgate-Virar,Night (9pm-12am),Monday,1,0,0,6
+2026-01-12,CSMT-Kalyan,Morning Peak (7-10am),Monday,1,0,0,15
+2026-01-12,CSMT-Kalyan,Afternoon (12-3pm),Monday,1,0,0,3
+2026-01-12,CSMT-Kalyan,Evening Peak (5-8pm),Monday,1,0,0,6
+2026-01-12,CSMT-Kalyan,Night (9pm-12am),Monday,1,0,0,3
+2026-01-12,Panvel-CSMT,Morning Peak (7-10am),Monday,1,0,0,15
+2026-01-12,Panvel-CSMT,Afternoon (12-3pm),Monday,1,0,0,2
+2026-01-12,Panvel-CSMT,Evening Peak (5-8pm),Monday,1,0,0,21
+2026-01-12,Panvel-CSMT,Night (9pm-12am),Monday,1,0,0,7
+2026-01-12,Harbour Line,Morning Peak (7-10am),Monday,1,0,0,19
+2026-01-12,Harbour Line,Afternoon (12-3pm),Monday,1,0,0,4
+2026-01-12,Harbour Line,Evening Peak (5-8pm),Monday,1,0,0,24
+2026-01-12,Harbour Line,Night (9pm-12am),Monday,1,0,0,5
+2026-01-13,Churchgate-Virar,Morning Peak (7-10am),Tuesday,1,0,0,23
+2026-01-13,Churchgate-Virar,Afternoon (12-3pm),Tuesday,1,0,0,8
+2026-01-13,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,1,0,0,9
+2026-01-13,Churchgate-Virar,Night (9pm-12am),Tuesday,1,0,0,2
+2026-01-13,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,1,0,0,5
+2026-01-13,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,1,0,0,9
+2026-01-13,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,1,0,0,10
+2026-01-13,CSMT-Kalyan,Night (9pm-12am),Tuesday,1,0,0,1
+2026-01-13,Panvel-CSMT,Morning Peak (7-10am),Tuesday,1,0,0,7
+2026-01-13,Panvel-CSMT,Afternoon (12-3pm),Tuesday,1,0,0,0
+2026-01-13,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,1,0,0,16
+2026-01-13,Panvel-CSMT,Night (9pm-12am),Tuesday,1,0,0,1
+2026-01-13,Harbour Line,Morning Peak (7-10am),Tuesday,1,0,0,19
+2026-01-13,Harbour Line,Afternoon (12-3pm),Tuesday,1,0,0,7
+2026-01-13,Harbour Line,Evening Peak (5-8pm),Tuesday,1,0,0,18
+2026-01-13,Harbour Line,Night (9pm-12am),Tuesday,1,0,0,8
+2026-01-14,Churchgate-Virar,Morning Peak (7-10am),Wednesday,1,0,0,21
+2026-01-14,Churchgate-Virar,Afternoon (12-3pm),Wednesday,1,0,0,4
+2026-01-14,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,1,0,0,12
+2026-01-14,Churchgate-Virar,Night (9pm-12am),Wednesday,1,0,0,1
+2026-01-14,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,1,0,0,24
+2026-01-14,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,1,0,0,6
+2026-01-14,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,1,0,0,7
+2026-01-14,CSMT-Kalyan,Night (9pm-12am),Wednesday,1,0,0,4
+2026-01-14,Panvel-CSMT,Morning Peak (7-10am),Wednesday,1,0,0,7
+2026-01-14,Panvel-CSMT,Afternoon (12-3pm),Wednesday,1,0,0,3
+2026-01-14,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,1,0,0,18
+2026-01-14,Panvel-CSMT,Night (9pm-12am),Wednesday,1,0,0,8
+2026-01-14,Harbour Line,Morning Peak (7-10am),Wednesday,1,0,0,18
+2026-01-14,Harbour Line,Afternoon (12-3pm),Wednesday,1,0,0,6
+2026-01-14,Harbour Line,Evening Peak (5-8pm),Wednesday,1,0,0,21
+2026-01-14,Harbour Line,Night (9pm-12am),Wednesday,1,0,0,3
+2026-01-15,Churchgate-Virar,Morning Peak (7-10am),Thursday,1,0,0,8
+2026-01-15,Churchgate-Virar,Afternoon (12-3pm),Thursday,1,0,0,8
+2026-01-15,Churchgate-Virar,Evening Peak (5-8pm),Thursday,1,0,0,10
+2026-01-15,Churchgate-Virar,Night (9pm-12am),Thursday,1,0,0,8
+2026-01-15,CSMT-Kalyan,Morning Peak (7-10am),Thursday,1,0,0,6
+2026-01-15,CSMT-Kalyan,Afternoon (12-3pm),Thursday,1,0,0,7
+2026-01-15,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,1,0,0,12
+2026-01-15,CSMT-Kalyan,Night (9pm-12am),Thursday,1,0,0,0
+2026-01-15,Panvel-CSMT,Morning Peak (7-10am),Thursday,1,0,0,12
+2026-01-15,Panvel-CSMT,Afternoon (12-3pm),Thursday,1,0,0,4
+2026-01-15,Panvel-CSMT,Evening Peak (5-8pm),Thursday,1,0,0,22
+2026-01-15,Panvel-CSMT,Night (9pm-12am),Thursday,1,0,0,1
+2026-01-15,Harbour Line,Morning Peak (7-10am),Thursday,1,0,0,18
+2026-01-15,Harbour Line,Afternoon (12-3pm),Thursday,1,0,0,5
+2026-01-15,Harbour Line,Evening Peak (5-8pm),Thursday,1,0,0,15
+2026-01-15,Harbour Line,Night (9pm-12am),Thursday,1,0,0,8
+2026-01-16,Churchgate-Virar,Morning Peak (7-10am),Friday,1,0,0,5
+2026-01-16,Churchgate-Virar,Afternoon (12-3pm),Friday,1,0,0,5
+2026-01-16,Churchgate-Virar,Evening Peak (5-8pm),Friday,1,0,0,13
+2026-01-16,Churchgate-Virar,Night (9pm-12am),Friday,1,0,0,7
+2026-01-16,CSMT-Kalyan,Morning Peak (7-10am),Friday,1,0,0,15
+2026-01-16,CSMT-Kalyan,Afternoon (12-3pm),Friday,1,0,0,5
+2026-01-16,CSMT-Kalyan,Evening Peak (5-8pm),Friday,1,0,0,23
+2026-01-16,CSMT-Kalyan,Night (9pm-12am),Friday,1,0,0,7
+2026-01-16,Panvel-CSMT,Morning Peak (7-10am),Friday,1,0,0,13
+2026-01-16,Panvel-CSMT,Afternoon (12-3pm),Friday,1,0,0,0
+2026-01-16,Panvel-CSMT,Evening Peak (5-8pm),Friday,1,0,0,16
+2026-01-16,Panvel-CSMT,Night (9pm-12am),Friday,1,0,0,8
+2026-01-16,Harbour Line,Morning Peak (7-10am),Friday,1,0,0,18
+2026-01-16,Harbour Line,Afternoon (12-3pm),Friday,1,0,0,5
+2026-01-16,Harbour Line,Evening Peak (5-8pm),Friday,1,0,0,24
+2026-01-16,Harbour Line,Night (9pm-12am),Friday,1,0,0,0
+2026-01-17,Churchgate-Virar,Morning Peak (7-10am),Saturday,1,1,0,9
+2026-01-17,Churchgate-Virar,Afternoon (12-3pm),Saturday,1,1,0,2
+2026-01-17,Churchgate-Virar,Evening Peak (5-8pm),Saturday,1,1,0,17
+2026-01-17,Churchgate-Virar,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-17,CSMT-Kalyan,Morning Peak (7-10am),Saturday,1,1,0,1
+2026-01-17,CSMT-Kalyan,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-17,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,1,1,0,0
+2026-01-17,CSMT-Kalyan,Night (9pm-12am),Saturday,1,1,0,3
+2026-01-17,Panvel-CSMT,Morning Peak (7-10am),Saturday,1,1,0,12
+2026-01-17,Panvel-CSMT,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-17,Panvel-CSMT,Evening Peak (5-8pm),Saturday,1,1,0,12
+2026-01-17,Panvel-CSMT,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-17,Harbour Line,Morning Peak (7-10am),Saturday,1,1,0,6
+2026-01-17,Harbour Line,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-17,Harbour Line,Evening Peak (5-8pm),Saturday,1,1,0,5
+2026-01-17,Harbour Line,Night (9pm-12am),Saturday,1,1,0,1
+2026-01-18,Churchgate-Virar,Morning Peak (7-10am),Sunday,1,1,0,13
+2026-01-18,Churchgate-Virar,Afternoon (12-3pm),Sunday,1,1,0,4
+2026-01-18,Churchgate-Virar,Evening Peak (5-8pm),Sunday,1,1,0,17
+2026-01-18,Churchgate-Virar,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-18,CSMT-Kalyan,Morning Peak (7-10am),Sunday,1,1,0,9
+2026-01-18,CSMT-Kalyan,Afternoon (12-3pm),Sunday,1,1,0,1
+2026-01-18,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,1,1,0,11
+2026-01-18,CSMT-Kalyan,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-18,Panvel-CSMT,Morning Peak (7-10am),Sunday,1,1,0,7
+2026-01-18,Panvel-CSMT,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-18,Panvel-CSMT,Evening Peak (5-8pm),Sunday,1,1,0,5
+2026-01-18,Panvel-CSMT,Night (9pm-12am),Sunday,1,1,0,3
+2026-01-18,Harbour Line,Morning Peak (7-10am),Sunday,1,1,0,5
+2026-01-18,Harbour Line,Afternoon (12-3pm),Sunday,1,1,0,3
+2026-01-18,Harbour Line,Evening Peak (5-8pm),Sunday,1,1,0,6
+2026-01-18,Harbour Line,Night (9pm-12am),Sunday,1,1,0,3
+2026-01-19,Churchgate-Virar,Morning Peak (7-10am),Monday,1,0,0,22
+2026-01-19,Churchgate-Virar,Afternoon (12-3pm),Monday,1,0,0,7
+2026-01-19,Churchgate-Virar,Evening Peak (5-8pm),Monday,1,0,0,12
+2026-01-19,Churchgate-Virar,Night (9pm-12am),Monday,1,0,0,1
+2026-01-19,CSMT-Kalyan,Morning Peak (7-10am),Monday,1,0,0,24
+2026-01-19,CSMT-Kalyan,Afternoon (12-3pm),Monday,1,0,0,6
+2026-01-19,CSMT-Kalyan,Evening Peak (5-8pm),Monday,1,0,0,15
+2026-01-19,CSMT-Kalyan,Night (9pm-12am),Monday,1,0,0,3
+2026-01-19,Panvel-CSMT,Morning Peak (7-10am),Monday,1,0,0,20
+2026-01-19,Panvel-CSMT,Afternoon (12-3pm),Monday,1,0,0,3
+2026-01-19,Panvel-CSMT,Evening Peak (5-8pm),Monday,1,0,0,10
+2026-01-19,Panvel-CSMT,Night (9pm-12am),Monday,1,0,0,9
+2026-01-19,Harbour Line,Morning Peak (7-10am),Monday,1,0,0,7
+2026-01-19,Harbour Line,Afternoon (12-3pm),Monday,1,0,0,8
+2026-01-19,Harbour Line,Evening Peak (5-8pm),Monday,1,0,0,14
+2026-01-19,Harbour Line,Night (9pm-12am),Monday,1,0,0,1
+2026-01-20,Churchgate-Virar,Morning Peak (7-10am),Tuesday,1,0,0,16
+2026-01-20,Churchgate-Virar,Afternoon (12-3pm),Tuesday,1,0,0,6
+2026-01-20,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,1,0,0,16
+2026-01-20,Churchgate-Virar,Night (9pm-12am),Tuesday,1,0,0,8
+2026-01-20,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,1,0,0,17
+2026-01-20,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,1,0,0,2
+2026-01-20,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,1,0,0,23
+2026-01-20,CSMT-Kalyan,Night (9pm-12am),Tuesday,1,0,0,6
+2026-01-20,Panvel-CSMT,Morning Peak (7-10am),Tuesday,1,0,0,18
+2026-01-20,Panvel-CSMT,Afternoon (12-3pm),Tuesday,1,0,0,3
+2026-01-20,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,1,0,0,17
+2026-01-20,Panvel-CSMT,Night (9pm-12am),Tuesday,1,0,0,7
+2026-01-20,Harbour Line,Morning Peak (7-10am),Tuesday,1,0,0,23
+2026-01-20,Harbour Line,Afternoon (12-3pm),Tuesday,1,0,0,1
+2026-01-20,Harbour Line,Evening Peak (5-8pm),Tuesday,1,0,0,10
+2026-01-20,Harbour Line,Night (9pm-12am),Tuesday,1,0,0,1
+2026-01-21,Churchgate-Virar,Morning Peak (7-10am),Wednesday,1,0,0,23
+2026-01-21,Churchgate-Virar,Afternoon (12-3pm),Wednesday,1,0,0,5
+2026-01-21,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,1,0,0,9
+2026-01-21,Churchgate-Virar,Night (9pm-12am),Wednesday,1,0,0,7
+2026-01-21,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,1,0,0,13
+2026-01-21,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,1,0,0,2
+2026-01-21,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,1,0,0,14
+2026-01-21,CSMT-Kalyan,Night (9pm-12am),Wednesday,1,0,0,2
+2026-01-21,Panvel-CSMT,Morning Peak (7-10am),Wednesday,1,0,0,7
+2026-01-21,Panvel-CSMT,Afternoon (12-3pm),Wednesday,1,0,0,5
+2026-01-21,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,1,0,0,19
+2026-01-21,Panvel-CSMT,Night (9pm-12am),Wednesday,1,0,0,0
+2026-01-21,Harbour Line,Morning Peak (7-10am),Wednesday,1,0,0,11
+2026-01-21,Harbour Line,Afternoon (12-3pm),Wednesday,1,0,0,0
+2026-01-21,Harbour Line,Evening Peak (5-8pm),Wednesday,1,0,0,24
+2026-01-21,Harbour Line,Night (9pm-12am),Wednesday,1,0,0,4
+2026-01-22,Churchgate-Virar,Morning Peak (7-10am),Thursday,1,0,0,8
+2026-01-22,Churchgate-Virar,Afternoon (12-3pm),Thursday,1,0,0,3
+2026-01-22,Churchgate-Virar,Evening Peak (5-8pm),Thursday,1,0,0,22
+2026-01-22,Churchgate-Virar,Night (9pm-12am),Thursday,1,0,0,0
+2026-01-22,CSMT-Kalyan,Morning Peak (7-10am),Thursday,1,0,0,23
+2026-01-22,CSMT-Kalyan,Afternoon (12-3pm),Thursday,1,0,0,8
+2026-01-22,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,1,0,0,8
+2026-01-22,CSMT-Kalyan,Night (9pm-12am),Thursday,1,0,0,9
+2026-01-22,Panvel-CSMT,Morning Peak (7-10am),Thursday,1,0,0,6
+2026-01-22,Panvel-CSMT,Afternoon (12-3pm),Thursday,1,0,0,3
+2026-01-22,Panvel-CSMT,Evening Peak (5-8pm),Thursday,1,0,0,6
+2026-01-22,Panvel-CSMT,Night (9pm-12am),Thursday,1,0,0,1
+2026-01-22,Harbour Line,Morning Peak (7-10am),Thursday,1,0,0,8
+2026-01-22,Harbour Line,Afternoon (12-3pm),Thursday,1,0,0,5
+2026-01-22,Harbour Line,Evening Peak (5-8pm),Thursday,1,0,0,11
+2026-01-22,Harbour Line,Night (9pm-12am),Thursday,1,0,0,9
+2026-01-23,Churchgate-Virar,Morning Peak (7-10am),Friday,1,0,0,23
+2026-01-23,Churchgate-Virar,Afternoon (12-3pm),Friday,1,0,0,2
+2026-01-23,Churchgate-Virar,Evening Peak (5-8pm),Friday,1,0,0,16
+2026-01-23,Churchgate-Virar,Night (9pm-12am),Friday,1,0,0,2
+2026-01-23,CSMT-Kalyan,Morning Peak (7-10am),Friday,1,0,0,17
+2026-01-23,CSMT-Kalyan,Afternoon (12-3pm),Friday,1,0,0,1
+2026-01-23,CSMT-Kalyan,Evening Peak (5-8pm),Friday,1,0,0,12
+2026-01-23,CSMT-Kalyan,Night (9pm-12am),Friday,1,0,0,4
+2026-01-23,Panvel-CSMT,Morning Peak (7-10am),Friday,1,0,0,19
+2026-01-23,Panvel-CSMT,Afternoon (12-3pm),Friday,1,0,0,0
+2026-01-23,Panvel-CSMT,Evening Peak (5-8pm),Friday,1,0,0,7
+2026-01-23,Panvel-CSMT,Night (9pm-12am),Friday,1,0,0,9
+2026-01-23,Harbour Line,Morning Peak (7-10am),Friday,1,0,0,12
+2026-01-23,Harbour Line,Afternoon (12-3pm),Friday,1,0,0,3
+2026-01-23,Harbour Line,Evening Peak (5-8pm),Friday,1,0,0,20
+2026-01-23,Harbour Line,Night (9pm-12am),Friday,1,0,0,6
+2026-01-24,Churchgate-Virar,Morning Peak (7-10am),Saturday,1,1,0,9
+2026-01-24,Churchgate-Virar,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-24,Churchgate-Virar,Evening Peak (5-8pm),Saturday,1,1,0,4
+2026-01-24,Churchgate-Virar,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-24,CSMT-Kalyan,Morning Peak (7-10am),Saturday,1,1,0,5
+2026-01-24,CSMT-Kalyan,Afternoon (12-3pm),Saturday,1,1,0,3
+2026-01-24,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,1,1,0,14
+2026-01-24,CSMT-Kalyan,Night (9pm-12am),Saturday,1,1,0,2
+2026-01-24,Panvel-CSMT,Morning Peak (7-10am),Saturday,1,1,0,6
+2026-01-24,Panvel-CSMT,Afternoon (12-3pm),Saturday,1,1,0,3
+2026-01-24,Panvel-CSMT,Evening Peak (5-8pm),Saturday,1,1,0,19
+2026-01-24,Panvel-CSMT,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-24,Harbour Line,Morning Peak (7-10am),Saturday,1,1,0,6
+2026-01-24,Harbour Line,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-24,Harbour Line,Evening Peak (5-8pm),Saturday,1,1,0,16
+2026-01-24,Harbour Line,Night (9pm-12am),Saturday,1,1,0,3
+2026-01-25,Churchgate-Virar,Morning Peak (7-10am),Sunday,1,1,0,1
+2026-01-25,Churchgate-Virar,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-25,Churchgate-Virar,Evening Peak (5-8pm),Sunday,1,1,0,4
+2026-01-25,Churchgate-Virar,Night (9pm-12am),Sunday,1,1,0,0
+2026-01-25,CSMT-Kalyan,Morning Peak (7-10am),Sunday,1,1,0,0
+2026-01-25,CSMT-Kalyan,Afternoon (12-3pm),Sunday,1,1,0,2
+2026-01-25,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,1,1,0,11
+2026-01-25,CSMT-Kalyan,Night (9pm-12am),Sunday,1,1,0,2
+2026-01-25,Panvel-CSMT,Morning Peak (7-10am),Sunday,1,1,0,3
+2026-01-25,Panvel-CSMT,Afternoon (12-3pm),Sunday,1,1,0,1
+2026-01-25,Panvel-CSMT,Evening Peak (5-8pm),Sunday,1,1,0,14
+2026-01-25,Panvel-CSMT,Night (9pm-12am),Sunday,1,1,0,4
+2026-01-25,Harbour Line,Morning Peak (7-10am),Sunday,1,1,0,2
+2026-01-25,Harbour Line,Afternoon (12-3pm),Sunday,1,1,0,0
+2026-01-25,Harbour Line,Evening Peak (5-8pm),Sunday,1,1,0,13
+2026-01-25,Harbour Line,Night (9pm-12am),Sunday,1,1,0,4
+2026-01-26,Churchgate-Virar,Morning Peak (7-10am),Monday,1,0,0,14
+2026-01-26,Churchgate-Virar,Afternoon (12-3pm),Monday,1,0,0,8
+2026-01-26,Churchgate-Virar,Evening Peak (5-8pm),Monday,1,0,0,5
+2026-01-26,Churchgate-Virar,Night (9pm-12am),Monday,1,0,0,4
+2026-01-26,CSMT-Kalyan,Morning Peak (7-10am),Monday,1,0,0,24
+2026-01-26,CSMT-Kalyan,Afternoon (12-3pm),Monday,1,0,0,7
+2026-01-26,CSMT-Kalyan,Evening Peak (5-8pm),Monday,1,0,0,15
+2026-01-26,CSMT-Kalyan,Night (9pm-12am),Monday,1,0,0,0
+2026-01-26,Panvel-CSMT,Morning Peak (7-10am),Monday,1,0,0,24
+2026-01-26,Panvel-CSMT,Afternoon (12-3pm),Monday,1,0,0,8
+2026-01-26,Panvel-CSMT,Evening Peak (5-8pm),Monday,1,0,0,15
+2026-01-26,Panvel-CSMT,Night (9pm-12am),Monday,1,0,0,4
+2026-01-26,Harbour Line,Morning Peak (7-10am),Monday,1,0,0,19
+2026-01-26,Harbour Line,Afternoon (12-3pm),Monday,1,0,0,4
+2026-01-26,Harbour Line,Evening Peak (5-8pm),Monday,1,0,0,16
+2026-01-26,Harbour Line,Night (9pm-12am),Monday,1,0,0,4
+2026-01-27,Churchgate-Virar,Morning Peak (7-10am),Tuesday,1,0,0,21
+2026-01-27,Churchgate-Virar,Afternoon (12-3pm),Tuesday,1,0,0,0
+2026-01-27,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,1,0,0,16
+2026-01-27,Churchgate-Virar,Night (9pm-12am),Tuesday,1,0,0,7
+2026-01-27,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,1,0,0,19
+2026-01-27,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,1,0,0,5
+2026-01-27,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,1,0,0,16
+2026-01-27,CSMT-Kalyan,Night (9pm-12am),Tuesday,1,0,0,3
+2026-01-27,Panvel-CSMT,Morning Peak (7-10am),Tuesday,1,0,0,22
+2026-01-27,Panvel-CSMT,Afternoon (12-3pm),Tuesday,1,0,0,1
+2026-01-27,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,1,0,0,13
+2026-01-27,Panvel-CSMT,Night (9pm-12am),Tuesday,1,0,0,4
+2026-01-27,Harbour Line,Morning Peak (7-10am),Tuesday,1,0,0,24
+2026-01-27,Harbour Line,Afternoon (12-3pm),Tuesday,1,0,0,9
+2026-01-27,Harbour Line,Evening Peak (5-8pm),Tuesday,1,0,0,5
+2026-01-27,Harbour Line,Night (9pm-12am),Tuesday,1,0,0,6
+2026-01-28,Churchgate-Virar,Morning Peak (7-10am),Wednesday,1,0,0,7
+2026-01-28,Churchgate-Virar,Afternoon (12-3pm),Wednesday,1,0,0,5
+2026-01-28,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,1,0,0,9
+2026-01-28,Churchgate-Virar,Night (9pm-12am),Wednesday,1,0,0,4
+2026-01-28,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,1,0,0,9
+2026-01-28,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,1,0,0,0
+2026-01-28,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,1,0,0,21
+2026-01-28,CSMT-Kalyan,Night (9pm-12am),Wednesday,1,0,0,2
+2026-01-28,Panvel-CSMT,Morning Peak (7-10am),Wednesday,1,0,0,18
+2026-01-28,Panvel-CSMT,Afternoon (12-3pm),Wednesday,1,0,0,9
+2026-01-28,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,1,0,0,24
+2026-01-28,Panvel-CSMT,Night (9pm-12am),Wednesday,1,0,0,4
+2026-01-28,Harbour Line,Morning Peak (7-10am),Wednesday,1,0,0,22
+2026-01-28,Harbour Line,Afternoon (12-3pm),Wednesday,1,0,0,7
+2026-01-28,Harbour Line,Evening Peak (5-8pm),Wednesday,1,0,0,15
+2026-01-28,Harbour Line,Night (9pm-12am),Wednesday,1,0,0,1
+2026-01-29,Churchgate-Virar,Morning Peak (7-10am),Thursday,1,0,0,22
+2026-01-29,Churchgate-Virar,Afternoon (12-3pm),Thursday,1,0,0,8
+2026-01-29,Churchgate-Virar,Evening Peak (5-8pm),Thursday,1,0,0,11
+2026-01-29,Churchgate-Virar,Night (9pm-12am),Thursday,1,0,0,7
+2026-01-29,CSMT-Kalyan,Morning Peak (7-10am),Thursday,1,0,0,19
+2026-01-29,CSMT-Kalyan,Afternoon (12-3pm),Thursday,1,0,0,1
+2026-01-29,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,1,0,0,16
+2026-01-29,CSMT-Kalyan,Night (9pm-12am),Thursday,1,0,0,5
+2026-01-29,Panvel-CSMT,Morning Peak (7-10am),Thursday,1,0,0,24
+2026-01-29,Panvel-CSMT,Afternoon (12-3pm),Thursday,1,0,0,6
+2026-01-29,Panvel-CSMT,Evening Peak (5-8pm),Thursday,1,0,0,17
+2026-01-29,Panvel-CSMT,Night (9pm-12am),Thursday,1,0,0,3
+2026-01-29,Harbour Line,Morning Peak (7-10am),Thursday,1,0,0,20
+2026-01-29,Harbour Line,Afternoon (12-3pm),Thursday,1,0,0,1
+2026-01-29,Harbour Line,Evening Peak (5-8pm),Thursday,1,0,0,14
+2026-01-29,Harbour Line,Night (9pm-12am),Thursday,1,0,0,6
+2026-01-30,Churchgate-Virar,Morning Peak (7-10am),Friday,1,0,0,12
+2026-01-30,Churchgate-Virar,Afternoon (12-3pm),Friday,1,0,0,1
+2026-01-30,Churchgate-Virar,Evening Peak (5-8pm),Friday,1,0,0,5
+2026-01-30,Churchgate-Virar,Night (9pm-12am),Friday,1,0,0,6
+2026-01-30,CSMT-Kalyan,Morning Peak (7-10am),Friday,1,0,0,12
+2026-01-30,CSMT-Kalyan,Afternoon (12-3pm),Friday,1,0,0,5
+2026-01-30,CSMT-Kalyan,Evening Peak (5-8pm),Friday,1,0,0,9
+2026-01-30,CSMT-Kalyan,Night (9pm-12am),Friday,1,0,0,5
+2026-01-30,Panvel-CSMT,Morning Peak (7-10am),Friday,1,0,0,19
+2026-01-30,Panvel-CSMT,Afternoon (12-3pm),Friday,1,0,0,1
+2026-01-30,Panvel-CSMT,Evening Peak (5-8pm),Friday,1,0,0,5
+2026-01-30,Panvel-CSMT,Night (9pm-12am),Friday,1,0,0,6
+2026-01-30,Harbour Line,Morning Peak (7-10am),Friday,1,0,0,15
+2026-01-30,Harbour Line,Afternoon (12-3pm),Friday,1,0,0,9
+2026-01-30,Harbour Line,Evening Peak (5-8pm),Friday,1,0,0,22
+2026-01-30,Harbour Line,Night (9pm-12am),Friday,1,0,0,1
+2026-01-31,Churchgate-Virar,Morning Peak (7-10am),Saturday,1,1,0,16
+2026-01-31,Churchgate-Virar,Afternoon (12-3pm),Saturday,1,1,0,4
+2026-01-31,Churchgate-Virar,Evening Peak (5-8pm),Saturday,1,1,0,7
+2026-01-31,Churchgate-Virar,Night (9pm-12am),Saturday,1,1,0,2
+2026-01-31,CSMT-Kalyan,Morning Peak (7-10am),Saturday,1,1,0,16
+2026-01-31,CSMT-Kalyan,Afternoon (12-3pm),Saturday,1,1,0,2
+2026-01-31,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,1,1,0,13
+2026-01-31,CSMT-Kalyan,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-31,Panvel-CSMT,Morning Peak (7-10am),Saturday,1,1,0,0
+2026-01-31,Panvel-CSMT,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-31,Panvel-CSMT,Evening Peak (5-8pm),Saturday,1,1,0,18
+2026-01-31,Panvel-CSMT,Night (9pm-12am),Saturday,1,1,0,0
+2026-01-31,Harbour Line,Morning Peak (7-10am),Saturday,1,1,0,15
+2026-01-31,Harbour Line,Afternoon (12-3pm),Saturday,1,1,0,0
+2026-01-31,Harbour Line,Evening Peak (5-8pm),Saturday,1,1,0,8
+2026-01-31,Harbour Line,Night (9pm-12am),Saturday,1,1,0,4
+2026-02-01,Churchgate-Virar,Morning Peak (7-10am),Sunday,2,1,0,1
+2026-02-01,Churchgate-Virar,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-01,Churchgate-Virar,Evening Peak (5-8pm),Sunday,2,1,0,5
+2026-02-01,Churchgate-Virar,Night (9pm-12am),Sunday,2,1,0,3
+2026-02-01,CSMT-Kalyan,Morning Peak (7-10am),Sunday,2,1,0,0
+2026-02-01,CSMT-Kalyan,Afternoon (12-3pm),Sunday,2,1,0,3
+2026-02-01,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,2,1,0,15
+2026-02-01,CSMT-Kalyan,Night (9pm-12am),Sunday,2,1,0,3
+2026-02-01,Panvel-CSMT,Morning Peak (7-10am),Sunday,2,1,0,12
+2026-02-01,Panvel-CSMT,Afternoon (12-3pm),Sunday,2,1,0,3
+2026-02-01,Panvel-CSMT,Evening Peak (5-8pm),Sunday,2,1,0,10
+2026-02-01,Panvel-CSMT,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-01,Harbour Line,Morning Peak (7-10am),Sunday,2,1,0,1
+2026-02-01,Harbour Line,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-01,Harbour Line,Evening Peak (5-8pm),Sunday,2,1,0,13
+2026-02-01,Harbour Line,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-02,Churchgate-Virar,Morning Peak (7-10am),Monday,2,0,0,10
+2026-02-02,Churchgate-Virar,Afternoon (12-3pm),Monday,2,0,0,2
+2026-02-02,Churchgate-Virar,Evening Peak (5-8pm),Monday,2,0,0,10
+2026-02-02,Churchgate-Virar,Night (9pm-12am),Monday,2,0,0,1
+2026-02-02,CSMT-Kalyan,Morning Peak (7-10am),Monday,2,0,0,22
+2026-02-02,CSMT-Kalyan,Afternoon (12-3pm),Monday,2,0,0,8
+2026-02-02,CSMT-Kalyan,Evening Peak (5-8pm),Monday,2,0,0,23
+2026-02-02,CSMT-Kalyan,Night (9pm-12am),Monday,2,0,0,0
+2026-02-02,Panvel-CSMT,Morning Peak (7-10am),Monday,2,0,0,11
+2026-02-02,Panvel-CSMT,Afternoon (12-3pm),Monday,2,0,0,8
+2026-02-02,Panvel-CSMT,Evening Peak (5-8pm),Monday,2,0,0,19
+2026-02-02,Panvel-CSMT,Night (9pm-12am),Monday,2,0,0,0
+2026-02-02,Harbour Line,Morning Peak (7-10am),Monday,2,0,0,16
+2026-02-02,Harbour Line,Afternoon (12-3pm),Monday,2,0,0,9
+2026-02-02,Harbour Line,Evening Peak (5-8pm),Monday,2,0,0,11
+2026-02-02,Harbour Line,Night (9pm-12am),Monday,2,0,0,4
+2026-02-03,Churchgate-Virar,Morning Peak (7-10am),Tuesday,2,0,0,23
+2026-02-03,Churchgate-Virar,Afternoon (12-3pm),Tuesday,2,0,0,8
+2026-02-03,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,2,0,0,5
+2026-02-03,Churchgate-Virar,Night (9pm-12am),Tuesday,2,0,0,0
+2026-02-03,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,2,0,0,21
+2026-02-03,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,2,0,0,2
+2026-02-03,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,2,0,0,16
+2026-02-03,CSMT-Kalyan,Night (9pm-12am),Tuesday,2,0,0,5
+2026-02-03,Panvel-CSMT,Morning Peak (7-10am),Tuesday,2,0,0,15
+2026-02-03,Panvel-CSMT,Afternoon (12-3pm),Tuesday,2,0,0,2
+2026-02-03,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,2,0,0,12
+2026-02-03,Panvel-CSMT,Night (9pm-12am),Tuesday,2,0,0,9
+2026-02-03,Harbour Line,Morning Peak (7-10am),Tuesday,2,0,0,6
+2026-02-03,Harbour Line,Afternoon (12-3pm),Tuesday,2,0,0,8
+2026-02-03,Harbour Line,Evening Peak (5-8pm),Tuesday,2,0,0,7
+2026-02-03,Harbour Line,Night (9pm-12am),Tuesday,2,0,0,4
+2026-02-04,Churchgate-Virar,Morning Peak (7-10am),Wednesday,2,0,0,12
+2026-02-04,Churchgate-Virar,Afternoon (12-3pm),Wednesday,2,0,0,1
+2026-02-04,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,2,0,0,10
+2026-02-04,Churchgate-Virar,Night (9pm-12am),Wednesday,2,0,0,4
+2026-02-04,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,2,0,0,16
+2026-02-04,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,2,0,0,4
+2026-02-04,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,2,0,0,6
+2026-02-04,CSMT-Kalyan,Night (9pm-12am),Wednesday,2,0,0,4
+2026-02-04,Panvel-CSMT,Morning Peak (7-10am),Wednesday,2,0,0,19
+2026-02-04,Panvel-CSMT,Afternoon (12-3pm),Wednesday,2,0,0,3
+2026-02-04,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,2,0,0,19
+2026-02-04,Panvel-CSMT,Night (9pm-12am),Wednesday,2,0,0,6
+2026-02-04,Harbour Line,Morning Peak (7-10am),Wednesday,2,0,0,10
+2026-02-04,Harbour Line,Afternoon (12-3pm),Wednesday,2,0,0,1
+2026-02-04,Harbour Line,Evening Peak (5-8pm),Wednesday,2,0,0,16
+2026-02-04,Harbour Line,Night (9pm-12am),Wednesday,2,0,0,4
+2026-02-05,Churchgate-Virar,Morning Peak (7-10am),Thursday,2,0,0,15
+2026-02-05,Churchgate-Virar,Afternoon (12-3pm),Thursday,2,0,0,6
+2026-02-05,Churchgate-Virar,Evening Peak (5-8pm),Thursday,2,0,0,20
+2026-02-05,Churchgate-Virar,Night (9pm-12am),Thursday,2,0,0,4
+2026-02-05,CSMT-Kalyan,Morning Peak (7-10am),Thursday,2,0,0,19
+2026-02-05,CSMT-Kalyan,Afternoon (12-3pm),Thursday,2,0,0,8
+2026-02-05,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,2,0,0,8
+2026-02-05,CSMT-Kalyan,Night (9pm-12am),Thursday,2,0,0,2
+2026-02-05,Panvel-CSMT,Morning Peak (7-10am),Thursday,2,0,0,19
+2026-02-05,Panvel-CSMT,Afternoon (12-3pm),Thursday,2,0,0,3
+2026-02-05,Panvel-CSMT,Evening Peak (5-8pm),Thursday,2,0,0,17
+2026-02-05,Panvel-CSMT,Night (9pm-12am),Thursday,2,0,0,5
+2026-02-05,Harbour Line,Morning Peak (7-10am),Thursday,2,0,0,23
+2026-02-05,Harbour Line,Afternoon (12-3pm),Thursday,2,0,0,1
+2026-02-05,Harbour Line,Evening Peak (5-8pm),Thursday,2,0,0,18
+2026-02-05,Harbour Line,Night (9pm-12am),Thursday,2,0,0,3
+2026-02-06,Churchgate-Virar,Morning Peak (7-10am),Friday,2,0,0,20
+2026-02-06,Churchgate-Virar,Afternoon (12-3pm),Friday,2,0,0,4
+2026-02-06,Churchgate-Virar,Evening Peak (5-8pm),Friday,2,0,0,24
+2026-02-06,Churchgate-Virar,Night (9pm-12am),Friday,2,0,0,2
+2026-02-06,CSMT-Kalyan,Morning Peak (7-10am),Friday,2,0,0,12
+2026-02-06,CSMT-Kalyan,Afternoon (12-3pm),Friday,2,0,0,9
+2026-02-06,CSMT-Kalyan,Evening Peak (5-8pm),Friday,2,0,0,8
+2026-02-06,CSMT-Kalyan,Night (9pm-12am),Friday,2,0,0,1
+2026-02-06,Panvel-CSMT,Morning Peak (7-10am),Friday,2,0,0,6
+2026-02-06,Panvel-CSMT,Afternoon (12-3pm),Friday,2,0,0,0
+2026-02-06,Panvel-CSMT,Evening Peak (5-8pm),Friday,2,0,0,17
+2026-02-06,Panvel-CSMT,Night (9pm-12am),Friday,2,0,0,3
+2026-02-06,Harbour Line,Morning Peak (7-10am),Friday,2,0,0,15
+2026-02-06,Harbour Line,Afternoon (12-3pm),Friday,2,0,0,6
+2026-02-06,Harbour Line,Evening Peak (5-8pm),Friday,2,0,0,16
+2026-02-06,Harbour Line,Night (9pm-12am),Friday,2,0,0,9
+2026-02-07,Churchgate-Virar,Morning Peak (7-10am),Saturday,2,1,0,6
+2026-02-07,Churchgate-Virar,Afternoon (12-3pm),Saturday,2,1,0,1
+2026-02-07,Churchgate-Virar,Evening Peak (5-8pm),Saturday,2,1,0,16
+2026-02-07,Churchgate-Virar,Night (9pm-12am),Saturday,2,1,0,4
+2026-02-07,CSMT-Kalyan,Morning Peak (7-10am),Saturday,2,1,0,9
+2026-02-07,CSMT-Kalyan,Afternoon (12-3pm),Saturday,2,1,0,2
+2026-02-07,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,2,1,0,3
+2026-02-07,CSMT-Kalyan,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-07,Panvel-CSMT,Morning Peak (7-10am),Saturday,2,1,0,3
+2026-02-07,Panvel-CSMT,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-07,Panvel-CSMT,Evening Peak (5-8pm),Saturday,2,1,0,6
+2026-02-07,Panvel-CSMT,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-07,Harbour Line,Morning Peak (7-10am),Saturday,2,1,0,0
+2026-02-07,Harbour Line,Afternoon (12-3pm),Saturday,2,1,0,2
+2026-02-07,Harbour Line,Evening Peak (5-8pm),Saturday,2,1,0,12
+2026-02-07,Harbour Line,Night (9pm-12am),Saturday,2,1,0,4
+2026-02-08,Churchgate-Virar,Morning Peak (7-10am),Sunday,2,1,0,14
+2026-02-08,Churchgate-Virar,Afternoon (12-3pm),Sunday,2,1,0,1
+2026-02-08,Churchgate-Virar,Evening Peak (5-8pm),Sunday,2,1,0,8
+2026-02-08,Churchgate-Virar,Night (9pm-12am),Sunday,2,1,0,4
+2026-02-08,CSMT-Kalyan,Morning Peak (7-10am),Sunday,2,1,0,8
+2026-02-08,CSMT-Kalyan,Afternoon (12-3pm),Sunday,2,1,0,4
+2026-02-08,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,2,1,0,9
+2026-02-08,CSMT-Kalyan,Night (9pm-12am),Sunday,2,1,0,2
+2026-02-08,Panvel-CSMT,Morning Peak (7-10am),Sunday,2,1,0,15
+2026-02-08,Panvel-CSMT,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-08,Panvel-CSMT,Evening Peak (5-8pm),Sunday,2,1,0,4
+2026-02-08,Panvel-CSMT,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-08,Harbour Line,Morning Peak (7-10am),Sunday,2,1,0,17
+2026-02-08,Harbour Line,Afternoon (12-3pm),Sunday,2,1,0,2
+2026-02-08,Harbour Line,Evening Peak (5-8pm),Sunday,2,1,0,18
+2026-02-08,Harbour Line,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-09,Churchgate-Virar,Morning Peak (7-10am),Monday,2,0,0,11
+2026-02-09,Churchgate-Virar,Afternoon (12-3pm),Monday,2,0,0,9
+2026-02-09,Churchgate-Virar,Evening Peak (5-8pm),Monday,2,0,0,22
+2026-02-09,Churchgate-Virar,Night (9pm-12am),Monday,2,0,0,2
+2026-02-09,CSMT-Kalyan,Morning Peak (7-10am),Monday,2,0,0,8
+2026-02-09,CSMT-Kalyan,Afternoon (12-3pm),Monday,2,0,0,9
+2026-02-09,CSMT-Kalyan,Evening Peak (5-8pm),Monday,2,0,0,5
+2026-02-09,CSMT-Kalyan,Night (9pm-12am),Monday,2,0,0,6
+2026-02-09,Panvel-CSMT,Morning Peak (7-10am),Monday,2,0,0,22
+2026-02-09,Panvel-CSMT,Afternoon (12-3pm),Monday,2,0,0,4
+2026-02-09,Panvel-CSMT,Evening Peak (5-8pm),Monday,2,0,0,19
+2026-02-09,Panvel-CSMT,Night (9pm-12am),Monday,2,0,0,0
+2026-02-09,Harbour Line,Morning Peak (7-10am),Monday,2,0,0,7
+2026-02-09,Harbour Line,Afternoon (12-3pm),Monday,2,0,0,1
+2026-02-09,Harbour Line,Evening Peak (5-8pm),Monday,2,0,0,5
+2026-02-09,Harbour Line,Night (9pm-12am),Monday,2,0,0,6
+2026-02-10,Churchgate-Virar,Morning Peak (7-10am),Tuesday,2,0,0,21
+2026-02-10,Churchgate-Virar,Afternoon (12-3pm),Tuesday,2,0,0,5
+2026-02-10,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,2,0,0,20
+2026-02-10,Churchgate-Virar,Night (9pm-12am),Tuesday,2,0,0,4
+2026-02-10,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,2,0,0,19
+2026-02-10,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,2,0,0,2
+2026-02-10,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,2,0,0,11
+2026-02-10,CSMT-Kalyan,Night (9pm-12am),Tuesday,2,0,0,9
+2026-02-10,Panvel-CSMT,Morning Peak (7-10am),Tuesday,2,0,0,13
+2026-02-10,Panvel-CSMT,Afternoon (12-3pm),Tuesday,2,0,0,8
+2026-02-10,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,2,0,0,6
+2026-02-10,Panvel-CSMT,Night (9pm-12am),Tuesday,2,0,0,2
+2026-02-10,Harbour Line,Morning Peak (7-10am),Tuesday,2,0,0,11
+2026-02-10,Harbour Line,Afternoon (12-3pm),Tuesday,2,0,0,4
+2026-02-10,Harbour Line,Evening Peak (5-8pm),Tuesday,2,0,0,22
+2026-02-10,Harbour Line,Night (9pm-12am),Tuesday,2,0,0,2
+2026-02-11,Churchgate-Virar,Morning Peak (7-10am),Wednesday,2,0,0,14
+2026-02-11,Churchgate-Virar,Afternoon (12-3pm),Wednesday,2,0,0,5
+2026-02-11,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,2,0,0,11
+2026-02-11,Churchgate-Virar,Night (9pm-12am),Wednesday,2,0,0,8
+2026-02-11,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,2,0,0,21
+2026-02-11,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,2,0,0,6
+2026-02-11,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,2,0,0,18
+2026-02-11,CSMT-Kalyan,Night (9pm-12am),Wednesday,2,0,0,2
+2026-02-11,Panvel-CSMT,Morning Peak (7-10am),Wednesday,2,0,0,8
+2026-02-11,Panvel-CSMT,Afternoon (12-3pm),Wednesday,2,0,0,9
+2026-02-11,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,2,0,0,10
+2026-02-11,Panvel-CSMT,Night (9pm-12am),Wednesday,2,0,0,9
+2026-02-11,Harbour Line,Morning Peak (7-10am),Wednesday,2,0,0,11
+2026-02-11,Harbour Line,Afternoon (12-3pm),Wednesday,2,0,0,3
+2026-02-11,Harbour Line,Evening Peak (5-8pm),Wednesday,2,0,0,12
+2026-02-11,Harbour Line,Night (9pm-12am),Wednesday,2,0,0,4
+2026-02-12,Churchgate-Virar,Morning Peak (7-10am),Thursday,2,0,0,5
+2026-02-12,Churchgate-Virar,Afternoon (12-3pm),Thursday,2,0,0,3
+2026-02-12,Churchgate-Virar,Evening Peak (5-8pm),Thursday,2,0,0,7
+2026-02-12,Churchgate-Virar,Night (9pm-12am),Thursday,2,0,0,8
+2026-02-12,CSMT-Kalyan,Morning Peak (7-10am),Thursday,2,0,0,12
+2026-02-12,CSMT-Kalyan,Afternoon (12-3pm),Thursday,2,0,0,0
+2026-02-12,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,2,0,0,10
+2026-02-12,CSMT-Kalyan,Night (9pm-12am),Thursday,2,0,0,8
+2026-02-12,Panvel-CSMT,Morning Peak (7-10am),Thursday,2,0,0,11
+2026-02-12,Panvel-CSMT,Afternoon (12-3pm),Thursday,2,0,0,3
+2026-02-12,Panvel-CSMT,Evening Peak (5-8pm),Thursday,2,0,0,17
+2026-02-12,Panvel-CSMT,Night (9pm-12am),Thursday,2,0,0,0
+2026-02-12,Harbour Line,Morning Peak (7-10am),Thursday,2,0,0,6
+2026-02-12,Harbour Line,Afternoon (12-3pm),Thursday,2,0,0,4
+2026-02-12,Harbour Line,Evening Peak (5-8pm),Thursday,2,0,0,16
+2026-02-12,Harbour Line,Night (9pm-12am),Thursday,2,0,0,4
+2026-02-13,Churchgate-Virar,Morning Peak (7-10am),Friday,2,0,0,12
+2026-02-13,Churchgate-Virar,Afternoon (12-3pm),Friday,2,0,0,5
+2026-02-13,Churchgate-Virar,Evening Peak (5-8pm),Friday,2,0,0,12
+2026-02-13,Churchgate-Virar,Night (9pm-12am),Friday,2,0,0,1
+2026-02-13,CSMT-Kalyan,Morning Peak (7-10am),Friday,2,0,0,7
+2026-02-13,CSMT-Kalyan,Afternoon (12-3pm),Friday,2,0,0,5
+2026-02-13,CSMT-Kalyan,Evening Peak (5-8pm),Friday,2,0,0,16
+2026-02-13,CSMT-Kalyan,Night (9pm-12am),Friday,2,0,0,9
+2026-02-13,Panvel-CSMT,Morning Peak (7-10am),Friday,2,0,0,7
+2026-02-13,Panvel-CSMT,Afternoon (12-3pm),Friday,2,0,0,5
+2026-02-13,Panvel-CSMT,Evening Peak (5-8pm),Friday,2,0,0,10
+2026-02-13,Panvel-CSMT,Night (9pm-12am),Friday,2,0,0,1
+2026-02-13,Harbour Line,Morning Peak (7-10am),Friday,2,0,0,16
+2026-02-13,Harbour Line,Afternoon (12-3pm),Friday,2,0,0,1
+2026-02-13,Harbour Line,Evening Peak (5-8pm),Friday,2,0,0,10
+2026-02-13,Harbour Line,Night (9pm-12am),Friday,2,0,0,0
+2026-02-14,Churchgate-Virar,Morning Peak (7-10am),Saturday,2,1,0,2
+2026-02-14,Churchgate-Virar,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-14,Churchgate-Virar,Evening Peak (5-8pm),Saturday,2,1,0,19
+2026-02-14,Churchgate-Virar,Night (9pm-12am),Saturday,2,1,0,2
+2026-02-14,CSMT-Kalyan,Morning Peak (7-10am),Saturday,2,1,0,11
+2026-02-14,CSMT-Kalyan,Afternoon (12-3pm),Saturday,2,1,0,4
+2026-02-14,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,2,1,0,3
+2026-02-14,CSMT-Kalyan,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-14,Panvel-CSMT,Morning Peak (7-10am),Saturday,2,1,0,12
+2026-02-14,Panvel-CSMT,Afternoon (12-3pm),Saturday,2,1,0,3
+2026-02-14,Panvel-CSMT,Evening Peak (5-8pm),Saturday,2,1,0,15
+2026-02-14,Panvel-CSMT,Night (9pm-12am),Saturday,2,1,0,4
+2026-02-14,Harbour Line,Morning Peak (7-10am),Saturday,2,1,0,15
+2026-02-14,Harbour Line,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-14,Harbour Line,Evening Peak (5-8pm),Saturday,2,1,0,15
+2026-02-14,Harbour Line,Night (9pm-12am),Saturday,2,1,0,2
+2026-02-15,Churchgate-Virar,Morning Peak (7-10am),Sunday,2,1,0,19
+2026-02-15,Churchgate-Virar,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-15,Churchgate-Virar,Evening Peak (5-8pm),Sunday,2,1,0,15
+2026-02-15,Churchgate-Virar,Night (9pm-12am),Sunday,2,1,0,1
+2026-02-15,CSMT-Kalyan,Morning Peak (7-10am),Sunday,2,1,0,18
+2026-02-15,CSMT-Kalyan,Afternoon (12-3pm),Sunday,2,1,0,2
+2026-02-15,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,2,1,0,4
+2026-02-15,CSMT-Kalyan,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-15,Panvel-CSMT,Morning Peak (7-10am),Sunday,2,1,0,7
+2026-02-15,Panvel-CSMT,Afternoon (12-3pm),Sunday,2,1,0,2
+2026-02-15,Panvel-CSMT,Evening Peak (5-8pm),Sunday,2,1,0,11
+2026-02-15,Panvel-CSMT,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-15,Harbour Line,Morning Peak (7-10am),Sunday,2,1,0,19
+2026-02-15,Harbour Line,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-15,Harbour Line,Evening Peak (5-8pm),Sunday,2,1,0,17
+2026-02-15,Harbour Line,Night (9pm-12am),Sunday,2,1,0,2
+2026-02-16,Churchgate-Virar,Morning Peak (7-10am),Monday,2,0,0,11
+2026-02-16,Churchgate-Virar,Afternoon (12-3pm),Monday,2,0,0,0
+2026-02-16,Churchgate-Virar,Evening Peak (5-8pm),Monday,2,0,0,20
+2026-02-16,Churchgate-Virar,Night (9pm-12am),Monday,2,0,0,5
+2026-02-16,CSMT-Kalyan,Morning Peak (7-10am),Monday,2,0,0,24
+2026-02-16,CSMT-Kalyan,Afternoon (12-3pm),Monday,2,0,0,1
+2026-02-16,CSMT-Kalyan,Evening Peak (5-8pm),Monday,2,0,0,18
+2026-02-16,CSMT-Kalyan,Night (9pm-12am),Monday,2,0,0,3
+2026-02-16,Panvel-CSMT,Morning Peak (7-10am),Monday,2,0,0,5
+2026-02-16,Panvel-CSMT,Afternoon (12-3pm),Monday,2,0,0,6
+2026-02-16,Panvel-CSMT,Evening Peak (5-8pm),Monday,2,0,0,22
+2026-02-16,Panvel-CSMT,Night (9pm-12am),Monday,2,0,0,1
+2026-02-16,Harbour Line,Morning Peak (7-10am),Monday,2,0,0,13
+2026-02-16,Harbour Line,Afternoon (12-3pm),Monday,2,0,0,4
+2026-02-16,Harbour Line,Evening Peak (5-8pm),Monday,2,0,0,6
+2026-02-16,Harbour Line,Night (9pm-12am),Monday,2,0,0,8
+2026-02-17,Churchgate-Virar,Morning Peak (7-10am),Tuesday,2,0,0,13
+2026-02-17,Churchgate-Virar,Afternoon (12-3pm),Tuesday,2,0,0,0
+2026-02-17,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,2,0,0,15
+2026-02-17,Churchgate-Virar,Night (9pm-12am),Tuesday,2,0,0,2
+2026-02-17,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,2,0,0,24
+2026-02-17,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,2,0,0,6
+2026-02-17,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,2,0,0,8
+2026-02-17,CSMT-Kalyan,Night (9pm-12am),Tuesday,2,0,0,1
+2026-02-17,Panvel-CSMT,Morning Peak (7-10am),Tuesday,2,0,0,10
+2026-02-17,Panvel-CSMT,Afternoon (12-3pm),Tuesday,2,0,0,2
+2026-02-17,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,2,0,0,15
+2026-02-17,Panvel-CSMT,Night (9pm-12am),Tuesday,2,0,0,5
+2026-02-17,Harbour Line,Morning Peak (7-10am),Tuesday,2,0,0,9
+2026-02-17,Harbour Line,Afternoon (12-3pm),Tuesday,2,0,0,3
+2026-02-17,Harbour Line,Evening Peak (5-8pm),Tuesday,2,0,0,14
+2026-02-17,Harbour Line,Night (9pm-12am),Tuesday,2,0,0,0
+2026-02-18,Churchgate-Virar,Morning Peak (7-10am),Wednesday,2,0,0,14
+2026-02-18,Churchgate-Virar,Afternoon (12-3pm),Wednesday,2,0,0,5
+2026-02-18,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,2,0,0,22
+2026-02-18,Churchgate-Virar,Night (9pm-12am),Wednesday,2,0,0,2
+2026-02-18,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,2,0,0,14
+2026-02-18,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,2,0,0,5
+2026-02-18,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,2,0,0,7
+2026-02-18,CSMT-Kalyan,Night (9pm-12am),Wednesday,2,0,0,6
+2026-02-18,Panvel-CSMT,Morning Peak (7-10am),Wednesday,2,0,0,24
+2026-02-18,Panvel-CSMT,Afternoon (12-3pm),Wednesday,2,0,0,8
+2026-02-18,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,2,0,0,19
+2026-02-18,Panvel-CSMT,Night (9pm-12am),Wednesday,2,0,0,4
+2026-02-18,Harbour Line,Morning Peak (7-10am),Wednesday,2,0,0,7
+2026-02-18,Harbour Line,Afternoon (12-3pm),Wednesday,2,0,0,1
+2026-02-18,Harbour Line,Evening Peak (5-8pm),Wednesday,2,0,0,6
+2026-02-18,Harbour Line,Night (9pm-12am),Wednesday,2,0,0,2
+2026-02-19,Churchgate-Virar,Morning Peak (7-10am),Thursday,2,0,0,22
+2026-02-19,Churchgate-Virar,Afternoon (12-3pm),Thursday,2,0,0,3
+2026-02-19,Churchgate-Virar,Evening Peak (5-8pm),Thursday,2,0,0,22
+2026-02-19,Churchgate-Virar,Night (9pm-12am),Thursday,2,0,0,9
+2026-02-19,CSMT-Kalyan,Morning Peak (7-10am),Thursday,2,0,0,6
+2026-02-19,CSMT-Kalyan,Afternoon (12-3pm),Thursday,2,0,0,8
+2026-02-19,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,2,0,0,5
+2026-02-19,CSMT-Kalyan,Night (9pm-12am),Thursday,2,0,0,3
+2026-02-19,Panvel-CSMT,Morning Peak (7-10am),Thursday,2,0,0,18
+2026-02-19,Panvel-CSMT,Afternoon (12-3pm),Thursday,2,0,0,0
+2026-02-19,Panvel-CSMT,Evening Peak (5-8pm),Thursday,2,0,0,18
+2026-02-19,Panvel-CSMT,Night (9pm-12am),Thursday,2,0,0,5
+2026-02-19,Harbour Line,Morning Peak (7-10am),Thursday,2,0,0,18
+2026-02-19,Harbour Line,Afternoon (12-3pm),Thursday,2,0,0,3
+2026-02-19,Harbour Line,Evening Peak (5-8pm),Thursday,2,0,0,7
+2026-02-19,Harbour Line,Night (9pm-12am),Thursday,2,0,0,2
+2026-02-20,Churchgate-Virar,Morning Peak (7-10am),Friday,2,0,0,13
+2026-02-20,Churchgate-Virar,Afternoon (12-3pm),Friday,2,0,0,5
+2026-02-20,Churchgate-Virar,Evening Peak (5-8pm),Friday,2,0,0,17
+2026-02-20,Churchgate-Virar,Night (9pm-12am),Friday,2,0,0,4
+2026-02-20,CSMT-Kalyan,Morning Peak (7-10am),Friday,2,0,0,6
+2026-02-20,CSMT-Kalyan,Afternoon (12-3pm),Friday,2,0,0,7
+2026-02-20,CSMT-Kalyan,Evening Peak (5-8pm),Friday,2,0,0,6
+2026-02-20,CSMT-Kalyan,Night (9pm-12am),Friday,2,0,0,3
+2026-02-20,Panvel-CSMT,Morning Peak (7-10am),Friday,2,0,0,19
+2026-02-20,Panvel-CSMT,Afternoon (12-3pm),Friday,2,0,0,3
+2026-02-20,Panvel-CSMT,Evening Peak (5-8pm),Friday,2,0,0,17
+2026-02-20,Panvel-CSMT,Night (9pm-12am),Friday,2,0,0,3
+2026-02-20,Harbour Line,Morning Peak (7-10am),Friday,2,0,0,22
+2026-02-20,Harbour Line,Afternoon (12-3pm),Friday,2,0,0,5
+2026-02-20,Harbour Line,Evening Peak (5-8pm),Friday,2,0,0,15
+2026-02-20,Harbour Line,Night (9pm-12am),Friday,2,0,0,1
+2026-02-21,Churchgate-Virar,Morning Peak (7-10am),Saturday,2,1,0,18
+2026-02-21,Churchgate-Virar,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-21,Churchgate-Virar,Evening Peak (5-8pm),Saturday,2,1,0,4
+2026-02-21,Churchgate-Virar,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-21,CSMT-Kalyan,Morning Peak (7-10am),Saturday,2,1,0,1
+2026-02-21,CSMT-Kalyan,Afternoon (12-3pm),Saturday,2,1,0,4
+2026-02-21,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,2,1,0,1
+2026-02-21,CSMT-Kalyan,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-21,Panvel-CSMT,Morning Peak (7-10am),Saturday,2,1,0,14
+2026-02-21,Panvel-CSMT,Afternoon (12-3pm),Saturday,2,1,0,3
+2026-02-21,Panvel-CSMT,Evening Peak (5-8pm),Saturday,2,1,0,18
+2026-02-21,Panvel-CSMT,Night (9pm-12am),Saturday,2,1,0,3
+2026-02-21,Harbour Line,Morning Peak (7-10am),Saturday,2,1,0,2
+2026-02-21,Harbour Line,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-21,Harbour Line,Evening Peak (5-8pm),Saturday,2,1,0,8
+2026-02-21,Harbour Line,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-22,Churchgate-Virar,Morning Peak (7-10am),Sunday,2,1,0,6
+2026-02-22,Churchgate-Virar,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-22,Churchgate-Virar,Evening Peak (5-8pm),Sunday,2,1,0,3
+2026-02-22,Churchgate-Virar,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-22,CSMT-Kalyan,Morning Peak (7-10am),Sunday,2,1,0,6
+2026-02-22,CSMT-Kalyan,Afternoon (12-3pm),Sunday,2,1,0,2
+2026-02-22,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,2,1,0,16
+2026-02-22,CSMT-Kalyan,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-22,Panvel-CSMT,Morning Peak (7-10am),Sunday,2,1,0,6
+2026-02-22,Panvel-CSMT,Afternoon (12-3pm),Sunday,2,1,0,0
+2026-02-22,Panvel-CSMT,Evening Peak (5-8pm),Sunday,2,1,0,19
+2026-02-22,Panvel-CSMT,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-22,Harbour Line,Morning Peak (7-10am),Sunday,2,1,0,5
+2026-02-22,Harbour Line,Afternoon (12-3pm),Sunday,2,1,0,1
+2026-02-22,Harbour Line,Evening Peak (5-8pm),Sunday,2,1,0,17
+2026-02-22,Harbour Line,Night (9pm-12am),Sunday,2,1,0,0
+2026-02-23,Churchgate-Virar,Morning Peak (7-10am),Monday,2,0,0,24
+2026-02-23,Churchgate-Virar,Afternoon (12-3pm),Monday,2,0,0,2
+2026-02-23,Churchgate-Virar,Evening Peak (5-8pm),Monday,2,0,0,11
+2026-02-23,Churchgate-Virar,Night (9pm-12am),Monday,2,0,0,5
+2026-02-23,CSMT-Kalyan,Morning Peak (7-10am),Monday,2,0,0,18
+2026-02-23,CSMT-Kalyan,Afternoon (12-3pm),Monday,2,0,0,6
+2026-02-23,CSMT-Kalyan,Evening Peak (5-8pm),Monday,2,0,0,9
+2026-02-23,CSMT-Kalyan,Night (9pm-12am),Monday,2,0,0,5
+2026-02-23,Panvel-CSMT,Morning Peak (7-10am),Monday,2,0,0,9
+2026-02-23,Panvel-CSMT,Afternoon (12-3pm),Monday,2,0,0,6
+2026-02-23,Panvel-CSMT,Evening Peak (5-8pm),Monday,2,0,0,6
+2026-02-23,Panvel-CSMT,Night (9pm-12am),Monday,2,0,0,4
+2026-02-23,Harbour Line,Morning Peak (7-10am),Monday,2,0,0,10
+2026-02-23,Harbour Line,Afternoon (12-3pm),Monday,2,0,0,4
+2026-02-23,Harbour Line,Evening Peak (5-8pm),Monday,2,0,0,14
+2026-02-23,Harbour Line,Night (9pm-12am),Monday,2,0,0,6
+2026-02-24,Churchgate-Virar,Morning Peak (7-10am),Tuesday,2,0,0,11
+2026-02-24,Churchgate-Virar,Afternoon (12-3pm),Tuesday,2,0,0,4
+2026-02-24,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,2,0,0,5
+2026-02-24,Churchgate-Virar,Night (9pm-12am),Tuesday,2,0,0,4
+2026-02-24,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,2,0,0,22
+2026-02-24,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,2,0,0,4
+2026-02-24,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,2,0,0,22
+2026-02-24,CSMT-Kalyan,Night (9pm-12am),Tuesday,2,0,0,4
+2026-02-24,Panvel-CSMT,Morning Peak (7-10am),Tuesday,2,0,0,17
+2026-02-24,Panvel-CSMT,Afternoon (12-3pm),Tuesday,2,0,0,3
+2026-02-24,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,2,0,0,21
+2026-02-24,Panvel-CSMT,Night (9pm-12am),Tuesday,2,0,0,2
+2026-02-24,Harbour Line,Morning Peak (7-10am),Tuesday,2,0,0,21
+2026-02-24,Harbour Line,Afternoon (12-3pm),Tuesday,2,0,0,4
+2026-02-24,Harbour Line,Evening Peak (5-8pm),Tuesday,2,0,0,24
+2026-02-24,Harbour Line,Night (9pm-12am),Tuesday,2,0,0,6
+2026-02-25,Churchgate-Virar,Morning Peak (7-10am),Wednesday,2,0,0,8
+2026-02-25,Churchgate-Virar,Afternoon (12-3pm),Wednesday,2,0,0,1
+2026-02-25,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,2,0,0,24
+2026-02-25,Churchgate-Virar,Night (9pm-12am),Wednesday,2,0,0,1
+2026-02-25,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,2,0,0,12
+2026-02-25,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,2,0,0,2
+2026-02-25,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,2,0,0,13
+2026-02-25,CSMT-Kalyan,Night (9pm-12am),Wednesday,2,0,0,3
+2026-02-25,Panvel-CSMT,Morning Peak (7-10am),Wednesday,2,0,0,10
+2026-02-25,Panvel-CSMT,Afternoon (12-3pm),Wednesday,2,0,0,9
+2026-02-25,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,2,0,0,14
+2026-02-25,Panvel-CSMT,Night (9pm-12am),Wednesday,2,0,0,0
+2026-02-25,Harbour Line,Morning Peak (7-10am),Wednesday,2,0,0,13
+2026-02-25,Harbour Line,Afternoon (12-3pm),Wednesday,2,0,0,0
+2026-02-25,Harbour Line,Evening Peak (5-8pm),Wednesday,2,0,0,13
+2026-02-25,Harbour Line,Night (9pm-12am),Wednesday,2,0,0,8
+2026-02-26,Churchgate-Virar,Morning Peak (7-10am),Thursday,2,0,0,5
+2026-02-26,Churchgate-Virar,Afternoon (12-3pm),Thursday,2,0,0,1
+2026-02-26,Churchgate-Virar,Evening Peak (5-8pm),Thursday,2,0,0,20
+2026-02-26,Churchgate-Virar,Night (9pm-12am),Thursday,2,0,0,0
+2026-02-26,CSMT-Kalyan,Morning Peak (7-10am),Thursday,2,0,0,14
+2026-02-26,CSMT-Kalyan,Afternoon (12-3pm),Thursday,2,0,0,1
+2026-02-26,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,2,0,0,12
+2026-02-26,CSMT-Kalyan,Night (9pm-12am),Thursday,2,0,0,4
+2026-02-26,Panvel-CSMT,Morning Peak (7-10am),Thursday,2,0,0,15
+2026-02-26,Panvel-CSMT,Afternoon (12-3pm),Thursday,2,0,0,6
+2026-02-26,Panvel-CSMT,Evening Peak (5-8pm),Thursday,2,0,0,6
+2026-02-26,Panvel-CSMT,Night (9pm-12am),Thursday,2,0,0,7
+2026-02-26,Harbour Line,Morning Peak (7-10am),Thursday,2,0,0,12
+2026-02-26,Harbour Line,Afternoon (12-3pm),Thursday,2,0,0,0
+2026-02-26,Harbour Line,Evening Peak (5-8pm),Thursday,2,0,0,19
+2026-02-26,Harbour Line,Night (9pm-12am),Thursday,2,0,0,0
+2026-02-27,Churchgate-Virar,Morning Peak (7-10am),Friday,2,0,0,17
+2026-02-27,Churchgate-Virar,Afternoon (12-3pm),Friday,2,0,0,2
+2026-02-27,Churchgate-Virar,Evening Peak (5-8pm),Friday,2,0,0,9
+2026-02-27,Churchgate-Virar,Night (9pm-12am),Friday,2,0,0,0
+2026-02-27,CSMT-Kalyan,Morning Peak (7-10am),Friday,2,0,0,9
+2026-02-27,CSMT-Kalyan,Afternoon (12-3pm),Friday,2,0,0,7
+2026-02-27,CSMT-Kalyan,Evening Peak (5-8pm),Friday,2,0,0,17
+2026-02-27,CSMT-Kalyan,Night (9pm-12am),Friday,2,0,0,7
+2026-02-27,Panvel-CSMT,Morning Peak (7-10am),Friday,2,0,0,15
+2026-02-27,Panvel-CSMT,Afternoon (12-3pm),Friday,2,0,0,0
+2026-02-27,Panvel-CSMT,Evening Peak (5-8pm),Friday,2,0,0,17
+2026-02-27,Panvel-CSMT,Night (9pm-12am),Friday,2,0,0,2
+2026-02-27,Harbour Line,Morning Peak (7-10am),Friday,2,0,0,7
+2026-02-27,Harbour Line,Afternoon (12-3pm),Friday,2,0,0,7
+2026-02-27,Harbour Line,Evening Peak (5-8pm),Friday,2,0,0,21
+2026-02-27,Harbour Line,Night (9pm-12am),Friday,2,0,0,4
+2026-02-28,Churchgate-Virar,Morning Peak (7-10am),Saturday,2,1,0,19
+2026-02-28,Churchgate-Virar,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-28,Churchgate-Virar,Evening Peak (5-8pm),Saturday,2,1,0,7
+2026-02-28,Churchgate-Virar,Night (9pm-12am),Saturday,2,1,0,4
+2026-02-28,CSMT-Kalyan,Morning Peak (7-10am),Saturday,2,1,0,13
+2026-02-28,CSMT-Kalyan,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-28,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,2,1,0,10
+2026-02-28,CSMT-Kalyan,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-28,Panvel-CSMT,Morning Peak (7-10am),Saturday,2,1,0,14
+2026-02-28,Panvel-CSMT,Afternoon (12-3pm),Saturday,2,1,0,0
+2026-02-28,Panvel-CSMT,Evening Peak (5-8pm),Saturday,2,1,0,6
+2026-02-28,Panvel-CSMT,Night (9pm-12am),Saturday,2,1,0,0
+2026-02-28,Harbour Line,Morning Peak (7-10am),Saturday,2,1,0,18
+2026-02-28,Harbour Line,Afternoon (12-3pm),Saturday,2,1,0,4
+2026-02-28,Harbour Line,Evening Peak (5-8pm),Saturday,2,1,0,4
+2026-02-28,Harbour Line,Night (9pm-12am),Saturday,2,1,0,0
+2026-03-01,Churchgate-Virar,Morning Peak (7-10am),Sunday,3,1,0,7
+2026-03-01,Churchgate-Virar,Afternoon (12-3pm),Sunday,3,1,0,4
+2026-03-01,Churchgate-Virar,Evening Peak (5-8pm),Sunday,3,1,0,5
+2026-03-01,Churchgate-Virar,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-01,CSMT-Kalyan,Morning Peak (7-10am),Sunday,3,1,0,7
+2026-03-01,CSMT-Kalyan,Afternoon (12-3pm),Sunday,3,1,0,2
+2026-03-01,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,3,1,0,8
+2026-03-01,CSMT-Kalyan,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-01,Panvel-CSMT,Morning Peak (7-10am),Sunday,3,1,0,14
+2026-03-01,Panvel-CSMT,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-01,Panvel-CSMT,Evening Peak (5-8pm),Sunday,3,1,0,2
+2026-03-01,Panvel-CSMT,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-01,Harbour Line,Morning Peak (7-10am),Sunday,3,1,0,3
+2026-03-01,Harbour Line,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-01,Harbour Line,Evening Peak (5-8pm),Sunday,3,1,0,13
+2026-03-01,Harbour Line,Night (9pm-12am),Sunday,3,1,0,3
+2026-03-02,Churchgate-Virar,Morning Peak (7-10am),Monday,3,0,0,13
+2026-03-02,Churchgate-Virar,Afternoon (12-3pm),Monday,3,0,0,8
+2026-03-02,Churchgate-Virar,Evening Peak (5-8pm),Monday,3,0,0,22
+2026-03-02,Churchgate-Virar,Night (9pm-12am),Monday,3,0,0,9
+2026-03-02,CSMT-Kalyan,Morning Peak (7-10am),Monday,3,0,0,8
+2026-03-02,CSMT-Kalyan,Afternoon (12-3pm),Monday,3,0,0,7
+2026-03-02,CSMT-Kalyan,Evening Peak (5-8pm),Monday,3,0,0,6
+2026-03-02,CSMT-Kalyan,Night (9pm-12am),Monday,3,0,0,5
+2026-03-02,Panvel-CSMT,Morning Peak (7-10am),Monday,3,0,0,17
+2026-03-02,Panvel-CSMT,Afternoon (12-3pm),Monday,3,0,0,4
+2026-03-02,Panvel-CSMT,Evening Peak (5-8pm),Monday,3,0,0,20
+2026-03-02,Panvel-CSMT,Night (9pm-12am),Monday,3,0,0,1
+2026-03-02,Harbour Line,Morning Peak (7-10am),Monday,3,0,0,15
+2026-03-02,Harbour Line,Afternoon (12-3pm),Monday,3,0,0,9
+2026-03-02,Harbour Line,Evening Peak (5-8pm),Monday,3,0,0,19
+2026-03-02,Harbour Line,Night (9pm-12am),Monday,3,0,0,0
+2026-03-03,Churchgate-Virar,Morning Peak (7-10am),Tuesday,3,0,0,12
+2026-03-03,Churchgate-Virar,Afternoon (12-3pm),Tuesday,3,0,0,1
+2026-03-03,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,3,0,0,13
+2026-03-03,Churchgate-Virar,Night (9pm-12am),Tuesday,3,0,0,8
+2026-03-03,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,3,0,0,12
+2026-03-03,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,3,0,0,9
+2026-03-03,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,3,0,0,22
+2026-03-03,CSMT-Kalyan,Night (9pm-12am),Tuesday,3,0,0,5
+2026-03-03,Panvel-CSMT,Morning Peak (7-10am),Tuesday,3,0,0,24
+2026-03-03,Panvel-CSMT,Afternoon (12-3pm),Tuesday,3,0,0,3
+2026-03-03,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,3,0,0,16
+2026-03-03,Panvel-CSMT,Night (9pm-12am),Tuesday,3,0,0,2
+2026-03-03,Harbour Line,Morning Peak (7-10am),Tuesday,3,0,0,18
+2026-03-03,Harbour Line,Afternoon (12-3pm),Tuesday,3,0,0,0
+2026-03-03,Harbour Line,Evening Peak (5-8pm),Tuesday,3,0,0,7
+2026-03-03,Harbour Line,Night (9pm-12am),Tuesday,3,0,0,9
+2026-03-04,Churchgate-Virar,Morning Peak (7-10am),Wednesday,3,0,0,11
+2026-03-04,Churchgate-Virar,Afternoon (12-3pm),Wednesday,3,0,0,0
+2026-03-04,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,3,0,0,16
+2026-03-04,Churchgate-Virar,Night (9pm-12am),Wednesday,3,0,0,8
+2026-03-04,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,3,0,0,19
+2026-03-04,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,3,0,0,1
+2026-03-04,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,3,0,0,17
+2026-03-04,CSMT-Kalyan,Night (9pm-12am),Wednesday,3,0,0,4
+2026-03-04,Panvel-CSMT,Morning Peak (7-10am),Wednesday,3,0,0,12
+2026-03-04,Panvel-CSMT,Afternoon (12-3pm),Wednesday,3,0,0,7
+2026-03-04,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,3,0,0,18
+2026-03-04,Panvel-CSMT,Night (9pm-12am),Wednesday,3,0,0,6
+2026-03-04,Harbour Line,Morning Peak (7-10am),Wednesday,3,0,0,16
+2026-03-04,Harbour Line,Afternoon (12-3pm),Wednesday,3,0,0,5
+2026-03-04,Harbour Line,Evening Peak (5-8pm),Wednesday,3,0,0,15
+2026-03-04,Harbour Line,Night (9pm-12am),Wednesday,3,0,0,8
+2026-03-05,Churchgate-Virar,Morning Peak (7-10am),Thursday,3,0,0,17
+2026-03-05,Churchgate-Virar,Afternoon (12-3pm),Thursday,3,0,0,1
+2026-03-05,Churchgate-Virar,Evening Peak (5-8pm),Thursday,3,0,0,6
+2026-03-05,Churchgate-Virar,Night (9pm-12am),Thursday,3,0,0,4
+2026-03-05,CSMT-Kalyan,Morning Peak (7-10am),Thursday,3,0,0,19
+2026-03-05,CSMT-Kalyan,Afternoon (12-3pm),Thursday,3,0,0,3
+2026-03-05,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,3,0,0,22
+2026-03-05,CSMT-Kalyan,Night (9pm-12am),Thursday,3,0,0,2
+2026-03-05,Panvel-CSMT,Morning Peak (7-10am),Thursday,3,0,0,16
+2026-03-05,Panvel-CSMT,Afternoon (12-3pm),Thursday,3,0,0,5
+2026-03-05,Panvel-CSMT,Evening Peak (5-8pm),Thursday,3,0,0,15
+2026-03-05,Panvel-CSMT,Night (9pm-12am),Thursday,3,0,0,4
+2026-03-05,Harbour Line,Morning Peak (7-10am),Thursday,3,0,0,5
+2026-03-05,Harbour Line,Afternoon (12-3pm),Thursday,3,0,0,7
+2026-03-05,Harbour Line,Evening Peak (5-8pm),Thursday,3,0,0,7
+2026-03-05,Harbour Line,Night (9pm-12am),Thursday,3,0,0,5
+2026-03-06,Churchgate-Virar,Morning Peak (7-10am),Friday,3,0,0,23
+2026-03-06,Churchgate-Virar,Afternoon (12-3pm),Friday,3,0,0,6
+2026-03-06,Churchgate-Virar,Evening Peak (5-8pm),Friday,3,0,0,11
+2026-03-06,Churchgate-Virar,Night (9pm-12am),Friday,3,0,0,8
+2026-03-06,CSMT-Kalyan,Morning Peak (7-10am),Friday,3,0,0,9
+2026-03-06,CSMT-Kalyan,Afternoon (12-3pm),Friday,3,0,0,7
+2026-03-06,CSMT-Kalyan,Evening Peak (5-8pm),Friday,3,0,0,14
+2026-03-06,CSMT-Kalyan,Night (9pm-12am),Friday,3,0,0,9
+2026-03-06,Panvel-CSMT,Morning Peak (7-10am),Friday,3,0,0,20
+2026-03-06,Panvel-CSMT,Afternoon (12-3pm),Friday,3,0,0,7
+2026-03-06,Panvel-CSMT,Evening Peak (5-8pm),Friday,3,0,0,5
+2026-03-06,Panvel-CSMT,Night (9pm-12am),Friday,3,0,0,4
+2026-03-06,Harbour Line,Morning Peak (7-10am),Friday,3,0,0,7
+2026-03-06,Harbour Line,Afternoon (12-3pm),Friday,3,0,0,0
+2026-03-06,Harbour Line,Evening Peak (5-8pm),Friday,3,0,0,8
+2026-03-06,Harbour Line,Night (9pm-12am),Friday,3,0,0,7
+2026-03-07,Churchgate-Virar,Morning Peak (7-10am),Saturday,3,1,0,2
+2026-03-07,Churchgate-Virar,Afternoon (12-3pm),Saturday,3,1,0,4
+2026-03-07,Churchgate-Virar,Evening Peak (5-8pm),Saturday,3,1,0,1
+2026-03-07,Churchgate-Virar,Night (9pm-12am),Saturday,3,1,0,3
+2026-03-07,CSMT-Kalyan,Morning Peak (7-10am),Saturday,3,1,0,9
+2026-03-07,CSMT-Kalyan,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-07,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,3,1,0,13
+2026-03-07,CSMT-Kalyan,Night (9pm-12am),Saturday,3,1,0,1
+2026-03-07,Panvel-CSMT,Morning Peak (7-10am),Saturday,3,1,0,1
+2026-03-07,Panvel-CSMT,Afternoon (12-3pm),Saturday,3,1,0,3
+2026-03-07,Panvel-CSMT,Evening Peak (5-8pm),Saturday,3,1,0,15
+2026-03-07,Panvel-CSMT,Night (9pm-12am),Saturday,3,1,0,3
+2026-03-07,Harbour Line,Morning Peak (7-10am),Saturday,3,1,0,19
+2026-03-07,Harbour Line,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-07,Harbour Line,Evening Peak (5-8pm),Saturday,3,1,0,9
+2026-03-07,Harbour Line,Night (9pm-12am),Saturday,3,1,0,4
+2026-03-08,Churchgate-Virar,Morning Peak (7-10am),Sunday,3,1,0,11
+2026-03-08,Churchgate-Virar,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-08,Churchgate-Virar,Evening Peak (5-8pm),Sunday,3,1,0,13
+2026-03-08,Churchgate-Virar,Night (9pm-12am),Sunday,3,1,0,3
+2026-03-08,CSMT-Kalyan,Morning Peak (7-10am),Sunday,3,1,0,1
+2026-03-08,CSMT-Kalyan,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-08,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,3,1,0,19
+2026-03-08,CSMT-Kalyan,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-08,Panvel-CSMT,Morning Peak (7-10am),Sunday,3,1,0,5
+2026-03-08,Panvel-CSMT,Afternoon (12-3pm),Sunday,3,1,0,2
+2026-03-08,Panvel-CSMT,Evening Peak (5-8pm),Sunday,3,1,0,18
+2026-03-08,Panvel-CSMT,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-08,Harbour Line,Morning Peak (7-10am),Sunday,3,1,0,3
+2026-03-08,Harbour Line,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-08,Harbour Line,Evening Peak (5-8pm),Sunday,3,1,0,19
+2026-03-08,Harbour Line,Night (9pm-12am),Sunday,3,1,0,4
+2026-03-09,Churchgate-Virar,Morning Peak (7-10am),Monday,3,0,0,7
+2026-03-09,Churchgate-Virar,Afternoon (12-3pm),Monday,3,0,0,9
+2026-03-09,Churchgate-Virar,Evening Peak (5-8pm),Monday,3,0,0,9
+2026-03-09,Churchgate-Virar,Night (9pm-12am),Monday,3,0,0,5
+2026-03-09,CSMT-Kalyan,Morning Peak (7-10am),Monday,3,0,0,12
+2026-03-09,CSMT-Kalyan,Afternoon (12-3pm),Monday,3,0,0,6
+2026-03-09,CSMT-Kalyan,Evening Peak (5-8pm),Monday,3,0,0,14
+2026-03-09,CSMT-Kalyan,Night (9pm-12am),Monday,3,0,0,5
+2026-03-09,Panvel-CSMT,Morning Peak (7-10am),Monday,3,0,0,18
+2026-03-09,Panvel-CSMT,Afternoon (12-3pm),Monday,3,0,0,3
+2026-03-09,Panvel-CSMT,Evening Peak (5-8pm),Monday,3,0,0,17
+2026-03-09,Panvel-CSMT,Night (9pm-12am),Monday,3,0,0,3
+2026-03-09,Harbour Line,Morning Peak (7-10am),Monday,3,0,0,21
+2026-03-09,Harbour Line,Afternoon (12-3pm),Monday,3,0,0,6
+2026-03-09,Harbour Line,Evening Peak (5-8pm),Monday,3,0,0,11
+2026-03-09,Harbour Line,Night (9pm-12am),Monday,3,0,0,3
+2026-03-10,Churchgate-Virar,Morning Peak (7-10am),Tuesday,3,0,0,18
+2026-03-10,Churchgate-Virar,Afternoon (12-3pm),Tuesday,3,0,0,2
+2026-03-10,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,3,0,0,9
+2026-03-10,Churchgate-Virar,Night (9pm-12am),Tuesday,3,0,0,9
+2026-03-10,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,3,0,0,24
+2026-03-10,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,3,0,0,3
+2026-03-10,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,3,0,0,6
+2026-03-10,CSMT-Kalyan,Night (9pm-12am),Tuesday,3,0,0,1
+2026-03-10,Panvel-CSMT,Morning Peak (7-10am),Tuesday,3,0,0,23
+2026-03-10,Panvel-CSMT,Afternoon (12-3pm),Tuesday,3,0,0,2
+2026-03-10,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,3,0,0,21
+2026-03-10,Panvel-CSMT,Night (9pm-12am),Tuesday,3,0,0,2
+2026-03-10,Harbour Line,Morning Peak (7-10am),Tuesday,3,0,0,17
+2026-03-10,Harbour Line,Afternoon (12-3pm),Tuesday,3,0,0,9
+2026-03-10,Harbour Line,Evening Peak (5-8pm),Tuesday,3,0,0,10
+2026-03-10,Harbour Line,Night (9pm-12am),Tuesday,3,0,0,4
+2026-03-11,Churchgate-Virar,Morning Peak (7-10am),Wednesday,3,0,0,8
+2026-03-11,Churchgate-Virar,Afternoon (12-3pm),Wednesday,3,0,0,2
+2026-03-11,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,3,0,0,20
+2026-03-11,Churchgate-Virar,Night (9pm-12am),Wednesday,3,0,0,3
+2026-03-11,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,3,0,0,21
+2026-03-11,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,3,0,0,6
+2026-03-11,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,3,0,0,5
+2026-03-11,CSMT-Kalyan,Night (9pm-12am),Wednesday,3,0,0,1
+2026-03-11,Panvel-CSMT,Morning Peak (7-10am),Wednesday,3,0,0,24
+2026-03-11,Panvel-CSMT,Afternoon (12-3pm),Wednesday,3,0,0,0
+2026-03-11,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,3,0,0,19
+2026-03-11,Panvel-CSMT,Night (9pm-12am),Wednesday,3,0,0,8
+2026-03-11,Harbour Line,Morning Peak (7-10am),Wednesday,3,0,0,17
+2026-03-11,Harbour Line,Afternoon (12-3pm),Wednesday,3,0,0,0
+2026-03-11,Harbour Line,Evening Peak (5-8pm),Wednesday,3,0,0,21
+2026-03-11,Harbour Line,Night (9pm-12am),Wednesday,3,0,0,5
+2026-03-12,Churchgate-Virar,Morning Peak (7-10am),Thursday,3,0,0,8
+2026-03-12,Churchgate-Virar,Afternoon (12-3pm),Thursday,3,0,0,3
+2026-03-12,Churchgate-Virar,Evening Peak (5-8pm),Thursday,3,0,0,20
+2026-03-12,Churchgate-Virar,Night (9pm-12am),Thursday,3,0,0,5
+2026-03-12,CSMT-Kalyan,Morning Peak (7-10am),Thursday,3,0,0,19
+2026-03-12,CSMT-Kalyan,Afternoon (12-3pm),Thursday,3,0,0,6
+2026-03-12,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,3,0,0,13
+2026-03-12,CSMT-Kalyan,Night (9pm-12am),Thursday,3,0,0,9
+2026-03-12,Panvel-CSMT,Morning Peak (7-10am),Thursday,3,0,0,20
+2026-03-12,Panvel-CSMT,Afternoon (12-3pm),Thursday,3,0,0,4
+2026-03-12,Panvel-CSMT,Evening Peak (5-8pm),Thursday,3,0,0,24
+2026-03-12,Panvel-CSMT,Night (9pm-12am),Thursday,3,0,0,9
+2026-03-12,Harbour Line,Morning Peak (7-10am),Thursday,3,0,0,22
+2026-03-12,Harbour Line,Afternoon (12-3pm),Thursday,3,0,0,2
+2026-03-12,Harbour Line,Evening Peak (5-8pm),Thursday,3,0,0,17
+2026-03-12,Harbour Line,Night (9pm-12am),Thursday,3,0,0,0
+2026-03-13,Churchgate-Virar,Morning Peak (7-10am),Friday,3,0,0,17
+2026-03-13,Churchgate-Virar,Afternoon (12-3pm),Friday,3,0,0,5
+2026-03-13,Churchgate-Virar,Evening Peak (5-8pm),Friday,3,0,0,21
+2026-03-13,Churchgate-Virar,Night (9pm-12am),Friday,3,0,0,2
+2026-03-13,CSMT-Kalyan,Morning Peak (7-10am),Friday,3,0,0,23
+2026-03-13,CSMT-Kalyan,Afternoon (12-3pm),Friday,3,0,0,9
+2026-03-13,CSMT-Kalyan,Evening Peak (5-8pm),Friday,3,0,0,7
+2026-03-13,CSMT-Kalyan,Night (9pm-12am),Friday,3,0,0,9
+2026-03-13,Panvel-CSMT,Morning Peak (7-10am),Friday,3,0,0,23
+2026-03-13,Panvel-CSMT,Afternoon (12-3pm),Friday,3,0,0,4
+2026-03-13,Panvel-CSMT,Evening Peak (5-8pm),Friday,3,0,0,9
+2026-03-13,Panvel-CSMT,Night (9pm-12am),Friday,3,0,0,3
+2026-03-13,Harbour Line,Morning Peak (7-10am),Friday,3,0,0,21
+2026-03-13,Harbour Line,Afternoon (12-3pm),Friday,3,0,0,4
+2026-03-13,Harbour Line,Evening Peak (5-8pm),Friday,3,0,0,14
+2026-03-13,Harbour Line,Night (9pm-12am),Friday,3,0,0,4
+2026-03-14,Churchgate-Virar,Morning Peak (7-10am),Saturday,3,1,0,3
+2026-03-14,Churchgate-Virar,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-14,Churchgate-Virar,Evening Peak (5-8pm),Saturday,3,1,0,3
+2026-03-14,Churchgate-Virar,Night (9pm-12am),Saturday,3,1,0,1
+2026-03-14,CSMT-Kalyan,Morning Peak (7-10am),Saturday,3,1,0,6
+2026-03-14,CSMT-Kalyan,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-14,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,3,1,0,2
+2026-03-14,CSMT-Kalyan,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-14,Panvel-CSMT,Morning Peak (7-10am),Saturday,3,1,0,3
+2026-03-14,Panvel-CSMT,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-14,Panvel-CSMT,Evening Peak (5-8pm),Saturday,3,1,0,8
+2026-03-14,Panvel-CSMT,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-14,Harbour Line,Morning Peak (7-10am),Saturday,3,1,0,13
+2026-03-14,Harbour Line,Afternoon (12-3pm),Saturday,3,1,0,3
+2026-03-14,Harbour Line,Evening Peak (5-8pm),Saturday,3,1,0,19
+2026-03-14,Harbour Line,Night (9pm-12am),Saturday,3,1,0,2
+2026-03-15,Churchgate-Virar,Morning Peak (7-10am),Sunday,3,1,0,3
+2026-03-15,Churchgate-Virar,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-15,Churchgate-Virar,Evening Peak (5-8pm),Sunday,3,1,0,11
+2026-03-15,Churchgate-Virar,Night (9pm-12am),Sunday,3,1,0,4
+2026-03-15,CSMT-Kalyan,Morning Peak (7-10am),Sunday,3,1,0,6
+2026-03-15,CSMT-Kalyan,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-15,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,3,1,0,13
+2026-03-15,CSMT-Kalyan,Night (9pm-12am),Sunday,3,1,0,2
+2026-03-15,Panvel-CSMT,Morning Peak (7-10am),Sunday,3,1,0,9
+2026-03-15,Panvel-CSMT,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-15,Panvel-CSMT,Evening Peak (5-8pm),Sunday,3,1,0,9
+2026-03-15,Panvel-CSMT,Night (9pm-12am),Sunday,3,1,0,3
+2026-03-15,Harbour Line,Morning Peak (7-10am),Sunday,3,1,0,12
+2026-03-15,Harbour Line,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-15,Harbour Line,Evening Peak (5-8pm),Sunday,3,1,0,11
+2026-03-15,Harbour Line,Night (9pm-12am),Sunday,3,1,0,3
+2026-03-16,Churchgate-Virar,Morning Peak (7-10am),Monday,3,0,0,17
+2026-03-16,Churchgate-Virar,Afternoon (12-3pm),Monday,3,0,0,3
+2026-03-16,Churchgate-Virar,Evening Peak (5-8pm),Monday,3,0,0,15
+2026-03-16,Churchgate-Virar,Night (9pm-12am),Monday,3,0,0,3
+2026-03-16,CSMT-Kalyan,Morning Peak (7-10am),Monday,3,0,0,22
+2026-03-16,CSMT-Kalyan,Afternoon (12-3pm),Monday,3,0,0,9
+2026-03-16,CSMT-Kalyan,Evening Peak (5-8pm),Monday,3,0,0,15
+2026-03-16,CSMT-Kalyan,Night (9pm-12am),Monday,3,0,0,8
+2026-03-16,Panvel-CSMT,Morning Peak (7-10am),Monday,3,0,0,8
+2026-03-16,Panvel-CSMT,Afternoon (12-3pm),Monday,3,0,0,1
+2026-03-16,Panvel-CSMT,Evening Peak (5-8pm),Monday,3,0,0,5
+2026-03-16,Panvel-CSMT,Night (9pm-12am),Monday,3,0,0,6
+2026-03-16,Harbour Line,Morning Peak (7-10am),Monday,3,0,0,10
+2026-03-16,Harbour Line,Afternoon (12-3pm),Monday,3,0,0,1
+2026-03-16,Harbour Line,Evening Peak (5-8pm),Monday,3,0,0,15
+2026-03-16,Harbour Line,Night (9pm-12am),Monday,3,0,0,3
+2026-03-17,Churchgate-Virar,Morning Peak (7-10am),Tuesday,3,0,0,19
+2026-03-17,Churchgate-Virar,Afternoon (12-3pm),Tuesday,3,0,0,6
+2026-03-17,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,3,0,0,14
+2026-03-17,Churchgate-Virar,Night (9pm-12am),Tuesday,3,0,0,9
+2026-03-17,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,3,0,0,16
+2026-03-17,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,3,0,0,7
+2026-03-17,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,3,0,0,18
+2026-03-17,CSMT-Kalyan,Night (9pm-12am),Tuesday,3,0,0,8
+2026-03-17,Panvel-CSMT,Morning Peak (7-10am),Tuesday,3,0,0,9
+2026-03-17,Panvel-CSMT,Afternoon (12-3pm),Tuesday,3,0,0,9
+2026-03-17,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,3,0,0,22
+2026-03-17,Panvel-CSMT,Night (9pm-12am),Tuesday,3,0,0,4
+2026-03-17,Harbour Line,Morning Peak (7-10am),Tuesday,3,0,0,7
+2026-03-17,Harbour Line,Afternoon (12-3pm),Tuesday,3,0,0,6
+2026-03-17,Harbour Line,Evening Peak (5-8pm),Tuesday,3,0,0,9
+2026-03-17,Harbour Line,Night (9pm-12am),Tuesday,3,0,0,7
+2026-03-18,Churchgate-Virar,Morning Peak (7-10am),Wednesday,3,0,0,21
+2026-03-18,Churchgate-Virar,Afternoon (12-3pm),Wednesday,3,0,0,2
+2026-03-18,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,3,0,0,23
+2026-03-18,Churchgate-Virar,Night (9pm-12am),Wednesday,3,0,0,8
+2026-03-18,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,3,0,0,16
+2026-03-18,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,3,0,0,8
+2026-03-18,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,3,0,0,13
+2026-03-18,CSMT-Kalyan,Night (9pm-12am),Wednesday,3,0,0,0
+2026-03-18,Panvel-CSMT,Morning Peak (7-10am),Wednesday,3,0,0,22
+2026-03-18,Panvel-CSMT,Afternoon (12-3pm),Wednesday,3,0,0,4
+2026-03-18,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,3,0,0,8
+2026-03-18,Panvel-CSMT,Night (9pm-12am),Wednesday,3,0,0,9
+2026-03-18,Harbour Line,Morning Peak (7-10am),Wednesday,3,0,0,11
+2026-03-18,Harbour Line,Afternoon (12-3pm),Wednesday,3,0,0,5
+2026-03-18,Harbour Line,Evening Peak (5-8pm),Wednesday,3,0,0,5
+2026-03-18,Harbour Line,Night (9pm-12am),Wednesday,3,0,0,0
+2026-03-19,Churchgate-Virar,Morning Peak (7-10am),Thursday,3,0,0,6
+2026-03-19,Churchgate-Virar,Afternoon (12-3pm),Thursday,3,0,0,9
+2026-03-19,Churchgate-Virar,Evening Peak (5-8pm),Thursday,3,0,0,15
+2026-03-19,Churchgate-Virar,Night (9pm-12am),Thursday,3,0,0,8
+2026-03-19,CSMT-Kalyan,Morning Peak (7-10am),Thursday,3,0,0,11
+2026-03-19,CSMT-Kalyan,Afternoon (12-3pm),Thursday,3,0,0,5
+2026-03-19,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,3,0,0,21
+2026-03-19,CSMT-Kalyan,Night (9pm-12am),Thursday,3,0,0,0
+2026-03-19,Panvel-CSMT,Morning Peak (7-10am),Thursday,3,0,0,6
+2026-03-19,Panvel-CSMT,Afternoon (12-3pm),Thursday,3,0,0,5
+2026-03-19,Panvel-CSMT,Evening Peak (5-8pm),Thursday,3,0,0,18
+2026-03-19,Panvel-CSMT,Night (9pm-12am),Thursday,3,0,0,5
+2026-03-19,Harbour Line,Morning Peak (7-10am),Thursday,3,0,0,6
+2026-03-19,Harbour Line,Afternoon (12-3pm),Thursday,3,0,0,0
+2026-03-19,Harbour Line,Evening Peak (5-8pm),Thursday,3,0,0,14
+2026-03-19,Harbour Line,Night (9pm-12am),Thursday,3,0,0,4
+2026-03-20,Churchgate-Virar,Morning Peak (7-10am),Friday,3,0,0,9
+2026-03-20,Churchgate-Virar,Afternoon (12-3pm),Friday,3,0,0,1
+2026-03-20,Churchgate-Virar,Evening Peak (5-8pm),Friday,3,0,0,20
+2026-03-20,Churchgate-Virar,Night (9pm-12am),Friday,3,0,0,8
+2026-03-20,CSMT-Kalyan,Morning Peak (7-10am),Friday,3,0,0,6
+2026-03-20,CSMT-Kalyan,Afternoon (12-3pm),Friday,3,0,0,9
+2026-03-20,CSMT-Kalyan,Evening Peak (5-8pm),Friday,3,0,0,6
+2026-03-20,CSMT-Kalyan,Night (9pm-12am),Friday,3,0,0,2
+2026-03-20,Panvel-CSMT,Morning Peak (7-10am),Friday,3,0,0,11
+2026-03-20,Panvel-CSMT,Afternoon (12-3pm),Friday,3,0,0,5
+2026-03-20,Panvel-CSMT,Evening Peak (5-8pm),Friday,3,0,0,16
+2026-03-20,Panvel-CSMT,Night (9pm-12am),Friday,3,0,0,7
+2026-03-20,Harbour Line,Morning Peak (7-10am),Friday,3,0,0,19
+2026-03-20,Harbour Line,Afternoon (12-3pm),Friday,3,0,0,7
+2026-03-20,Harbour Line,Evening Peak (5-8pm),Friday,3,0,0,10
+2026-03-20,Harbour Line,Night (9pm-12am),Friday,3,0,0,9
+2026-03-21,Churchgate-Virar,Morning Peak (7-10am),Saturday,3,1,0,2
+2026-03-21,Churchgate-Virar,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-21,Churchgate-Virar,Evening Peak (5-8pm),Saturday,3,1,0,16
+2026-03-21,Churchgate-Virar,Night (9pm-12am),Saturday,3,1,0,1
+2026-03-21,CSMT-Kalyan,Morning Peak (7-10am),Saturday,3,1,0,19
+2026-03-21,CSMT-Kalyan,Afternoon (12-3pm),Saturday,3,1,0,4
+2026-03-21,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,3,1,0,3
+2026-03-21,CSMT-Kalyan,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-21,Panvel-CSMT,Morning Peak (7-10am),Saturday,3,1,0,14
+2026-03-21,Panvel-CSMT,Afternoon (12-3pm),Saturday,3,1,0,2
+2026-03-21,Panvel-CSMT,Evening Peak (5-8pm),Saturday,3,1,0,7
+2026-03-21,Panvel-CSMT,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-21,Harbour Line,Morning Peak (7-10am),Saturday,3,1,0,14
+2026-03-21,Harbour Line,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-21,Harbour Line,Evening Peak (5-8pm),Saturday,3,1,0,19
+2026-03-21,Harbour Line,Night (9pm-12am),Saturday,3,1,0,3
+2026-03-22,Churchgate-Virar,Morning Peak (7-10am),Sunday,3,1,0,7
+2026-03-22,Churchgate-Virar,Afternoon (12-3pm),Sunday,3,1,0,4
+2026-03-22,Churchgate-Virar,Evening Peak (5-8pm),Sunday,3,1,0,16
+2026-03-22,Churchgate-Virar,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-22,CSMT-Kalyan,Morning Peak (7-10am),Sunday,3,1,0,2
+2026-03-22,CSMT-Kalyan,Afternoon (12-3pm),Sunday,3,1,0,2
+2026-03-22,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,3,1,0,11
+2026-03-22,CSMT-Kalyan,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-22,Panvel-CSMT,Morning Peak (7-10am),Sunday,3,1,0,9
+2026-03-22,Panvel-CSMT,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-22,Panvel-CSMT,Evening Peak (5-8pm),Sunday,3,1,0,2
+2026-03-22,Panvel-CSMT,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-22,Harbour Line,Morning Peak (7-10am),Sunday,3,1,0,6
+2026-03-22,Harbour Line,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-22,Harbour Line,Evening Peak (5-8pm),Sunday,3,1,0,17
+2026-03-22,Harbour Line,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-23,Churchgate-Virar,Morning Peak (7-10am),Monday,3,0,0,9
+2026-03-23,Churchgate-Virar,Afternoon (12-3pm),Monday,3,0,0,2
+2026-03-23,Churchgate-Virar,Evening Peak (5-8pm),Monday,3,0,0,15
+2026-03-23,Churchgate-Virar,Night (9pm-12am),Monday,3,0,0,7
+2026-03-23,CSMT-Kalyan,Morning Peak (7-10am),Monday,3,0,0,16
+2026-03-23,CSMT-Kalyan,Afternoon (12-3pm),Monday,3,0,0,9
+2026-03-23,CSMT-Kalyan,Evening Peak (5-8pm),Monday,3,0,0,12
+2026-03-23,CSMT-Kalyan,Night (9pm-12am),Monday,3,0,0,7
+2026-03-23,Panvel-CSMT,Morning Peak (7-10am),Monday,3,0,0,13
+2026-03-23,Panvel-CSMT,Afternoon (12-3pm),Monday,3,0,0,3
+2026-03-23,Panvel-CSMT,Evening Peak (5-8pm),Monday,3,0,0,9
+2026-03-23,Panvel-CSMT,Night (9pm-12am),Monday,3,0,0,4
+2026-03-23,Harbour Line,Morning Peak (7-10am),Monday,3,0,0,12
+2026-03-23,Harbour Line,Afternoon (12-3pm),Monday,3,0,0,6
+2026-03-23,Harbour Line,Evening Peak (5-8pm),Monday,3,0,0,13
+2026-03-23,Harbour Line,Night (9pm-12am),Monday,3,0,0,7
+2026-03-24,Churchgate-Virar,Morning Peak (7-10am),Tuesday,3,0,0,22
+2026-03-24,Churchgate-Virar,Afternoon (12-3pm),Tuesday,3,0,0,9
+2026-03-24,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,3,0,0,24
+2026-03-24,Churchgate-Virar,Night (9pm-12am),Tuesday,3,0,0,5
+2026-03-24,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,3,0,0,16
+2026-03-24,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,3,0,0,1
+2026-03-24,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,3,0,0,11
+2026-03-24,CSMT-Kalyan,Night (9pm-12am),Tuesday,3,0,0,2
+2026-03-24,Panvel-CSMT,Morning Peak (7-10am),Tuesday,3,0,0,17
+2026-03-24,Panvel-CSMT,Afternoon (12-3pm),Tuesday,3,0,0,2
+2026-03-24,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,3,0,0,22
+2026-03-24,Panvel-CSMT,Night (9pm-12am),Tuesday,3,0,0,7
+2026-03-24,Harbour Line,Morning Peak (7-10am),Tuesday,3,0,0,10
+2026-03-24,Harbour Line,Afternoon (12-3pm),Tuesday,3,0,0,0
+2026-03-24,Harbour Line,Evening Peak (5-8pm),Tuesday,3,0,0,5
+2026-03-24,Harbour Line,Night (9pm-12am),Tuesday,3,0,0,6
+2026-03-25,Churchgate-Virar,Morning Peak (7-10am),Wednesday,3,0,0,12
+2026-03-25,Churchgate-Virar,Afternoon (12-3pm),Wednesday,3,0,0,4
+2026-03-25,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,3,0,0,20
+2026-03-25,Churchgate-Virar,Night (9pm-12am),Wednesday,3,0,0,4
+2026-03-25,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,3,0,0,8
+2026-03-25,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,3,0,0,5
+2026-03-25,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,3,0,0,18
+2026-03-25,CSMT-Kalyan,Night (9pm-12am),Wednesday,3,0,0,5
+2026-03-25,Panvel-CSMT,Morning Peak (7-10am),Wednesday,3,0,0,23
+2026-03-25,Panvel-CSMT,Afternoon (12-3pm),Wednesday,3,0,0,8
+2026-03-25,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,3,0,0,16
+2026-03-25,Panvel-CSMT,Night (9pm-12am),Wednesday,3,0,0,6
+2026-03-25,Harbour Line,Morning Peak (7-10am),Wednesday,3,0,0,20
+2026-03-25,Harbour Line,Afternoon (12-3pm),Wednesday,3,0,0,0
+2026-03-25,Harbour Line,Evening Peak (5-8pm),Wednesday,3,0,0,17
+2026-03-25,Harbour Line,Night (9pm-12am),Wednesday,3,0,0,6
+2026-03-26,Churchgate-Virar,Morning Peak (7-10am),Thursday,3,0,0,17
+2026-03-26,Churchgate-Virar,Afternoon (12-3pm),Thursday,3,0,0,1
+2026-03-26,Churchgate-Virar,Evening Peak (5-8pm),Thursday,3,0,0,8
+2026-03-26,Churchgate-Virar,Night (9pm-12am),Thursday,3,0,0,5
+2026-03-26,CSMT-Kalyan,Morning Peak (7-10am),Thursday,3,0,0,9
+2026-03-26,CSMT-Kalyan,Afternoon (12-3pm),Thursday,3,0,0,8
+2026-03-26,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,3,0,0,7
+2026-03-26,CSMT-Kalyan,Night (9pm-12am),Thursday,3,0,0,0
+2026-03-26,Panvel-CSMT,Morning Peak (7-10am),Thursday,3,0,0,8
+2026-03-26,Panvel-CSMT,Afternoon (12-3pm),Thursday,3,0,0,8
+2026-03-26,Panvel-CSMT,Evening Peak (5-8pm),Thursday,3,0,0,24
+2026-03-26,Panvel-CSMT,Night (9pm-12am),Thursday,3,0,0,1
+2026-03-26,Harbour Line,Morning Peak (7-10am),Thursday,3,0,0,9
+2026-03-26,Harbour Line,Afternoon (12-3pm),Thursday,3,0,0,2
+2026-03-26,Harbour Line,Evening Peak (5-8pm),Thursday,3,0,0,13
+2026-03-26,Harbour Line,Night (9pm-12am),Thursday,3,0,0,3
+2026-03-27,Churchgate-Virar,Morning Peak (7-10am),Friday,3,0,0,10
+2026-03-27,Churchgate-Virar,Afternoon (12-3pm),Friday,3,0,0,1
+2026-03-27,Churchgate-Virar,Evening Peak (5-8pm),Friday,3,0,0,10
+2026-03-27,Churchgate-Virar,Night (9pm-12am),Friday,3,0,0,2
+2026-03-27,CSMT-Kalyan,Morning Peak (7-10am),Friday,3,0,0,16
+2026-03-27,CSMT-Kalyan,Afternoon (12-3pm),Friday,3,0,0,8
+2026-03-27,CSMT-Kalyan,Evening Peak (5-8pm),Friday,3,0,0,15
+2026-03-27,CSMT-Kalyan,Night (9pm-12am),Friday,3,0,0,1
+2026-03-27,Panvel-CSMT,Morning Peak (7-10am),Friday,3,0,0,19
+2026-03-27,Panvel-CSMT,Afternoon (12-3pm),Friday,3,0,0,8
+2026-03-27,Panvel-CSMT,Evening Peak (5-8pm),Friday,3,0,0,6
+2026-03-27,Panvel-CSMT,Night (9pm-12am),Friday,3,0,0,5
+2026-03-27,Harbour Line,Morning Peak (7-10am),Friday,3,0,0,7
+2026-03-27,Harbour Line,Afternoon (12-3pm),Friday,3,0,0,9
+2026-03-27,Harbour Line,Evening Peak (5-8pm),Friday,3,0,0,20
+2026-03-27,Harbour Line,Night (9pm-12am),Friday,3,0,0,4
+2026-03-28,Churchgate-Virar,Morning Peak (7-10am),Saturday,3,1,0,0
+2026-03-28,Churchgate-Virar,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-28,Churchgate-Virar,Evening Peak (5-8pm),Saturday,3,1,0,2
+2026-03-28,Churchgate-Virar,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-28,CSMT-Kalyan,Morning Peak (7-10am),Saturday,3,1,0,1
+2026-03-28,CSMT-Kalyan,Afternoon (12-3pm),Saturday,3,1,0,3
+2026-03-28,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,3,1,0,18
+2026-03-28,CSMT-Kalyan,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-28,Panvel-CSMT,Morning Peak (7-10am),Saturday,3,1,0,10
+2026-03-28,Panvel-CSMT,Afternoon (12-3pm),Saturday,3,1,0,3
+2026-03-28,Panvel-CSMT,Evening Peak (5-8pm),Saturday,3,1,0,15
+2026-03-28,Panvel-CSMT,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-28,Harbour Line,Morning Peak (7-10am),Saturday,3,1,0,16
+2026-03-28,Harbour Line,Afternoon (12-3pm),Saturday,3,1,0,0
+2026-03-28,Harbour Line,Evening Peak (5-8pm),Saturday,3,1,0,11
+2026-03-28,Harbour Line,Night (9pm-12am),Saturday,3,1,0,0
+2026-03-29,Churchgate-Virar,Morning Peak (7-10am),Sunday,3,1,0,0
+2026-03-29,Churchgate-Virar,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-29,Churchgate-Virar,Evening Peak (5-8pm),Sunday,3,1,0,15
+2026-03-29,Churchgate-Virar,Night (9pm-12am),Sunday,3,1,0,0
+2026-03-29,CSMT-Kalyan,Morning Peak (7-10am),Sunday,3,1,0,1
+2026-03-29,CSMT-Kalyan,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-29,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,3,1,0,7
+2026-03-29,CSMT-Kalyan,Night (9pm-12am),Sunday,3,1,0,2
+2026-03-29,Panvel-CSMT,Morning Peak (7-10am),Sunday,3,1,0,14
+2026-03-29,Panvel-CSMT,Afternoon (12-3pm),Sunday,3,1,0,1
+2026-03-29,Panvel-CSMT,Evening Peak (5-8pm),Sunday,3,1,0,5
+2026-03-29,Panvel-CSMT,Night (9pm-12am),Sunday,3,1,0,3
+2026-03-29,Harbour Line,Morning Peak (7-10am),Sunday,3,1,0,19
+2026-03-29,Harbour Line,Afternoon (12-3pm),Sunday,3,1,0,0
+2026-03-29,Harbour Line,Evening Peak (5-8pm),Sunday,3,1,0,7
+2026-03-29,Harbour Line,Night (9pm-12am),Sunday,3,1,0,1
+2026-03-30,Churchgate-Virar,Morning Peak (7-10am),Monday,3,0,0,7
+2026-03-30,Churchgate-Virar,Afternoon (12-3pm),Monday,3,0,0,3
+2026-03-30,Churchgate-Virar,Evening Peak (5-8pm),Monday,3,0,0,19
+2026-03-30,Churchgate-Virar,Night (9pm-12am),Monday,3,0,0,5
+2026-03-30,CSMT-Kalyan,Morning Peak (7-10am),Monday,3,0,0,19
+2026-03-30,CSMT-Kalyan,Afternoon (12-3pm),Monday,3,0,0,4
+2026-03-30,CSMT-Kalyan,Evening Peak (5-8pm),Monday,3,0,0,7
+2026-03-30,CSMT-Kalyan,Night (9pm-12am),Monday,3,0,0,8
+2026-03-30,Panvel-CSMT,Morning Peak (7-10am),Monday,3,0,0,18
+2026-03-30,Panvel-CSMT,Afternoon (12-3pm),Monday,3,0,0,3
+2026-03-30,Panvel-CSMT,Evening Peak (5-8pm),Monday,3,0,0,18
+2026-03-30,Panvel-CSMT,Night (9pm-12am),Monday,3,0,0,3
+2026-03-30,Harbour Line,Morning Peak (7-10am),Monday,3,0,0,16
+2026-03-30,Harbour Line,Afternoon (12-3pm),Monday,3,0,0,0
+2026-03-30,Harbour Line,Evening Peak (5-8pm),Monday,3,0,0,11
+2026-03-30,Harbour Line,Night (9pm-12am),Monday,3,0,0,8
+2026-03-31,Churchgate-Virar,Morning Peak (7-10am),Tuesday,3,0,0,7
+2026-03-31,Churchgate-Virar,Afternoon (12-3pm),Tuesday,3,0,0,1
+2026-03-31,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,3,0,0,23
+2026-03-31,Churchgate-Virar,Night (9pm-12am),Tuesday,3,0,0,0
+2026-03-31,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,3,0,0,10
+2026-03-31,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,3,0,0,6
+2026-03-31,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,3,0,0,6
+2026-03-31,CSMT-Kalyan,Night (9pm-12am),Tuesday,3,0,0,7
+2026-03-31,Panvel-CSMT,Morning Peak (7-10am),Tuesday,3,0,0,18
+2026-03-31,Panvel-CSMT,Afternoon (12-3pm),Tuesday,3,0,0,5
+2026-03-31,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,3,0,0,18
+2026-03-31,Panvel-CSMT,Night (9pm-12am),Tuesday,3,0,0,3
+2026-03-31,Harbour Line,Morning Peak (7-10am),Tuesday,3,0,0,12
+2026-03-31,Harbour Line,Afternoon (12-3pm),Tuesday,3,0,0,2
+2026-03-31,Harbour Line,Evening Peak (5-8pm),Tuesday,3,0,0,23
+2026-03-31,Harbour Line,Night (9pm-12am),Tuesday,3,0,0,3
+2026-04-01,Churchgate-Virar,Morning Peak (7-10am),Wednesday,4,0,0,21
+2026-04-01,Churchgate-Virar,Afternoon (12-3pm),Wednesday,4,0,0,8
+2026-04-01,Churchgate-Virar,Evening Peak (5-8pm),Wednesday,4,0,0,12
+2026-04-01,Churchgate-Virar,Night (9pm-12am),Wednesday,4,0,0,7
+2026-04-01,CSMT-Kalyan,Morning Peak (7-10am),Wednesday,4,0,0,18
+2026-04-01,CSMT-Kalyan,Afternoon (12-3pm),Wednesday,4,0,0,9
+2026-04-01,CSMT-Kalyan,Evening Peak (5-8pm),Wednesday,4,0,0,10
+2026-04-01,CSMT-Kalyan,Night (9pm-12am),Wednesday,4,0,0,6
+2026-04-01,Panvel-CSMT,Morning Peak (7-10am),Wednesday,4,0,0,20
+2026-04-01,Panvel-CSMT,Afternoon (12-3pm),Wednesday,4,0,0,8
+2026-04-01,Panvel-CSMT,Evening Peak (5-8pm),Wednesday,4,0,0,23
+2026-04-01,Panvel-CSMT,Night (9pm-12am),Wednesday,4,0,0,2
+2026-04-01,Harbour Line,Morning Peak (7-10am),Wednesday,4,0,0,7
+2026-04-01,Harbour Line,Afternoon (12-3pm),Wednesday,4,0,0,9
+2026-04-01,Harbour Line,Evening Peak (5-8pm),Wednesday,4,0,0,23
+2026-04-01,Harbour Line,Night (9pm-12am),Wednesday,4,0,0,8
+2026-04-02,Churchgate-Virar,Morning Peak (7-10am),Thursday,4,0,0,24
+2026-04-02,Churchgate-Virar,Afternoon (12-3pm),Thursday,4,0,0,6
+2026-04-02,Churchgate-Virar,Evening Peak (5-8pm),Thursday,4,0,0,18
+2026-04-02,Churchgate-Virar,Night (9pm-12am),Thursday,4,0,0,8
+2026-04-02,CSMT-Kalyan,Morning Peak (7-10am),Thursday,4,0,0,23
+2026-04-02,CSMT-Kalyan,Afternoon (12-3pm),Thursday,4,0,0,3
+2026-04-02,CSMT-Kalyan,Evening Peak (5-8pm),Thursday,4,0,0,18
+2026-04-02,CSMT-Kalyan,Night (9pm-12am),Thursday,4,0,0,7
+2026-04-02,Panvel-CSMT,Morning Peak (7-10am),Thursday,4,0,0,10
+2026-04-02,Panvel-CSMT,Afternoon (12-3pm),Thursday,4,0,0,4
+2026-04-02,Panvel-CSMT,Evening Peak (5-8pm),Thursday,4,0,0,8
+2026-04-02,Panvel-CSMT,Night (9pm-12am),Thursday,4,0,0,7
+2026-04-02,Harbour Line,Morning Peak (7-10am),Thursday,4,0,0,21
+2026-04-02,Harbour Line,Afternoon (12-3pm),Thursday,4,0,0,8
+2026-04-02,Harbour Line,Evening Peak (5-8pm),Thursday,4,0,0,5
+2026-04-02,Harbour Line,Night (9pm-12am),Thursday,4,0,0,7
+2026-04-03,Churchgate-Virar,Morning Peak (7-10am),Friday,4,0,0,24
+2026-04-03,Churchgate-Virar,Afternoon (12-3pm),Friday,4,0,0,8
+2026-04-03,Churchgate-Virar,Evening Peak (5-8pm),Friday,4,0,0,18
+2026-04-03,Churchgate-Virar,Night (9pm-12am),Friday,4,0,0,4
+2026-04-03,CSMT-Kalyan,Morning Peak (7-10am),Friday,4,0,0,7
+2026-04-03,CSMT-Kalyan,Afternoon (12-3pm),Friday,4,0,0,8
+2026-04-03,CSMT-Kalyan,Evening Peak (5-8pm),Friday,4,0,0,18
+2026-04-03,CSMT-Kalyan,Night (9pm-12am),Friday,4,0,0,8
+2026-04-03,Panvel-CSMT,Morning Peak (7-10am),Friday,4,0,0,8
+2026-04-03,Panvel-CSMT,Afternoon (12-3pm),Friday,4,0,0,3
+2026-04-03,Panvel-CSMT,Evening Peak (5-8pm),Friday,4,0,0,12
+2026-04-03,Panvel-CSMT,Night (9pm-12am),Friday,4,0,0,1
+2026-04-03,Harbour Line,Morning Peak (7-10am),Friday,4,0,0,13
+2026-04-03,Harbour Line,Afternoon (12-3pm),Friday,4,0,0,5
+2026-04-03,Harbour Line,Evening Peak (5-8pm),Friday,4,0,0,13
+2026-04-03,Harbour Line,Night (9pm-12am),Friday,4,0,0,7
+2026-04-04,Churchgate-Virar,Morning Peak (7-10am),Saturday,4,1,0,15
+2026-04-04,Churchgate-Virar,Afternoon (12-3pm),Saturday,4,1,0,0
+2026-04-04,Churchgate-Virar,Evening Peak (5-8pm),Saturday,4,1,0,15
+2026-04-04,Churchgate-Virar,Night (9pm-12am),Saturday,4,1,0,0
+2026-04-04,CSMT-Kalyan,Morning Peak (7-10am),Saturday,4,1,0,10
+2026-04-04,CSMT-Kalyan,Afternoon (12-3pm),Saturday,4,1,0,0
+2026-04-04,CSMT-Kalyan,Evening Peak (5-8pm),Saturday,4,1,0,4
+2026-04-04,CSMT-Kalyan,Night (9pm-12am),Saturday,4,1,0,0
+2026-04-04,Panvel-CSMT,Morning Peak (7-10am),Saturday,4,1,0,4
+2026-04-04,Panvel-CSMT,Afternoon (12-3pm),Saturday,4,1,0,0
+2026-04-04,Panvel-CSMT,Evening Peak (5-8pm),Saturday,4,1,0,11
+2026-04-04,Panvel-CSMT,Night (9pm-12am),Saturday,4,1,0,0
+2026-04-04,Harbour Line,Morning Peak (7-10am),Saturday,4,1,0,8
+2026-04-04,Harbour Line,Afternoon (12-3pm),Saturday,4,1,0,3
+2026-04-04,Harbour Line,Evening Peak (5-8pm),Saturday,4,1,0,3
+2026-04-04,Harbour Line,Night (9pm-12am),Saturday,4,1,0,0
+2026-04-05,Churchgate-Virar,Morning Peak (7-10am),Sunday,4,1,0,16
+2026-04-05,Churchgate-Virar,Afternoon (12-3pm),Sunday,4,1,0,0
+2026-04-05,Churchgate-Virar,Evening Peak (5-8pm),Sunday,4,1,0,0
+2026-04-05,Churchgate-Virar,Night (9pm-12am),Sunday,4,1,0,2
+2026-04-05,CSMT-Kalyan,Morning Peak (7-10am),Sunday,4,1,0,12
+2026-04-05,CSMT-Kalyan,Afternoon (12-3pm),Sunday,4,1,0,1
+2026-04-05,CSMT-Kalyan,Evening Peak (5-8pm),Sunday,4,1,0,14
+2026-04-05,CSMT-Kalyan,Night (9pm-12am),Sunday,4,1,0,2
+2026-04-05,Panvel-CSMT,Morning Peak (7-10am),Sunday,4,1,0,11
+2026-04-05,Panvel-CSMT,Afternoon (12-3pm),Sunday,4,1,0,0
+2026-04-05,Panvel-CSMT,Evening Peak (5-8pm),Sunday,4,1,0,11
+2026-04-05,Panvel-CSMT,Night (9pm-12am),Sunday,4,1,0,3
+2026-04-05,Harbour Line,Morning Peak (7-10am),Sunday,4,1,0,18
+2026-04-05,Harbour Line,Afternoon (12-3pm),Sunday,4,1,0,4
+2026-04-05,Harbour Line,Evening Peak (5-8pm),Sunday,4,1,0,19
+2026-04-05,Harbour Line,Night (9pm-12am),Sunday,4,1,0,0
+2026-04-06,Churchgate-Virar,Morning Peak (7-10am),Monday,4,0,0,12
+2026-04-06,Churchgate-Virar,Afternoon (12-3pm),Monday,4,0,0,4
+2026-04-06,Churchgate-Virar,Evening Peak (5-8pm),Monday,4,0,0,23
+2026-04-06,Churchgate-Virar,Night (9pm-12am),Monday,4,0,0,5
+2026-04-06,CSMT-Kalyan,Morning Peak (7-10am),Monday,4,0,0,24
+2026-04-06,CSMT-Kalyan,Afternoon (12-3pm),Monday,4,0,0,8
+2026-04-06,CSMT-Kalyan,Evening Peak (5-8pm),Monday,4,0,0,23
+2026-04-06,CSMT-Kalyan,Night (9pm-12am),Monday,4,0,0,3
+2026-04-06,Panvel-CSMT,Morning Peak (7-10am),Monday,4,0,0,11
+2026-04-06,Panvel-CSMT,Afternoon (12-3pm),Monday,4,0,0,3
+2026-04-06,Panvel-CSMT,Evening Peak (5-8pm),Monday,4,0,0,16
+2026-04-06,Panvel-CSMT,Night (9pm-12am),Monday,4,0,0,2
+2026-04-06,Harbour Line,Morning Peak (7-10am),Monday,4,0,0,16
+2026-04-06,Harbour Line,Afternoon (12-3pm),Monday,4,0,0,1
+2026-04-06,Harbour Line,Evening Peak (5-8pm),Monday,4,0,0,6
+2026-04-06,Harbour Line,Night (9pm-12am),Monday,4,0,0,6
+2026-04-07,Churchgate-Virar,Morning Peak (7-10am),Tuesday,4,0,0,13
+2026-04-07,Churchgate-Virar,Afternoon (12-3pm),Tuesday,4,0,0,0
+2026-04-07,Churchgate-Virar,Evening Peak (5-8pm),Tuesday,4,0,0,12
+2026-04-07,Churchgate-Virar,Night (9pm-12am),Tuesday,4,0,0,6
+2026-04-07,CSMT-Kalyan,Morning Peak (7-10am),Tuesday,4,0,0,10
+2026-04-07,CSMT-Kalyan,Afternoon (12-3pm),Tuesday,4,0,0,5
+2026-04-07,CSMT-Kalyan,Evening Peak (5-8pm),Tuesday,4,0,0,22
+2026-04-07,CSMT-Kalyan,Night (9pm-12am),Tuesday,4,0,0,0
+2026-04-07,Panvel-CSMT,Morning Peak (7-10am),Tuesday,4,0,0,16
+2026-04-07,Panvel-CSMT,Afternoon (12-3pm),Tuesday,4,0,0,5
+2026-04-07,Panvel-CSMT,Evening Peak (5-8pm),Tuesday,4,0,0,12
+2026-04-07,Panvel-CSMT,Night (9pm-12am),Tuesday,4,0,0,2
+2026-04-07,Harbour Line,Morning Peak (7-10am),Tuesday,4,0,0,14
+2026-04-07,Harbour Line,Afternoon (12-3pm),Tuesday,4,0,0,0
+2026-04-07,Harbour Line,Evening Peak (5-8pm),Tuesday,4,0,0,17
+2026-04-07,Harbour Line,Night (9pm-12am),Tuesday,4,0,0,0
